@@ -6,6 +6,7 @@
 //
 
 import Sparkle
+import AppKit
 
 /// Sparkle update channel. Stable is the default; beta opts into pre-release builds.
 enum UpdateChannel: String, CaseIterable {
@@ -15,6 +16,10 @@ enum UpdateChannel: String, CaseIterable {
 
 final class UpdaterManager: NSObject, SPUUpdaterDelegate {
   static let shared = UpdaterManager()
+
+  static var isHebrewFork: Bool {
+    Bundle.main.object(forInfoDictionaryKey: "SnapzyHebrewFork") as? Bool == true
+  }
 
   /// Current channel from UserDefaults; missing or invalid value resolves to stable.
   static var channel: UpdateChannel {
@@ -30,7 +35,7 @@ final class UpdaterManager: NSObject, SPUUpdaterDelegate {
   private override init() {
     super.init()
     controller = SPUStandardUpdaterController(
-      startingUpdater: true,
+      startingUpdater: !Self.isHebrewFork,
       updaterDelegate: self,
       userDriverDelegate: nil
     )
@@ -38,6 +43,13 @@ final class UpdaterManager: NSObject, SPUUpdaterDelegate {
   }
 
   func checkForUpdates() {
+    // Upstream updates would replace this fork and remove its Hebrew resources.
+    if Self.isHebrewFork {
+      if let url = URL(string: "https://github.com/meir9884/Snapzy/releases") {
+        NSWorkspace.shared.open(url)
+      }
+      return
+    }
     DiagnosticLogger.shared.log(.info, .update, "Manual check for updates triggered")
     updater.checkForUpdates()
   }

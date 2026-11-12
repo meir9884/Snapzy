@@ -63,6 +63,12 @@
             "state": "translated",
             "value": "需要採取行動"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "נדרשת פעולה"
+          }
         }
       }
     },
@@ -128,6 +134,12 @@
             "state": "translated",
             "value": "僅在錄製時生效"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פעיל רק בזמן הקלטה"
+          }
         }
       }
     },
@@ -192,6 +204,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "標註編輯器中常用操作的快速鍵。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קיצורי דרך לפעולות נפוצות בעורך הסימונים."
           }
         }
       }
@@ -259,6 +277,12 @@
             "state": "translated",
             "value": "在編輯器中複製、釘選、上傳和遮蓋。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "העתקה, הצמדה, העלאה והסתרת מידע מתוך העורך."
+          }
         }
       }
     },
@@ -324,6 +348,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "編輯器內建按鍵，供參考。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מקשי העורך המובנים, לעיון."
           }
         }
       }
@@ -391,6 +421,12 @@
             "state": "translated",
             "value": "在編輯器中切換工具的單鍵。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מקשים בודדים להחלפת כלים בעורך."
+          }
         }
       }
     },
@@ -455,6 +491,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "用於在注釋編輯器中切換工具的單鍵快捷鍵。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קיצורי מקש יחיד להחלפת כלים בעורך הסימונים."
           }
         }
       }
@@ -521,6 +563,12 @@
             "state": "translated",
             "value": "於區域截圖疊加層中使用"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "המקש A פועל עם צילום אזור; צירוף המקשים ⇧⌘A\nפועל באופן עצמאי."
+          }
         }
       }
     },
@@ -585,6 +633,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "應用程式視窗截圖"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צילום יישום"
           }
         }
       }
@@ -651,6 +705,12 @@
             "state": "translated",
             "value": "單鍵 (A) 與「錄製螢幕」連動；修飾鍵組合 (⇧⌘A)\n可獨立使用。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "המקש A פועל עם הקלטת מסך; צירוף המקשים ⇧⌘A\nפועל באופן עצמאי."
+          }
         }
       }
     },
@@ -715,6 +775,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "應用程式視窗錄製"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הקלטת יישום"
           }
         }
       }
@@ -781,6 +847,12 @@
             "state": "translated",
             "value": "在本地尋找敏感文字並新增可編輯的模糊標註"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "איתור טקסט רגיש במכשיר והוספת סימוני טשטוש הניתנים לעריכה"
+          }
         }
       }
     },
@@ -845,6 +917,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "立即擷取目前聚焦的視窗，無需選取步驟"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צילום מיידי של החלון הפעיל, ללא שלב בחירה"
           }
         }
       }
@@ -911,6 +989,12 @@
             "state": "translated",
             "value": "選擇區域，直接標記，然後按 ⌘S 或 Enter 完成"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בחירת אזור, הוספת סימונים במקום וסיום באמצעות ⌘S או Enter"
+          }
         }
       }
     },
@@ -975,6 +1059,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "選擇要擷取的螢幕區域"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בחירת אזור לצילום"
           }
         }
       }
@@ -1041,6 +1131,12 @@
             "state": "translated",
             "value": "倒數後在凍結的螢幕上選取區域"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ספירה לאחור ולאחריה בחירת אזור במסך קפוא"
+          }
         }
       }
     },
@@ -1106,6 +1202,12 @@
             "state": "translated",
             "value": "倒數後擷取整個螢幕"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ספירה לאחור ולאחריה צילום מסך מלא"
+          }
         }
       }
     },
@@ -1170,6 +1272,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "立即擷取整個螢幕"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צילום מיידי של כל המסך"
           }
         }
       }
@@ -1237,6 +1345,12 @@
             "state": "translated",
             "value": "截圖、捲動截圖、OCR 等。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צילומי מסך, צילום בגלילה, זיהוי טקסט ועוד."
+          }
         }
       }
     },
@@ -1301,6 +1415,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "再次擷取上次選擇的區域"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צילום חוזר של האזור שנבחר קודם"
           }
         }
       }
@@ -1367,6 +1487,12 @@
             "state": "translated",
             "value": "截圖快速鍵"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קיצורי צילום"
+          }
         }
       }
     },
@@ -1431,6 +1557,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "從螢幕區域提取文本"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חילוץ טקסט מאזור במסך"
           }
         }
       }
@@ -1497,6 +1629,12 @@
             "state": "translated",
             "value": "一次開啟或關閉所有卡片快速鍵"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הפעלה או כיבוי של כל קיצורי הכרטיס בבת אחת"
+          }
         }
       }
     },
@@ -1561,6 +1699,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "卡片動作快速鍵"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קיצורי פעולות בכרטיס"
           }
         }
       }
@@ -1627,6 +1771,12 @@
             "state": "translated",
             "value": "僅在停留於卡片上時生效"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פעילים רק בריחוף מעל כרטיס"
+          }
         }
       }
     },
@@ -1691,6 +1841,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "快速存取卡片動作"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פעולות כרטיס הגישה המהירה"
           }
         }
       }
@@ -1757,6 +1913,12 @@
             "state": "translated",
             "value": "將指標停留在快速存取卡片上，然後按下快速鍵即可執行該動作。這些按鍵僅在指標位於卡片上時生效。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש לרחף מעל כרטיס גישה מהירה וללחוץ על קיצור להפעלת הפעולה. מקשים אלה פועלים רק כשהמצביע מעל כרטיס."
+          }
         }
       }
     },
@@ -1822,6 +1984,12 @@
             "state": "translated",
             "value": "將帶注釋的圖像上傳到雲端"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "העלאת תמונה מסומנת לענן"
+          }
         }
       }
     },
@@ -1886,6 +2054,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "顯示或隱藏雲端上傳歷史"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצגה או הסתרה של היסטוריית ההעלאות לענן"
           }
         }
       }
@@ -1953,6 +2127,12 @@
             "state": "translated",
             "value": "有衝突"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "התנגשות"
+          }
         }
       }
     },
@@ -2017,6 +2197,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "將帶注釋的圖像複製到剪貼板並關閉"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "העתקת התמונה המסומנת ללוח וסגירה"
           }
         }
       }
@@ -2083,6 +2269,12 @@
             "state": "translated",
             "value": "刪除當前錄製並取消。可選。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מחיקת ההקלטה הפעילה וביטולה. אופציונלי."
+          }
         }
       }
     },
@@ -2147,6 +2339,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "關閉後，你將無法在任何應用程式中使用鍵盤快速鍵來截圖或進行螢幕錄製；必須手動開啟 Snapzy 才能使用這些功能。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן יהיה לצלם או להקליט באמצעות קיצורי מקלדת מכל יישום. יהיה צורך לפתוח את Snapzy ידנית כדי להשתמש בתכונות הצילום."
           }
         }
       }
@@ -2213,6 +2411,12 @@
             "state": "translated",
             "value": "禁用鍵盤快捷鍵？"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "להשבית את קיצורי המקלדת?"
+          }
         }
       }
     },
@@ -2277,6 +2481,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "編輯最新擷取"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עריכת הצילום האחרון"
           }
         }
       }
@@ -2343,6 +2553,12 @@
             "state": "translated",
             "value": "在顯示預覽時開啟最新擷取的編輯器。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פתיחת העורך עבור הפריט האחרון שצולם, כל עוד התצוגה המקדימה שלו מוצגת"
+          }
         }
       }
     },
@@ -2407,6 +2623,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "在任何前景 App 都能使用鍵盤快速鍵截圖"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צילום מכל יישום"
           }
         }
       }
@@ -2473,6 +2695,12 @@
             "state": "translated",
             "value": "啟用快速鍵"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הפעלת קיצורי דרך"
+          }
         }
       }
     },
@@ -2537,6 +2765,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "使用 Fn 鍵的快速鍵需要「輔助使用」權限才能在其他 App 中生效。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קיצורים המשתמשים במקש Fn דורשים הרשאת נגישות כדי לפעול מיישומים אחרים."
           }
         }
       }
@@ -2603,6 +2837,12 @@
             "state": "translated",
             "value": "全局快捷鍵"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קיצורי דרך כלליים"
+          }
         }
       }
     },
@@ -2667,6 +2907,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "使用鍵盤快速鍵隨時截圖"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צילום מכל מקום באמצעות קיצורי מקלדת."
           }
         }
       }
@@ -2734,6 +2980,12 @@
             "state": "translated",
             "value": "Snapzy 回應的所有組合鍵，盡在一處。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כל צירופי המקשים ש־Snapzy מזהה, במקום אחד."
+          }
         }
       }
     },
@@ -2800,6 +3052,12 @@
             "state": "translated",
             "value": "開啟截圖歷史並切換面板模式。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פתיחת היסטוריית הצילומים וההקלטות והחלפת מצב החלונית."
+          }
         }
       }
     },
@@ -2864,6 +3122,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "歷史記錄快捷鍵"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קיצורי היסטוריה"
           }
         }
       }
@@ -2930,6 +3194,12 @@
             "state": "translated",
             "value": "管理擷取歷史記錄瀏覽器和浮動模式切換的鍵盤快速鍵。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ניהול קיצורי מקלדת לדפדפן היסטוריית הצילומים ולמעבר למצב צף."
+          }
         }
       }
     },
@@ -2994,6 +3264,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "如何禁用"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כיצד להשבית"
           }
         }
       }
@@ -3061,6 +3337,12 @@
             "state": "translated",
             "value": "App 內快捷鍵"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קיצורים בתוך היישום"
+          }
         }
       }
     },
@@ -3125,6 +3407,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "凍結螢幕，然後測量邊緣之間的間距與尺寸"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הקפאת המסך ומדידת מרווחים וגדלים בין קצוות"
           }
         }
       }
@@ -3192,6 +3480,12 @@
             "state": "translated",
             "value": "無衝突"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אין התנגשויות"
+          }
         }
       }
     },
@@ -3256,6 +3550,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "對於您當前啓用的 Snapzy 快捷方式，沒有找到重疊的 macOS 螢幕截圖快捷方式。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא נמצאו קיצורי צילום של macOS החופפים לקיצורי Snapzy הפעילים כעת."
           }
         }
       }
@@ -3322,6 +3622,12 @@
             "state": "translated",
             "value": "未檢測到衝突"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא זוהו התנגשויות"
+          }
         }
       }
     },
@@ -3386,6 +3692,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "打開圖像注釋編輯器"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פתיחת עורך הסימונים לתמונות"
           }
         }
       }
@@ -3452,6 +3764,12 @@
             "state": "translated",
             "value": "打開擷取歷史記錄瀏覽器"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פתיחת דפדפן היסטוריית הצילומים"
+          }
         }
       }
     },
@@ -3516,6 +3834,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "打開鍵盤快捷鍵設置"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פתיחת הגדרות קיצורי המקלדת"
           }
         }
       }
@@ -3582,6 +3906,12 @@
             "state": "translated",
             "value": "打開影片編輯工具"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פתיחת כלי עריכת הווידאו"
+          }
         }
       }
     },
@@ -3647,6 +3977,12 @@
             "state": "translated",
             "value": "暫停或恢復當前錄製。可選。推薦：⌘⇧Space."
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "השהיה או המשך של הקלטה פעילה. אופציונלי. מומלץ: ⌘⇧Space."
+          }
         }
       }
     },
@@ -3711,6 +4047,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "放大螢幕，點擊像素即可拷貝其十六進位色碼"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הגדלת המסך ולחיצה על פיקסל להעתקת הצבע ההקסדצימלי שלו"
           }
         }
       }
@@ -3778,6 +4120,12 @@
             "state": "translated",
             "value": "編輯最近的截圖，並對懸停的卡片執行操作。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עריכת הצילום האחרון וביצוע פעולות בכרטיס שמעליו מרחפים."
+          }
         }
       }
     },
@@ -3842,6 +4190,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "快速訪問"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גישה מהירה"
           }
         }
       }
@@ -3908,6 +4262,12 @@
             "state": "translated",
             "value": "快速訪問預覽顯示在螢幕上時處於啟用狀態的快速鍵。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קיצורי דרך הפעילים כאשר תצוגת גישה מהירה מוצגת על המסך."
+          }
         }
       }
     },
@@ -3973,6 +4333,12 @@
             "state": "translated",
             "value": "開始螢幕錄製"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "התחלת הקלטת מסך"
+          }
         }
       }
     },
@@ -4037,6 +4403,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "按一下快速鍵以錄製新的按鍵。錄製時按 Backspace/Delete 可清除按鍵。按 Esc 取消。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לחיצה על קיצור להקלטת מקשים חדשים. בזמן ההקלטה, Backspace או Delete ינקו את הקיצור ו־Esc יבטל."
           }
         }
       }
@@ -4104,6 +4476,12 @@
             "state": "translated",
             "value": "錄製"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הקלטה"
+          }
         }
       }
     },
@@ -4170,6 +4548,12 @@
             "state": "translated",
             "value": "開始錄製，並在錄製過程中控制。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "התחלת הקלטה ושליטה בה בזמן פעולתה."
+          }
         }
       }
     },
@@ -4234,6 +4618,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "錄屏快捷鍵"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קיצורי הקלטה"
           }
         }
       }
@@ -4300,6 +4690,12 @@
             "state": "translated",
             "value": "注釋編輯器中使用的標準 macOS 快捷鍵。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קיצורי macOS רגילים שבהם משתמש עורך הסימונים."
+          }
         }
       }
     },
@@ -4364,6 +4760,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "重置為預設值"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "איפוס לברירות המחדל"
           }
         }
       }
@@ -4430,6 +4832,12 @@
             "state": "translated",
             "value": "重新錄製。可選。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "התחלה מחדש של ההקלטה. אופציונלי."
+          }
         }
       }
     },
@@ -4493,6 +4901,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "設定按鍵"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הגדרת מקש"
           }
         }
       }
@@ -4558,6 +4972,12 @@
             "state": "translated",
             "value": "設定快速鍵"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הגדרת קיצור"
+          }
         }
       }
     },
@@ -4622,6 +5042,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "打開鍵盤快速鍵浮層"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פתיחת חלונית קיצורי המקלדת"
           }
         }
       }
@@ -4689,6 +5115,12 @@
             "state": "translated",
             "value": "快捷鍵已關閉。使用工具列中的開關重新開啟。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קיצורי הדרך כבויים. ניתן להפעילם מחדש באמצעות המתג בסרגל הכלים."
+          }
         }
       }
     },
@@ -4753,6 +5185,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "按一下以錄製。錄製時按 Backspace/Delete 可清除按鍵。按 Esc 取消。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לחיצה להקלטה. בזמן ההקלטה, Backspace או Delete ינקו את הקיצור ו־Esc יבטל."
           }
         }
       }
@@ -4819,6 +5257,12 @@
             "state": "translated",
             "value": "Wählen Sie ein bestimmtes UI-Element aus"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הדגשה חיה של רכיב נגיש בממשק ולחיצה לצילומו"
+          }
         }
       }
     },
@@ -4883,6 +5327,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "關閉重疊的 macOS 快捷方式，以避免與您保持啓用的 Snapzy 快捷方式發生衝突。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש לכבות את קיצורי macOS החופפים כדי למנוע התנגשויות עם קיצורי Snapzy שנשארו פעילים."
           }
         }
       }
@@ -4949,6 +5399,12 @@
             "state": "translated",
             "value": "macOS 螢幕截圖快捷鍵與 Snapzy 重疊"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קיצורי צילום המסך של macOS חופפים ל־Snapzy"
+          }
         }
       }
     },
@@ -5013,6 +5469,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "系統快捷鍵"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קיצורי המערכת"
           }
         }
       }
@@ -5079,6 +5541,12 @@
             "state": "translated",
             "value": "切換繪圖工具欄和圖層。可選。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצגה או הסתרה של סרגל הציור והשכבות. אופציונלי."
+          }
         }
       }
     },
@@ -5143,6 +5611,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "固定或取消固定注釋窗口"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצמדה או ביטול הצמדה של חלון הסימונים"
           }
         }
       }
@@ -5210,6 +5684,12 @@
             "state": "translated",
             "value": "開啟編輯器、雲端上傳和取色器。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פתיחת העורכים, ההעלאות לענן ובורר הצבעים."
+          }
         }
       }
     },
@@ -5274,6 +5754,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "工具快速鍵"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קיצורי כלים"
           }
         }
       }
@@ -5340,6 +5826,12 @@
             "state": "translated",
             "value": "注釋動作"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פעולות סימון"
+          }
         }
       }
     },
@@ -5404,6 +5896,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "注釋參考"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מקשי עזר לסימונים"
           }
         }
       }
@@ -5470,6 +5968,12 @@
             "state": "translated",
             "value": "注釋工具鍵"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מקשי כלי הסימון"
+          }
         }
       }
     },
@@ -5534,6 +6038,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "應用程式視窗截圖：%@"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צילום יישום: %@"
           }
         }
       }
@@ -5600,6 +6110,12 @@
             "state": "translated",
             "value": "應用程式影音：%@"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הקלטת יישום: %@"
+          }
         }
       }
     },
@@ -5664,6 +6180,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "自動遮蔽敏感資料"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הסתרה אוטומטית של מידע רגיש"
           }
         }
       }
@@ -5730,6 +6252,12 @@
             "state": "translated",
             "value": "取消/取消選擇"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ביטול / ביטול בחירה"
+          }
         }
       }
     },
@@ -5794,6 +6322,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "關閉"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סגירה"
           }
         }
       }
@@ -5860,6 +6394,12 @@
             "state": "translated",
             "value": "雲端上傳"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "העלאה לענן"
+          }
         }
       }
     },
@@ -5924,6 +6464,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "確認裁剪"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אישור החיתוך"
           }
         }
       }
@@ -5990,6 +6536,12 @@
             "state": "translated",
             "value": "複製並關閉"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "העתקה וסגירה"
+          }
         }
       }
     },
@@ -6054,6 +6606,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "在“設置”中自定義..."
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "התאמה בהגדרות…"
           }
         }
       }
@@ -6120,6 +6678,12 @@
             "state": "translated",
             "value": "刪除注釋"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מחיקת סימון"
+          }
         }
       }
     },
@@ -6184,6 +6748,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "內部注釋編輯器"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בתוך עורך הסימונים"
           }
         }
       }
@@ -6250,6 +6820,12 @@
             "state": "translated",
             "value": "微移 10px"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הזזה ב־10 פיקסלים"
+          }
         }
       }
     },
@@ -6314,6 +6890,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "微移注釋"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הזזת הסימון"
           }
         }
       }
@@ -6380,6 +6962,12 @@
             "state": "translated",
             "value": "僅錄屏"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בהקלטה בלבד"
+          }
         }
       }
     },
@@ -6444,6 +7032,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "重做"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ביצוע מחדש"
           }
         }
       }
@@ -6510,6 +7104,12 @@
             "state": "translated",
             "value": "另存為..."
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שמירה בשם…"
+          }
         }
       }
     },
@@ -6574,6 +7174,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "保存（完成）"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שמירה (סיום)"
           }
         }
       }
@@ -6640,6 +7246,12 @@
             "state": "translated",
             "value": "截圖+錄屏"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צילום מסך והקלטה"
+          }
         }
       }
     },
@@ -6704,6 +7316,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "僅截圖"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צילום מסך בלבד"
           }
         }
       }
@@ -6770,6 +7388,12 @@
             "state": "translated",
             "value": "截圖"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צילום"
+          }
         }
       }
     },
@@ -6834,6 +7458,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "工具"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כלים"
           }
         }
       }
@@ -6900,6 +7530,12 @@
             "state": "translated",
             "value": "按 Esc 或單擊外部即可關閉"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לחיצה על Esc או מחוץ לחלונית לסגירה"
+          }
         }
       }
     },
@@ -6964,6 +7600,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "鍵盤快捷鍵"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קיצורי מקלדת"
           }
         }
       }
@@ -7030,6 +7672,12 @@
             "state": "translated",
             "value": "切換針"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצמדה / ביטול הצמדה"
+          }
         }
       }
     },
@@ -7094,6 +7742,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "撤消"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ביטול הפעולה"
           }
         }
       }
@@ -7160,6 +7814,12 @@
             "state": "translated",
             "value": "單擊以記錄快捷方式。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לחיצה להקלטת קיצור."
+          }
         }
       }
     },
@@ -7224,6 +7884,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "按鍵..."
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש ללחוץ על המקשים..."
           }
         }
       }
@@ -7290,6 +7956,12 @@
             "state": "translated",
             "value": "交換"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "החלפה"
+          }
         }
       }
     },
@@ -7354,6 +8026,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "在此使用該快速鍵，並將此操作原本的快速鍵指定給另一個操作。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שימוש בקיצור כאן והעברת הקיצור הקודם של פעולה זו לפעולה האחרת."
           }
         }
       }
@@ -7420,6 +8098,12 @@
             "state": "translated",
             "value": "打開此快捷方式進行編輯。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש להפעיל קיצור זה כדי לערוך אותו."
+          }
         }
       }
     },
@@ -7484,6 +8168,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "由 %@"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בשימוש על ידי %@"
           }
         }
       }
@@ -7550,6 +8240,12 @@
             "state": "translated",
             "value": "使用已被 %@ 使用。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כבר בשימוש על ידי %@."
+          }
         }
       }
     },
@@ -7614,6 +8310,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "已被注釋編輯器中的 %@ 使用。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כבר בשימוש על ידי %@ בעורך הסימונים."
           }
         }
       }
@@ -7680,6 +8382,12 @@
             "state": "translated",
             "value": "匹配%@。 macOS 可能會獲勝。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תואם ל־%@. ייתכן ש־macOS יקבל עדיפות."
+          }
         }
       }
     },
@@ -7744,6 +8452,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "卡片快速鍵不支援 fn 鍵。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מקש fn אינו נתמך בקיצורי הכרטיס."
           }
         }
       }
@@ -7810,6 +8524,12 @@
             "state": "translated",
             "value": "請加入 ⌘、⌥ 或 ⌃。停留在卡片上時，卡片快速鍵會佔用該按鍵。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש להוסיף ⌘, ⌥ או ⌃. קיצורי הכרטיס לוכדים את המקש בזמן ריחוף."
+          }
         }
       }
     },
@@ -7874,6 +8594,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "停留在卡片上時會覆蓋「%@」。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מחליף את %@ בעת ריחוף מעל כרטיס."
           }
         }
       }
@@ -7940,6 +8666,12 @@
             "state": "translated",
             "value": "macOS 區域截取"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צילום אזור ב־macOS"
+          }
         }
       }
     },
@@ -8004,6 +8736,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "macOS 全螢幕截圖"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צילום מסך מלא ב־macOS"
           }
         }
       }
@@ -8070,6 +8808,12 @@
             "state": "translated",
             "value": "macOS 複製區域"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "העתקת אזור ב־macOS"
+          }
         }
       }
     },
@@ -8135,6 +8879,12 @@
             "state": "translated",
             "value": "macOS 複製全屏"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "העתקת מסך מלא ב־macOS"
+          }
         }
       }
     },
@@ -8199,6 +8949,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "macOS 螢幕截圖和錄製選項"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אפשרויות צילום מסך והקלטה של macOS"
           }
         }
       }

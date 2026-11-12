@@ -18,6 +18,7 @@ extension Notification.Name {
 
 @main
 struct SnapzyApp: App {
+  private let localizationBootstrap: Void = AppLanguageManager.prepareDefaultLanguage()
   @NSApplicationDelegateAdaptor(AppDelegate.self) var appDelegate
   @ObservedObject private var themeManager = ThemeManager.shared
 

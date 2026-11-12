@@ -63,6 +63,12 @@
             "state": "translated",
             "value": "毛玻璃"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "זכוכית"
+          }
         }
       }
     },
@@ -127,6 +133,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "漸層"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מעבר צבע"
           }
         }
       }
@@ -193,6 +205,12 @@
             "state": "translated",
             "value": "HUD"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תצוגה צפה"
+          }
         }
       }
     },
@@ -257,6 +275,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "純色"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צבע אחיד"
           }
         }
       }
@@ -323,6 +347,12 @@
             "state": "translated",
             "value": "底部居中"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "למטה במרכז"
+          }
         }
       }
     },
@@ -387,6 +417,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "居中"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "במרכז"
           }
         }
       }
@@ -453,6 +489,12 @@
             "state": "translated",
             "value": "頂部居中"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "למעלה במרכז"
+          }
         }
       }
     },
@@ -516,6 +558,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "以及所有 GitHub 貢獻者"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "וכל התורמים ב־GitHub"
           }
         }
       }
@@ -582,6 +630,12 @@
             "state": "translated",
             "value": "macOS 的螢幕截圖和錄屏"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צילום מסך והקלטה ל־macOS"
+          }
         }
       }
     },
@@ -645,6 +699,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "應用程式版本"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גרסת היישום"
           }
         }
       }
@@ -711,6 +771,12 @@
             "state": "translated",
             "value": "檢查更新"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בדיקת עדכונים"
+          }
         }
       }
     },
@@ -776,6 +842,12 @@
             "state": "translated",
             "value": "已檢查"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "נבדק"
+          }
         }
       }
     },
@@ -840,6 +912,12 @@
             "state": "translated",
             "value": "Discord 社群"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קהילת Discord"
+          }
         }
       }
     },
@@ -901,6 +979,12 @@
           }
         },
         "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "GitHub"
+          }
+        },
+        "he": {
           "stringUnit": {
             "state": "translated",
             "value": "GitHub"
@@ -969,6 +1053,12 @@
             "state": "translated",
             "value": "開發者"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "נוצר על ידי"
+          }
         }
       }
     },
@@ -1034,6 +1124,12 @@
             "state": "translated",
             "value": "報告錯誤"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "דיווח על תקלה"
+          }
         }
       }
     },
@@ -1097,6 +1193,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "收起"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצגת פחות"
           }
         }
       }
@@ -1162,6 +1264,12 @@
             "state": "translated",
             "value": "查看更多"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצגת עוד"
+          }
         }
       }
     },
@@ -1226,6 +1334,12 @@
             "state": "translated",
             "value": "特別鳴謝"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תודה מיוחדת"
+          }
         }
       }
     },
@@ -1289,6 +1403,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "支援"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תמיכה"
           }
         }
       }
@@ -1355,6 +1475,12 @@
             "state": "translated",
             "value": "支持 Snapzy"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תמיכה ב־Snapzy"
+          }
         }
       }
     },
@@ -1418,6 +1544,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "測試版"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בטא"
           }
         }
       }
@@ -1483,6 +1615,12 @@
             "state": "translated",
             "value": "測試版是早期預覽版本，可能包含錯誤或未完成的功能。如果您切換回穩定版，此測試版將保持安裝狀態，直到有更新的穩定版本發布。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גרסאות בטא הן גרסאות מוקדמות ועשויות להכיל תקלות או תכונות לא גמורות. בחזרה לערוץ היציב, גרסת הבטא תישאר מותקנת עד שתצא גרסה יציבה חדשה ממנה."
+          }
         }
       }
     },
@@ -1546,6 +1684,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "選擇您接收的版本類型"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בחירת ערוץ העדכונים"
           }
         }
       }
@@ -1611,6 +1755,12 @@
             "state": "translated",
             "value": "穩定版"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יציב"
+          }
         }
       }
     },
@@ -1675,6 +1825,12 @@
             "state": "translated",
             "value": "更新頻道"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ערוץ עדכונים"
+          }
         }
       }
     },
@@ -1738,6 +1894,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "在 GitHub 上檢視所有貢獻者"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצגת כל התורמים ב־GitHub"
           }
         }
       }
@@ -1804,6 +1966,12 @@
             "state": "translated",
             "value": "網站"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אתר האינטרנט"
+          }
         }
       }
     },
@@ -1867,6 +2035,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "備份"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גיבוי"
           }
         }
       }
@@ -1932,6 +2106,12 @@
             "state": "translated",
             "value": "config.toml 已準備就緒。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "config.toml מוכן."
+          }
         }
       }
     },
@@ -1995,6 +2175,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "請先授予設定檔案夾取用權限。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש להעניק תחילה גישה לתיקיית התצורה."
           }
         }
       }
@@ -2060,6 +2246,12 @@
             "state": "translated",
             "value": "授予一次 %@ 的取用權限，讓 Snapzy 建立 config.toml，並在啟動時套用直接編輯。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש להעניק גישה חד־פעמית אל %@ כדי ש־Snapzy יוכל ליצור את config.toml ולהחיל שינויים ישירים בהפעלה."
+          }
         }
       }
     },
@@ -2123,6 +2315,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "需要取用設定檔案夾"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "נדרשת גישה לתיקיית התצורה"
           }
         }
       }
@@ -2188,6 +2386,12 @@
             "state": "translated",
             "value": "選擇 %@，將 Snapzy 設定保存在預設 dotfiles 位置。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש לבחור %@ כדי לשמור את תצורת Snapzy במיקום ברירת המחדל של קובצי ההגדרות."
+          }
         }
       }
     },
@@ -2251,6 +2455,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "授予 %@ 的取用權限。如果檔案夾不存在，Snapzy 會自動建立。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש להעניק גישה אל %@. אם התיקייה אינה קיימת, Snapzy ייצור אותה אוטומטית."
           }
         }
       }
@@ -2316,6 +2526,12 @@
             "state": "translated",
             "value": "授予 %@ 的取用權限。如果缺少 config.toml，Snapzy 會在那裡建立。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש להעניק גישה אל %@. Snapzy ייצור שם את config.toml אם הוא חסר."
+          }
         }
       }
     },
@@ -2379,6 +2595,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "授予取用權限"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מתן גישה"
           }
         }
       }
@@ -2444,6 +2666,12 @@
             "state": "translated",
             "value": "授予設定檔案夾取用權限"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מתן גישה לתיקיית התצורה"
+          }
         }
       }
     },
@@ -2507,6 +2735,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "需要取用"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "נדרשת גישה"
           }
         }
       }
@@ -2572,6 +2806,12 @@
             "state": "translated",
             "value": "失敗"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "נכשל"
+          }
         }
       }
     },
@@ -2635,6 +2875,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "已排程"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בתור"
           }
         }
       }
@@ -2700,6 +2946,12 @@
             "state": "translated",
             "value": "需要確認"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "נדרשת בדיקה"
+          }
         }
       }
     },
@@ -2763,6 +3015,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "已同步"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מסונכרן"
           }
         }
       }
@@ -2828,6 +3086,12 @@
             "state": "translated",
             "value": "同步中"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מסנכרן"
+          }
         }
       }
     },
@@ -2891,6 +3155,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "config.toml 不再與 Snapzy 設定一致，可能已在 App 外被編輯。同步會用目前設定取代它。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "config.toml אינו תואם עוד להגדרות Snapzy וייתכן שנערך מחוץ ליישום. הסנכרון יחליף אותו בהגדרות הנוכחיות."
           }
         }
       }
@@ -2956,6 +3226,12 @@
             "state": "translated",
             "value": "同步 config.toml？"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לסנכרן את config.toml?"
+          }
         }
       }
     },
@@ -3019,6 +3295,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "目前設定會自動同步到 config.toml。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ההגדרות הנוכחיות יסונכרנו אוטומטית אל config.toml."
           }
         }
       }
@@ -3084,6 +3366,12 @@
             "state": "translated",
             "value": "config.toml 有外部變更。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש ב־config.toml שינויים חיצוניים."
+          }
         }
       }
     },
@@ -3147,6 +3435,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "同步已排程。Snapzy 稍後會更新 config.toml。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הסנכרון ממתין בתור. Snapzy יעדכן את config.toml בקרוב."
           }
         }
       }
@@ -3212,6 +3506,12 @@
             "state": "translated",
             "value": "config.toml 同步"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סנכרון config.toml"
+          }
         }
       }
     },
@@ -3275,6 +3575,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "已在 %@ 以目前設定更新 config.toml。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "config.toml עודכן מההגדרות הנוכחיות בשעה %@."
           }
         }
       }
@@ -3340,6 +3646,12 @@
             "state": "translated",
             "value": "config.toml 已與目前設定一致。上次檢查：%@。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "config.toml כבר תואם להגדרות הנוכחיות. נבדק לאחרונה בשעה %@."
+          }
         }
       }
     },
@@ -3403,6 +3715,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "正在將目前設定寫入 config.toml。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כותב את ההגדרות הנוכחיות אל config.toml."
           }
         }
       }
@@ -3468,6 +3786,12 @@
             "state": "translated",
             "value": "匯出"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ייצוא"
+          }
         }
       }
     },
@@ -3531,6 +3855,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "儲存可攜副本"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שמירת עותק נייד"
           }
         }
       }
@@ -3596,6 +3926,12 @@
             "state": "translated",
             "value": "設定匯出失敗。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ייצוא התצורה נכשל."
+          }
         }
       }
     },
@@ -3659,6 +3995,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "匯出 Snapzy 設定"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ייצוא תצורת Snapzy"
           }
         }
       }
@@ -3724,6 +4066,12 @@
             "state": "translated",
             "value": "已匯出設定備份。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גיבוי התצורה יוצא."
+          }
         }
       }
     },
@@ -3787,6 +4135,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "匯出備份"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ייצוא גיבוי"
           }
         }
       }
@@ -3852,6 +4206,12 @@
             "state": "translated",
             "value": "已將設定匯出到 %@"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "התצורה יוצאה אל %@"
+          }
         }
       }
     },
@@ -3915,6 +4275,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "授予取用權限"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מתן גישה"
           }
         }
       }
@@ -3980,6 +4346,12 @@
             "state": "translated",
             "value": "匯入"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ייבוא"
+          }
         }
       }
     },
@@ -4043,6 +4415,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "從 .toml 檔案取代"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "החלפה מקובץ ‎.toml"
           }
         }
       }
@@ -4108,6 +4486,12 @@
             "state": "translated",
             "value": "設定匯入失敗。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ייבוא התצורה נכשל."
+          }
         }
       }
     },
@@ -4171,6 +4555,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "設定匯入失敗，出現 %d 個錯誤。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ייבוא התצורה נכשל עם %d שגיאות."
           }
         }
       }
@@ -4236,6 +4626,12 @@
             "state": "translated",
             "value": "匯入 Snapzy 設定"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ייבוא תצורת Snapzy"
+          }
         }
       }
     },
@@ -4299,6 +4695,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "已匯入備份並取代 config.toml。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הגיבוי יובא ו־config.toml הוחלף."
           }
         }
       }
@@ -4364,6 +4766,12 @@
             "state": "translated",
             "value": "匯入備份"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ייבוא גיבוי"
+          }
         }
       }
     },
@@ -4427,6 +4835,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "已匯入 %d 項設定。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יובאו %d הגדרות תצורה."
           }
         }
       }
@@ -4492,6 +4906,12 @@
             "state": "translated",
             "value": "已匯入 %d 項設定，並有 %d 則警告。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יובאו %d הגדרות תצורה עם %d אזהרות."
+          }
         }
       }
     },
@@ -4555,6 +4975,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "開啟 config.toml"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פתיחת config.toml"
           }
         }
       }
@@ -4620,6 +5046,12 @@
             "state": "translated",
             "value": "已開啟 config.toml。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "config.toml נפתח."
+          }
         }
       }
     },
@@ -4683,6 +5115,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "無法開啟 config.toml。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן לפתוח את config.toml."
           }
         }
       }
@@ -4748,6 +5186,12 @@
             "state": "translated",
             "value": "開啟現有檔案"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פתיחת הקיים"
+          }
         }
       }
     },
@@ -4811,6 +5255,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "完成。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הפעולה הושלמה."
           }
         }
       }
@@ -4876,6 +5326,12 @@
             "state": "translated",
             "value": "恢復"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שחזור"
+          }
         }
       }
     },
@@ -4939,6 +5395,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "恢復預設值"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שחזור ברירות המחדל"
           }
         }
       }
@@ -5004,6 +5466,12 @@
             "state": "translated",
             "value": "確認後，Snapzy 會用預設值取代 config.toml，重置 App 設定，並清除雲端憑證。已儲存的擷取內容不會被刪除。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לאחר האישור, Snapzy יחליף את config.toml בערכי ברירת המחדל, יאפס את הגדרות היישום וינקה את פרטי ההתחברות לענן. הצילומים השמורים לא יימחקו."
+          }
         }
       }
     },
@@ -5067,6 +5535,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "要恢復預設設定嗎？"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לשחזר את הגדרות ברירת המחדל?"
           }
         }
       }
@@ -5132,6 +5606,12 @@
             "state": "translated",
             "value": "重置所有設定"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "איפוס כל ההגדרות"
+          }
         }
       }
     },
@@ -5195,6 +5675,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "無法恢復預設值。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן לשחזר את ברירות המחדל."
           }
         }
       }
@@ -5260,6 +5746,12 @@
             "state": "translated",
             "value": "已恢復預設值。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ברירות המחדל שוחזרו."
+          }
         }
       }
     },
@@ -5323,6 +5815,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "恢復預設值"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שחזור ברירות המחדל"
           }
         }
       }
@@ -5389,6 +5887,12 @@
             "state": "translated",
             "value": "整合"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שילובים"
+          }
         }
       }
     },
@@ -5453,6 +5957,12 @@
             "state": "translated",
             "value": "同步並開啟"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סנכרון ופתיחה"
+          }
         }
       }
     },
@@ -5516,6 +6026,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "立即同步"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סנכרון עכשיו"
           }
         }
       }
@@ -5582,6 +6098,12 @@
             "state": "translated",
             "value": "允許透過 snapzy:// URL 進行外部觸發"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אפשר הפעלה חיצונית באמצעות כתובות snapzy://"
+          }
         }
       }
     },
@@ -5646,6 +6168,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "URL Scheme 整合"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שילוב באמצעות סכמת כתובות"
           }
         }
       }
@@ -5712,6 +6240,12 @@
             "state": "translated",
             "value": "%@（未授予訪問權限）"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ (לא ניתנה גישה)"
+          }
         }
       }
     },
@@ -5776,6 +6310,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "正在計算..."
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מחשב..."
           }
         }
       }
@@ -5842,6 +6382,12 @@
             "state": "translated",
             "value": "啟動時檢查更新"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חיפוש עדכונים בהפעלה"
+          }
         }
       }
     },
@@ -5906,6 +6452,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "自動檢查"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בדיקה אוטומטית"
           }
         }
       }
@@ -5972,6 +6524,12 @@
             "state": "translated",
             "value": "選擇..."
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בחירה..."
+          }
         }
       }
     },
@@ -6036,6 +6594,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "選擇 Snapzy 儲存截圖與錄製的位置"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש לבחור היכן Snapzy ישמור צילומים והקלטות"
           }
         }
       }
@@ -6102,6 +6666,12 @@
             "state": "translated",
             "value": "儲存用於 App、截圖、錄影和崩潰診斷的本機日誌"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שמירת יומנים מקומיים לאבחון היישום, הצילום, ההקלטה והקריסות"
+          }
         }
       }
     },
@@ -6166,6 +6736,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "診斷日誌"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "רישום יומני אבחון"
           }
         }
       }
@@ -6232,6 +6808,12 @@
             "state": "translated",
             "value": "桌面/Snapzy"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Desktop/Snapzy"
+          }
         }
       }
     },
@@ -6296,6 +6878,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "在後台下載更新"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הורדת עדכונים ברקע"
           }
         }
       }
@@ -6362,6 +6950,12 @@
             "state": "translated",
             "value": "自動下載"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הורדה אוטומטית"
+          }
         }
       }
     },
@@ -6426,6 +7020,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "選擇 Snapzy 使用的語言"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בחירת שפת הממשק בכל Snapzy"
           }
         }
       }
@@ -6492,6 +7092,12 @@
             "state": "translated",
             "value": "重新啟動 Snapzy"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הפעלה מחדש של Snapzy"
+          }
         }
       }
     },
@@ -6556,6 +7162,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Snapzy 需要先結束並重新開啟，才能在整個應用程式中套用這次語言變更。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש לסגור ולפתוח מחדש את Snapzy כדי להחיל את שינוי השפה בכל היישום."
           }
         }
       }
@@ -6622,6 +7234,12 @@
             "state": "translated",
             "value": "重新啟動 Snapzy？"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "להפעיל מחדש את Snapzy?"
+          }
         }
       }
     },
@@ -6686,6 +7304,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "無法重新啟動 Snapzy"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן להפעיל מחדש את Snapzy"
           }
         }
       }
@@ -6752,6 +7376,12 @@
             "state": "translated",
             "value": "語言變更會在重新啟動後生效"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שינויי השפה יחולו לאחר הפעלה מחדש"
+          }
         }
       }
     },
@@ -6816,6 +7446,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "跟隨系統"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ברירת המחדל של המערכת"
           }
         }
       }
@@ -6882,6 +7518,12 @@
             "state": "translated",
             "value": "應用程式語言"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שפת היישום"
+          }
         }
       }
     },
@@ -6946,6 +7588,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "最後檢查"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "נבדק לאחרונה"
           }
         }
       }
@@ -7012,6 +7660,12 @@
             "state": "translated",
             "value": "在 macOS 26+ 上啟用半透明 Liquid Glass 效果。關閉以始終使用純色原生控件。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שימוש באפקט הזכוכית השקוף ב־macOS 26 ומעלה. כיבויו מחזיר פקדים מקומיים אטומים."
+          }
         }
       }
     },
@@ -7076,6 +7730,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Liquid Glass 效果"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אפקט זכוכית נוזלית"
           }
         }
       }
@@ -7142,6 +7802,12 @@
             "state": "translated",
             "value": "日誌檔案"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קובצי יומן"
+          }
         }
       }
     },
@@ -7206,6 +7872,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "保留 %d 天，每天一個診斷日誌檔案"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שמירת קובץ יומן אבחון יומי למשך %d ימים"
           }
         }
       }
@@ -7272,6 +7944,12 @@
             "state": "translated",
             "value": "日誌保留時間"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "משך שמירת היומנים"
+          }
         }
       }
     },
@@ -7336,6 +8014,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "從選單列存取 Snapzy。隱藏時，再次打開 Snapzy 以顯示設定。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גישה ל־Snapzy משורת התפריטים. כשהסמל מוסתר, ניתן לפתוח שוב את Snapzy כדי להציג את ההגדרות."
           }
         }
       }
@@ -7402,6 +8086,12 @@
             "state": "translated",
             "value": "顯示選單列圖示"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצגת סמל בשורת התפריטים"
+          }
         }
       }
     },
@@ -7466,6 +8156,12 @@
             "state": "translated",
             "value": "返回 (⌘[)"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אחורה (⌘[)"
+          }
         }
       }
     },
@@ -7529,6 +8225,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "前進 (⌘])"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קדימה (⌘])"
           }
         }
       }
@@ -7595,6 +8297,12 @@
             "state": "translated",
             "value": "永不"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מעולם לא"
+          }
         }
       }
     },
@@ -7659,6 +8367,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "沒有日誌"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אין יומנים"
           }
         }
       }
@@ -7725,6 +8439,12 @@
             "state": "translated",
             "value": "打開檔案夾"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פתיחת תיקייה"
+          }
         }
       }
     },
@@ -7789,6 +8509,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "開啟回報頁面"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פתיחת דף הדיווח"
           }
         }
       }
@@ -7855,6 +8581,12 @@
             "state": "translated",
             "value": "截圖與錄製完成時播放提示音"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "משוב קולי בעת צילום"
+          }
         }
       }
     },
@@ -7919,6 +8651,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "播放聲音"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "השמעת צלילים"
           }
         }
       }
@@ -7985,6 +8723,12 @@
             "state": "translated",
             "value": "遇到問題時在 %@ 傳送診斷日誌包"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שליחת חבילת יומני אבחון בכתובת %@ כאשר מתרחשת תקלה"
+          }
         }
       }
     },
@@ -8049,6 +8793,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "回報問題"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "דיווח על בעיה"
           }
         }
       }
@@ -8115,6 +8865,12 @@
             "state": "translated",
             "value": "重新啟動"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הפעלה מחדש"
+          }
         }
       }
     },
@@ -8179,6 +8935,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "再次顯示歡迎教學"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצגת מדריך הפתיחה שוב"
           }
         }
       }
@@ -8245,6 +9007,12 @@
             "state": "translated",
             "value": "重啟引導頁"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הפעלה מחדש של מדריך הפתיחה"
+          }
         }
       }
     },
@@ -8309,6 +9077,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "保存在這裡"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שמירה כאן"
           }
         }
       }
@@ -8375,6 +9149,12 @@
             "state": "translated",
             "value": "儲存位置"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מיקום השמירה"
+          }
         }
       }
     },
@@ -8439,6 +9219,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "外觀"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מראה"
           }
         }
       }
@@ -8505,6 +9291,12 @@
             "state": "translated",
             "value": "診斷"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אבחון"
+          }
         }
       }
     },
@@ -8569,6 +9361,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "說明"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עזרה"
           }
         }
       }
@@ -8635,6 +9433,12 @@
             "state": "translated",
             "value": "啟動"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הפעלה"
+          }
         }
       }
     },
@@ -8699,6 +9503,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "儲存空間"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אחסון"
           }
         }
       }
@@ -8765,6 +9575,12 @@
             "state": "translated",
             "value": "軟體更新"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עדכוני תוכנה"
+          }
         }
       }
     },
@@ -8828,6 +9644,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "設定分類"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קטגוריות ההגדרות"
           }
         }
       }
@@ -8895,6 +9717,12 @@
             "state": "translated",
             "value": "沒有符合的設定"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אין הגדרות תואמות"
+          }
         }
       }
     },
@@ -8961,6 +9789,12 @@
             "state": "translated",
             "value": "搜尋設定"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חיפוש בהגדרות"
+          }
         }
       }
     },
@@ -9025,6 +9859,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "登入時啟動 Snapzy"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הפעלת Snapzy בעת הכניסה למחשב"
           }
         }
       }
@@ -9091,6 +9931,12 @@
             "state": "translated",
             "value": "登入時啟動"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הפעלה בכניסה"
+          }
         }
       }
     },
@@ -9155,6 +10001,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "選擇您喜歡的外觀"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בחירת המראה המועדף"
           }
         }
       }
@@ -9221,6 +10073,12 @@
             "state": "translated",
             "value": "主題"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ערכת נושא"
+          }
         }
       }
     },
@@ -9285,6 +10143,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "適用於歷史記錄視窗與浮動面板"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חל על חלון ההיסטוריה ועל החלונית הצפה"
           }
         }
       }
@@ -9351,6 +10215,12 @@
             "state": "translated",
             "value": "背景樣式"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סגנון הרקע"
+          }
         }
       }
     },
@@ -9415,6 +10285,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "截圖與錄製儲存位置"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אחסון צילומים והקלטות"
           }
         }
       }
@@ -9481,6 +10357,12 @@
             "state": "translated",
             "value": "所有截圖與錄製檔案將移到垃圾桶並從歷史紀錄中移除。此操作在 Snapzy 中無法還原。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כל קובצי הצילומים וההקלטות יועברו לפח ויוסרו מההיסטוריה. לא ניתן לבטל פעולה זו מתוך Snapzy."
+          }
         }
       }
     },
@@ -9545,6 +10427,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "確定要清空全部歷史紀錄？"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לנקות את כל ההיסטוריה?"
           }
         }
       }
@@ -9611,6 +10499,12 @@
             "state": "translated",
             "value": "清空歷史紀錄"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ניקוי ההיסטוריה"
+          }
         }
       }
     },
@@ -9675,6 +10569,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "清空"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ניקוי"
           }
         }
       }
@@ -9741,6 +10641,12 @@
             "state": "translated",
             "value": "將所有截圖與錄製移到垃圾桶並清空歷史紀錄"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "העברת כל הצילומים וההקלטות לפח וניקוי ההיסטוריה"
+          }
         }
       }
     },
@@ -9806,6 +10712,12 @@
             "state": "translated",
             "value": "清空全部歷史紀錄"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ניקוי כל ההיסטוריה"
+          }
         }
       }
     },
@@ -9870,6 +10782,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "清除所選項目"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ניקוי"
           }
         }
       }
@@ -9937,6 +10855,12 @@
             "state": "translated",
             "value": "收合"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צמצום"
+          }
         }
       }
     },
@@ -10001,6 +10925,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "全部"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הכול"
           }
         }
       }
@@ -10067,6 +10997,12 @@
             "state": "translated",
             "value": "開啟浮動面板時顯示的篩選方式"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "המסנן המוצג בפתיחת החלונית הצפה"
+          }
         }
       }
     },
@@ -10131,6 +11067,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "GIF"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קובצי GIF"
           }
         }
       }
@@ -10197,6 +11139,12 @@
             "state": "translated",
             "value": "螢幕截圖"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צילומי מסך"
+          }
         }
       }
     },
@@ -10261,6 +11209,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "預設篩選"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מסנן ברירת מחדל"
           }
         }
       }
@@ -10327,6 +11281,12 @@
             "state": "translated",
             "value": "影片"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סרטונים"
+          }
         }
       }
     },
@@ -10391,6 +11351,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "刪除早於 %d 天的截圖與錄製"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מחיקת צילומים והקלטות בני יותר מ־%d ימים"
           }
         }
       }
@@ -10457,6 +11423,12 @@
             "state": "translated",
             "value": "將所選的 %d 個項目移到垃圾桶並從歷史紀錄中移除。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "העברת %d פריטים שנבחרו לפח והסרתם מההיסטוריה."
+          }
         }
       }
     },
@@ -10521,6 +11493,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "刪除所選項目？"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "למחוק את הפריטים שנבחרו?"
           }
         }
       }
@@ -10587,6 +11565,12 @@
             "state": "translated",
             "value": "已刪除 %d 項"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "נמחקו %d פריטים"
+          }
         }
       }
     },
@@ -10651,6 +11635,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "顯示"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תצוגה"
           }
         }
       }
@@ -10718,6 +11708,12 @@
             "state": "translated",
             "value": "截圖或錄製螢幕後，它們會顯示在這裡。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש לצלם את המסך או להקליט אותו כדי לראות כאן את התוצאות."
+          }
         }
       }
     },
@@ -10783,6 +11779,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "尚無擷取內容"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עדיין אין צילומים או הקלטות"
           }
         }
       }
@@ -10850,6 +11852,12 @@
             "state": "translated",
             "value": "尚無 GIF"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עדיין אין קובצי GIF"
+          }
         }
       }
     },
@@ -10915,6 +11923,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "找不到相符項目"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא נמצאו תוצאות תואמות"
           }
         }
       }
@@ -10982,6 +11996,12 @@
             "state": "translated",
             "value": "尚無截圖"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עדיין אין צילומי מסך"
+          }
         }
       }
     },
@@ -11047,6 +12067,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "尚無影片"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עדיין אין סרטונים"
           }
         }
       }
@@ -11114,6 +12140,12 @@
             "state": "translated",
             "value": "請嘗試其他搜尋字詞。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כדאי לנסות מונח חיפוש אחר."
+          }
         }
       }
     },
@@ -11178,6 +12210,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "檔案遺失"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הקובץ חסר"
           }
         }
       }
@@ -11244,6 +12282,12 @@
             "state": "translated",
             "value": "顯示浮動面板，以便快速存取最近的截圖與錄製"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצגת חלונית צפה לגישה מהירה לצילומים ולהקלטות האחרונים"
+          }
         }
       }
     },
@@ -11309,6 +12353,12 @@
             "state": "translated",
             "value": "浮動面板"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חלונית צפה"
+          }
         }
       }
     },
@@ -11373,6 +12423,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "啟用浮動面板"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הפעלת חלונית צפה"
           }
         }
       }
@@ -11440,6 +12496,12 @@
             "state": "translated",
             "value": "搜尋擷取內容"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חיפוש צילומים והקלטות"
+          }
         }
       }
     },
@@ -11504,6 +12566,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "永久保留截圖與錄製"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שמירת צילומים והקלטות ללא הגבלת זמן"
           }
         }
       }
@@ -11570,6 +12638,12 @@
             "state": "translated",
             "value": "歷史記錄中儲存的截圖與錄製數量上限"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מספר הפריטים המרבי לשמירה בהיסטוריה"
+          }
         }
       }
     },
@@ -11634,6 +12708,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "歷史紀錄最多可儲存的項目數"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מספר פריטים מרבי לשמירה"
           }
         }
       }
@@ -11700,6 +12780,12 @@
             "state": "translated",
             "value": "浮動面板中顯示項目的最大數量"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מספר הפריטים המרבי להצגה בחלונית הצפה"
+          }
         }
       }
     },
@@ -11764,6 +12850,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "面板中最多顯示的項目數"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מספר פריטים מרבי להצגה"
           }
         }
       }
@@ -11830,6 +12922,12 @@
             "state": "translated",
             "value": "打開檔案夾"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פתיחת תיקייה"
+          }
         }
       }
     },
@@ -11894,6 +12992,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "選擇浮動面板在螢幕上的顯示位置"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בחירת מיקום החלונית הצפה על המסך"
           }
         }
       }
@@ -11960,6 +13064,12 @@
             "state": "translated",
             "value": "面板位置"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מיקום החלונית"
+          }
         }
       }
     },
@@ -12024,6 +13134,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "調整浮動面板與其預覽卡片的大小"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שינוי גודל החלונית הצפה וכרטיסי התצוגה המקדימה"
           }
         }
       }
@@ -12090,6 +13206,12 @@
             "state": "translated",
             "value": "大"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גדול"
+          }
         }
       }
     },
@@ -12154,6 +13276,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "小"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קטן"
           }
         }
       }
@@ -12220,6 +13348,12 @@
             "state": "translated",
             "value": "面板大小"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גודל החלונית"
+          }
         }
       }
     },
@@ -12284,6 +13418,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "固定面板 (⌘P)"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצמדת החלונית (⌘P)"
           }
         }
       }
@@ -12350,6 +13490,12 @@
             "state": "translated",
             "value": "自動刪除"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ניקוי אוטומטי לאחר"
+          }
         }
       }
     },
@@ -12414,6 +13560,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "保留時間"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תקופת שמירה"
           }
         }
       }
@@ -12481,6 +13633,12 @@
             "state": "translated",
             "value": "依檔案名稱搜尋"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חיפוש לפי שם קובץ"
+          }
         }
       }
     },
@@ -12545,6 +13703,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "全選"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בחירת הכול"
           }
         }
       }
@@ -12611,6 +13775,12 @@
             "state": "translated",
             "value": "已選 %d 項"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "נבחרו %d"
+          }
         }
       }
     },
@@ -12675,6 +13845,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "儲存空間"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אחסון"
           }
         }
       }
@@ -12742,6 +13918,12 @@
             "state": "translated",
             "value": "任何時間"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בכל זמן"
+          }
         }
       }
     },
@@ -12806,6 +13988,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "在浮動和展開模式之間切換"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מעבר בין מצב צף למצב מורחב"
           }
         }
       }
@@ -12872,6 +14060,12 @@
             "state": "translated",
             "value": "切換展開"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הרחבה או צמצום"
+          }
         }
       }
     },
@@ -12936,6 +14130,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "取消固定面板 (⌘P)"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ביטול הצמדת החלונית (⌘P)"
           }
         }
       }
@@ -13002,6 +14202,12 @@
             "state": "translated",
             "value": "上傳至雲端"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "העלאה לענן"
+          }
         }
       }
     },
@@ -13066,6 +14272,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "已上傳至雲端"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הועלה לענן"
           }
         }
       }
@@ -13132,6 +14344,12 @@
             "state": "translated",
             "value": "已上傳至雲端並複製連結"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הועלה לענן והקישור הועתק"
+          }
         }
       }
     },
@@ -13197,6 +14415,12 @@
             "state": "translated",
             "value": "正在上傳至雲端..."
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מעלה לענן..."
+          }
         }
       }
     },
@@ -13260,6 +14484,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "App"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יישום"
           }
         }
       }
@@ -13325,6 +14555,12 @@
             "state": "translated",
             "value": "截圖"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צילום"
+          }
         }
       }
     },
@@ -13388,6 +14624,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "自訂"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מותאם אישית"
           }
         }
       }
@@ -13453,6 +14695,12 @@
             "state": "translated",
             "value": "預設"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ברירת מחדל"
+          }
         }
       }
     },
@@ -13516,6 +14764,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "選單列圖示"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סמל שורת התפריטים"
           }
         }
       }
@@ -13581,6 +14835,12 @@
             "state": "translated",
             "value": "選擇內建圖示，或按 + 或拖放 PNG 加入自訂圖示（建議 18×18）。圖示在選單列中以單色樣板呈現。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בחירת סמל מובנה, לחיצה על + או גרירת PNG להוספת סמל משלך (מומלץ 18×18). הסמלים מוצגים בגוון יחיד בשורת התפריטים."
+          }
         }
       }
     },
@@ -13644,6 +14904,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "輸入 PNG…"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ייבוא PNG…"
           }
         }
       }
@@ -13709,6 +14975,12 @@
             "state": "translated",
             "value": "無法讀取所選檔案。請選擇有效的 PNG 圖片。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן לקרוא את הקובץ שנבחר. יש לבחור תמונת PNG תקינה."
+          }
         }
       }
     },
@@ -13772,6 +15044,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "輸入失敗"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הייבוא נכשל"
           }
         }
       }
@@ -13837,6 +15115,12 @@
             "state": "translated",
             "value": "使用開關在選單列中顯示或隱藏項目。拖曳控制柄可在區段內重新排序。隱藏的功能仍可透過鍵盤快捷鍵使用。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הפעלה או כיבוי של פריטים כדי להציגם או להסתירם בשורת התפריטים. ניתן לגרור את הידית לשינוי הסדר בתוך מקטע. תכונות מוסתרות נשארות זמינות באמצעות קיצורי מקלדת."
+          }
         }
       }
     },
@@ -13900,6 +15184,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "錄製"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הקלטה"
           }
         }
       }
@@ -13965,6 +15255,12 @@
             "state": "translated",
             "value": "移除"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הסרה"
+          }
         }
       }
     },
@@ -14029,6 +15325,12 @@
             "state": "translated",
             "value": "重置為預設值"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "איפוס לברירות המחדל"
+          }
         }
       }
     },
@@ -14092,6 +15394,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "工具"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כלים"
           }
         }
       }
@@ -14158,6 +15466,12 @@
             "state": "translated",
             "value": "關於"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אודות"
+          }
         }
       }
     },
@@ -14221,6 +15535,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "進階"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מתקדם"
           }
         }
       }
@@ -14287,6 +15607,12 @@
             "state": "translated",
             "value": "標註"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סימונים"
+          }
         }
       }
     },
@@ -14351,6 +15677,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "截圖"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צילום"
           }
         }
       }
@@ -14417,6 +15749,12 @@
             "state": "translated",
             "value": "雲"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ענן"
+          }
         }
       }
     },
@@ -14480,6 +15818,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "命令列"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שורת הפקודה"
           }
         }
       },
@@ -14547,6 +15891,12 @@
             "state": "translated",
             "value": "通用"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כללי"
+          }
         }
       }
     },
@@ -14612,6 +15962,12 @@
             "state": "translated",
             "value": "歷史紀錄"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "היסטוריה"
+          }
         }
       }
     },
@@ -14675,6 +16031,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "選單列"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שורת התפריטים"
           }
         }
       }
@@ -14741,6 +16103,12 @@
             "state": "translated",
             "value": "權限"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הרשאות"
+          }
         }
       }
     },
@@ -14806,6 +16174,12 @@
             "state": "translated",
             "value": "快速訪問"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גישה מהירה"
+          }
         }
       }
     },
@@ -14870,6 +16244,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "鍵盤快速鍵"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קיצורי דרך"
           }
         }
       }

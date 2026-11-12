@@ -63,6 +63,12 @@
             "state": "translated",
             "value": "%@ 為 %@"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ עבור %@"
+          }
         }
       }
     },
@@ -127,6 +133,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "複製檔案"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "העתקת קובץ"
           }
         }
       }
@@ -193,6 +205,12 @@
             "state": "translated",
             "value": "自動複製到剪貼板"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "העתקה אוטומטית ללוח"
+          }
         }
       }
     },
@@ -257,6 +275,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "打開注釋編輯器"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פתיחת עורך הסימונים"
           }
         }
       }
@@ -323,6 +347,12 @@
             "state": "translated",
             "value": "擷取後開啟標註編輯器"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פתיחת עורך הסימונים לאחר הצילום"
+          }
         }
       }
     },
@@ -387,6 +417,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "保存"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שמירה"
           }
         }
       }
@@ -453,6 +489,12 @@
             "state": "translated",
             "value": "保存到導出位置"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שמירה במיקום הייצוא"
+          }
         }
       }
     },
@@ -517,6 +559,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "通過快速操作顯示疊加"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצגת חלונית עם פעולות מהירות"
           }
         }
       }
@@ -583,6 +631,12 @@
             "state": "translated",
             "value": "螢幕錄製"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הקלטה"
+          }
         }
       }
     },
@@ -647,6 +701,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "截圖"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צילום מסך"
           }
         }
       }
@@ -713,6 +773,12 @@
             "state": "translated",
             "value": "空"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ריק"
+          }
         }
       }
     },
@@ -777,6 +843,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "截圖或錄製進行中時無法清除快取。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן לנקות את המטמון במהלך צילום או הקלטה."
           }
         }
       }
@@ -843,6 +915,12 @@
             "state": "translated",
             "value": "背景剪切失敗：%@"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הסרת הרקע נכשלה: %@"
+          }
         }
       }
     },
@@ -907,6 +985,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "背景剪切失敗。請再試一次。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הסרת הרקע נכשלה. יש לנסות שוב."
           }
         }
       }
@@ -973,6 +1057,12 @@
             "state": "translated",
             "value": "無法將剪切結果轉換為圖像。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן להמיר את תוצאת הסרת הרקע לתמונה."
+          }
         }
       }
     },
@@ -1037,6 +1127,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "在所選區域中未檢測到前景主體。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא זוהה נושא בחזית האזור שנבחר."
           }
         }
       }
@@ -1103,6 +1199,12 @@
             "state": "translated",
             "value": "未檢測到主體。嘗試在主題周圍選擇一個更緊湊的區域。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא זוהה נושא. כדאי לבחור אזור מצומצם יותר סביב הנושא."
+          }
         }
       }
     },
@@ -1167,6 +1269,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "無法處理剪切圖像。請再試一次。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן לעבד את התמונה לאחר הסרת הרקע. יש לנסות שוב."
           }
         }
       }
@@ -1233,6 +1341,12 @@
             "state": "translated",
             "value": "背景剪切需要 macOS 14 或更高版本。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הסרת רקע דורשת macOS 14 ומעלה."
+          }
         }
       }
     },
@@ -1297,6 +1411,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "稍等，仍在讀取文字…"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עוד רגע, עדיין קורא את הטקסט…"
           }
         }
       }
@@ -1363,6 +1483,12 @@
             "state": "translated",
             "value": "擷取中..."
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מצלם..."
+          }
         }
       }
     },
@@ -1427,6 +1553,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "複製連結"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "העתקת קישור"
           }
         }
       }
@@ -1493,6 +1625,12 @@
             "state": "translated",
             "value": "正在擷取內容..."
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מחלץ תוכן..."
+          }
         }
       }
     },
@@ -1557,6 +1695,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "無法轉換圖像以進行 OCR 處理"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "המרת התמונה לעיבוד זיהוי טקסט נכשלה"
           }
         }
       }
@@ -1623,6 +1767,12 @@
             "state": "translated",
             "value": "連結已複製到剪貼簿"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הקישור הועתק ללוח"
+          }
         }
       }
     },
@@ -1687,6 +1837,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "偵測到連結"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "זוהה קישור"
           }
         }
       }
@@ -1753,6 +1909,12 @@
             "state": "translated",
             "value": "偵測到 %d 個連結"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "זוהו %d קישורים"
+          }
         }
       }
     },
@@ -1817,6 +1979,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "在所選區域中找不到文本"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא נמצא טקסט באזור שנבחר"
           }
         }
       }
@@ -1883,6 +2051,12 @@
             "state": "translated",
             "value": "文字已複製"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הטקסט הועתק"
+          }
         }
       }
     },
@@ -1947,6 +2121,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Snapzy 無法辨識所選區域中的文字。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snapzy לא הצליח לזהות טקסט באזור שנבחר."
           }
         }
       }
@@ -2013,6 +2193,12 @@
             "state": "translated",
             "value": "OCR 辨識失敗"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "זיהוי הטקסט נכשל"
+          }
         }
       }
     },
@@ -2077,6 +2263,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Snapzy 在所選區域中找不到可辨識的文字。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snapzy לא מצא טקסט קריא באזור שנבחר."
           }
         }
       }
@@ -2143,6 +2335,12 @@
             "state": "translated",
             "value": "未偵測到文字"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא זוהה טקסט"
+          }
         }
       }
     },
@@ -2207,6 +2405,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "全部開啟"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פתיחת הכול"
           }
         }
       }
@@ -2273,6 +2477,12 @@
             "state": "translated",
             "value": "開啟 %@"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פתיחת %@"
+          }
         }
       }
     },
@@ -2337,6 +2547,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "QR 碼"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קודי QR"
           }
         }
       }
@@ -2403,6 +2619,12 @@
             "state": "translated",
             "value": "偵測到 QR 碼，但 Snapzy 只能複製文字型 QR 內容。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "זוהה קוד QR, אך Snapzy יכול להעתיק רק תוכן QR מבוסס טקסט."
+          }
         }
       }
     },
@@ -2467,6 +2689,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "OCR 識別失敗：%@"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "זיהוי הטקסט נכשל: %@"
           }
         }
       }
@@ -2534,6 +2762,12 @@
             "state": "translated",
             "value": "自訂 OCR 端點傳回錯誤 (HTTP %d)"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "נקודת הקצה המותאמת לזיהוי טקסט החזירה שגיאה (HTTP %d)"
+          }
         }
       }
     },
@@ -2599,6 +2833,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "無法為 OCR 請求編碼影像"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קידוד התמונה לבקשת זיהוי הטקסט נכשל"
           }
         }
       }
@@ -2666,6 +2906,12 @@
             "state": "translated",
             "value": "自訂 OCR 端點 URL 無效"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כתובת נקודת הקצה המותאמת לזיהוי טקסט אינה תקינה"
+          }
         }
       }
     },
@@ -2731,6 +2977,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "自訂 OCR 端點傳回了無法讀取或為空的響應"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "נקודת הקצה המותאמת לזיהוי טקסט החזירה תגובה ריקה או לא קריאה"
           }
         }
       }
@@ -2798,6 +3050,12 @@
             "state": "translated",
             "value": "自訂 OCR 端點拒絕了請求 — 請檢查 API 金鑰"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "נקודת הקצה המותאמת לזיהוי טקסט דחתה את הבקשה — יש לבדוק את מפתח ה־API"
+          }
         }
       }
     },
@@ -2864,6 +3122,12 @@
             "state": "translated",
             "value": "無法連線到自訂 OCR 端點：%s"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן להגיע לנקודת הקצה המותאמת לזיהוי טקסט: %@"
+          }
         }
       }
     },
@@ -2928,6 +3192,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "波紋擴展速度(%@s)"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מהירות התרחבות הגלים (%@ שניות)"
           }
         }
       }
@@ -2994,6 +3264,12 @@
             "state": "translated",
             "value": "動畫持續時間"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "משך ההנפשה"
+          }
         }
       }
     },
@@ -3058,6 +3334,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "編輯器保持開啟時，在放開完成後將 Snapzy 帶到前景並聚焦 標註"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כאשר העורך נשאר פתוח, הבאת Snapzy לחזית ומיקוד עורך הסימונים לאחר השחרור"
           }
         }
       }
@@ -3124,6 +3406,12 @@
             "state": "translated",
             "value": "放開後重新啟用編輯器"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הפעלה מחדש לאחר שחרור"
+          }
         }
       }
     },
@@ -3188,6 +3476,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "每次詢問"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לשאול בכל פעם"
           }
         }
       }
@@ -3254,6 +3548,12 @@
             "state": "translated",
             "value": "選擇開啟 標註 時若剪貼簿中有圖片要執行的動作"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בחירת הפעולה כאשר תמונה זמינה בלוח בעת פתיחת עורך הסימונים"
+          }
         }
       }
     },
@@ -3318,6 +3618,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "不執行動作"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ללא פעולה"
           }
         }
       }
@@ -3384,6 +3690,12 @@
             "state": "translated",
             "value": "自動載入"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "טעינה אוטומטית"
+          }
         }
       }
     },
@@ -3448,6 +3760,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "開啟 標註 時的剪貼簿圖片"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תמונה מהלוח בפתיחת עורך הסימונים"
           }
         }
       }
@@ -3514,6 +3832,12 @@
             "state": "translated",
             "value": "成功拖放到其他 App 後，自動關閉標註編輯器"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סגירה אוטומטית של עורך הסימונים לאחר גרירה מוצלחת ליישום"
+          }
         }
       }
     },
@@ -3578,6 +3902,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "放開後關閉"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סגירה לאחר שחרור"
           }
         }
       }
@@ -3645,6 +3975,12 @@
             "state": "translated",
             "value": "關閉記住上次工具時使用的工具"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הכלי הנבחר כשזכירת הכלי האחרון כבויה"
+          }
         }
       }
     },
@@ -3710,6 +4046,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "預設工具"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כלי ברירת מחדל"
           }
         }
       }
@@ -3777,6 +4119,12 @@
             "state": "translated",
             "value": "為相容的註解工具使用同一組預設值。關閉後，每個工具的顏色、描邊、圓角、文字大小與浮水印值會分開保存"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שימוש בברירות מחדל משותפות לכלי סימון תואמים. כיבוי האפשרות שומר לכל כלי צבע, עובי קו, רדיוס, גודל טקסט וערכי סימן מים נפרדים."
+          }
         }
       }
     },
@@ -3842,6 +4190,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "同步工具預設值"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סנכרון ברירות המחדל של הכלים"
           }
         }
       }
@@ -3909,6 +4263,12 @@
             "state": "translated",
             "value": "每次開始截圖標註時使用上次選取的工具"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "התחלת סימון כל צילום מסך בכלי האחרון שנבחר"
+          }
         }
       }
     },
@@ -3975,6 +4335,12 @@
             "state": "translated",
             "value": "記住上次使用的工具"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "זכירת הכלי האחרון"
+          }
         }
       }
     },
@@ -4039,6 +4405,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "在截圖與標註中用來去除背景"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חל על הסרת רקע בצילום ובעורך הסימונים"
           }
         }
       }
@@ -4105,6 +4477,12 @@
             "state": "translated",
             "value": "自動裁切主體"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חיתוך אוטומטי סביב הנושא"
+          }
         }
       }
     },
@@ -4169,6 +4547,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "游標移到上方時高亮具體的按鈕、彈窗或網頁元素，而不是整個視窗。需要先開啟上面的設定。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הדגשת כפתור, חלונית או רכיב בדף בעת ריחוף, במקום החלון כולו. דורש את ההגדרה שמעל."
           }
         }
       }
@@ -4235,6 +4619,12 @@
             "state": "translated",
             "value": "同時識別具體元素，不僅是視窗"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "זיהוי רכיבים מסוימים בנוסף לחלונות"
+          }
         }
       }
     },
@@ -4299,6 +4689,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "不需按鍵，滑鼠移到視窗上即可高亮並選取該視窗；拖曳滑鼠則改為手動框選"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הדגשה ובחירה של החלון שמתחת לסמן ללא לחיצה מוקדמת על מקש; גרירה מאפשרת בחירה ידנית"
           }
         }
       }
@@ -4365,6 +4761,12 @@
             "state": "translated",
             "value": "自動偵測游標所在視窗"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "זיהוי אוטומטי של החלון שמתחת לסמן"
+          }
         }
       }
     },
@@ -4429,6 +4831,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "可用標記：{datetime}、{date}、{year}、{yearShort}、{month}、{monthName}、{monthShort}、{day}、{time}、{ms}、{timestamp}、{type}、{appName}。使用 / 建立子資料夾。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "רכיבים זמינים: {datetime}, {date}, {year}, {yearShort}, {month}, {monthName}, {monthShort}, {day}, {time}, {ms}, {timestamp}, {type}, {appName}. ניתן להשתמש ב־/ ליצירת תיקיות משנה."
           }
         }
       }
@@ -4495,6 +4903,12 @@
             "state": "translated",
             "value": "複製影像時放入剪貼簿的內容。若貼到遠端桌面（Citrix、RDP）或終端機時加入的是檔案而非內嵌影像，請選擇「僅影像」"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "התוכן שתמונות מועתקות מוסיפות ללוח. יש לבחור ״תמונה בלבד״ אם הדבקה בשולחן עבודה מרוחק (Citrix, RDP) או בטרמינל מוסיפה קובץ במקום תמונה מוטבעת"
+          }
         }
       }
     },
@@ -4559,6 +4973,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "剪貼簿內容"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תוכן הלוח"
           }
         }
       }
@@ -4625,6 +5045,12 @@
             "state": "translated",
             "value": "影像和檔案"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תמונה וקובץ"
+          }
         }
       }
     },
@@ -4689,6 +5115,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "僅影像"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תמונה בלבד"
           }
         }
       }
@@ -4756,6 +5188,12 @@
             "state": "translated",
             "value": "Beim Zusammenfügen von Bildern im Editor aktualisiert das Speichern den aktuellen Screenshot, statt den Export eines neuen kombinierten Bildes abzufragen."
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בחיבור תמונות בעורך, השמירה מעדכנת את צילום המסך הנוכחי במקום לבקש לייצא תמונה משולבת חדשה."
+          }
         }
       }
     },
@@ -4822,6 +5260,12 @@
             "state": "translated",
             "value": "Kombiniertes Ergebnis als Teil der aktuellen Bearbeitung speichern"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שמירת התוצאה המשולבת כחלק מהעריכה הנוכחית"
+          }
         }
       }
     },
@@ -4886,6 +5330,12 @@
             "state": "translated",
             "value": "每次截圖後立即套用 標註 預設"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "החלת ערכת סימונים מיד לאחר כל צילום מסך"
+          }
         }
       }
     },
@@ -4949,6 +5399,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "預設值"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ערכת ברירת מחדל"
           }
         }
       }
@@ -5015,6 +5471,12 @@
             "state": "translated",
             "value": "延遲截圖在擷取畫面前等待的時間。可在倒數期間開啟選單或懸停狀態。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "משך ההמתנה לפני צילום מושהה. ניתן לפתוח תפריטים או מצבי ריחוף בזמן הספירה לאחור."
+          }
         }
       }
     },
@@ -5079,6 +5541,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "%d 秒"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%d שניות"
           }
         }
       }
@@ -5145,6 +5613,12 @@
             "state": "translated",
             "value": "延遲截圖倒數"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ספירה לאחור לצילום מושהה"
+          }
         }
       }
     },
@@ -5209,6 +5683,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "徽章消失前的時間 (%@s)"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הזמן עד לדעיכת התווית (%@ שניות)"
           }
         }
       }
@@ -5275,6 +5755,12 @@
             "state": "translated",
             "value": "顯示持續時間"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "משך התצוגה"
+          }
         }
       }
     },
@@ -5339,6 +5825,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "徽章文字大小 (%dpt)"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גודל טקסט התווית (%d נקודות)"
           }
         }
       }
@@ -5405,6 +5897,12 @@
             "state": "translated",
             "value": "字體大小"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גודל הגופן"
+          }
         }
       }
     },
@@ -5469,6 +5967,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "更高的 FPS 帶來更流暢的運動"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יותר תמונות לשנייה לתנועה חלקה יותר"
           }
         }
       }
@@ -5535,6 +6039,12 @@
             "state": "translated",
             "value": "幀率"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קצב תמונות"
+          }
         }
       }
     },
@@ -5599,6 +6109,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "在選擇區域時凍結螢幕。啟用以保持畫面靜止。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הקפאת המסך בזמן הבחירה. יש להפעיל כדי לשמור תמונת מצב קבועה."
           }
         }
       }
@@ -5665,6 +6181,12 @@
             "state": "translated",
             "value": "凍結螢幕"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הקפאת המסך"
+          }
         }
       }
     },
@@ -5729,6 +6251,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "截圖或錄製時暫時隱藏桌面圖像"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הסתרה זמנית של סמלים בזמן צילום"
           }
         }
       }
@@ -5795,6 +6323,12 @@
             "state": "translated",
             "value": "隱藏桌面圖標"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הסתרת סמלי שולחן העבודה"
+          }
         }
       }
     },
@@ -5859,6 +6393,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "截圖或錄製時暫時隱藏桌面小工具"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הסתרה זמנית של רכיבי שולחן העבודה בזמן צילום"
           }
         }
       }
@@ -5925,6 +6465,12 @@
             "state": "translated",
             "value": "隱藏桌面小部件"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הסתרת רכיבי שולחן העבודה"
+          }
         }
       }
     },
@@ -5989,6 +6535,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "按一下環顏色"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צבע טבעות הלחיצה"
           }
         }
       }
@@ -6055,6 +6607,12 @@
             "state": "translated",
             "value": "突出顯示顏色"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צבע ההדגשה"
+          }
         }
       }
     },
@@ -6119,6 +6677,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "波紋效果直徑 (%dpx)"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קוטר אפקט הגלים (%d פיקסלים)"
           }
         }
       }
@@ -6185,6 +6749,12 @@
             "state": "translated",
             "value": "突出顯示大小"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גודל ההדגשה"
+          }
         }
       }
     },
@@ -6249,6 +6819,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "錄製時在螢幕上顯示控制項。隱藏時，可使用選單列圖示停止錄製。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצגת פקדים במסך בזמן ההקלטה. כשהם מוסתרים, ניתן לעצור באמצעות סמל שורת התפריטים."
           }
         }
       }
@@ -6315,6 +6891,12 @@
             "state": "translated",
             "value": "顯示浮動控制項"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצגת פקדים צפים"
+          }
         }
       }
     },
@@ -6379,6 +6961,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "螢幕截圖的輸出格式"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פורמט הפלט של צילומי המסך"
           }
         }
       }
@@ -6445,6 +7033,12 @@
             "state": "translated",
             "value": "圖像格式"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פורמט תמונה"
+          }
         }
       }
     },
@@ -6509,6 +7103,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "在螢幕錄製畫面中顯示 Snapzy 視窗（例如標註工具列）"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצגת חלונות Snapzy כגון עורך הסימונים בסרטונים המוקלטים"
           }
         }
       }
@@ -6575,6 +7175,12 @@
             "state": "translated",
             "value": "錄製畫面中包含"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הכללה בהקלטות"
+          }
         }
       }
     },
@@ -6639,6 +7245,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "在截圖中顯示 Snapzy 視窗（例如標註視窗）"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצגת חלונות Snapzy כגון עורך הסימונים בתמונות המצולמות"
           }
         }
       }
@@ -6705,6 +7317,12 @@
             "state": "translated",
             "value": "包含在螢幕截圖中"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הכללה בצילומי מסך"
+          }
         }
       }
     },
@@ -6769,6 +7387,12 @@
             "state": "translated",
             "value": "在應用程式視窗截圖中顯示視窗陰影"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצגת הצל של החלון בצילום יישום"
+          }
         }
       }
     },
@@ -6832,6 +7456,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "包含視窗陰影"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הכללת צל החלון"
           }
         }
       }
@@ -6898,6 +7528,12 @@
             "state": "translated",
             "value": "主體去背需要透明資訊。即使選擇 JPEG，Snapzy 仍會以 PNG 格式儲存。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צילום אובייקט עם הסרת רקע דורש שקיפות. Snapzy ישמור אותו כ־PNG גם כשנבחר JPEG."
+          }
         }
       }
     },
@@ -6962,6 +7598,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "凍結與下方 App 的互動，讓已顯示的懸停提示與狀態保持可見並被擷取。需要輔助使用權限。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הקפאת האינטראקציה עם היישומים שמתחת כדי לצלם חלוניות הסבר ומצבי ריחוף גלויים. נדרשת הרשאת נגישות."
           }
         }
       }
@@ -7028,6 +7670,12 @@
             "state": "translated",
             "value": "懸停穿透需要輔助使用權限來監聽全域滑鼠與鍵盤事件。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שימור ריחוף דורש הרשאת נגישות לצפייה באירועי עכבר ומקלדת כלליים."
+          }
         }
       }
     },
@@ -7092,6 +7740,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "懸停穿透"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שימור ריחוף"
           }
         }
       }
@@ -7158,6 +7812,12 @@
             "state": "translated",
             "value": "放大鏡預覽及其下方取色面板的尺寸"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גודל תצוגת זכוכית המגדלת ולוח בחירת הצבעים שמתחתיה"
+          }
         }
       }
     },
@@ -7222,6 +7882,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "放大鏡尺寸"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גודל זכוכית המגדלת"
           }
         }
       }
@@ -7288,6 +7954,12 @@
             "state": "translated",
             "value": "大"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גדול"
+          }
         }
       }
     },
@@ -7352,6 +8024,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "中"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בינוני"
           }
         }
       }
@@ -7418,6 +8096,12 @@
             "state": "translated",
             "value": "小"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קטן"
+          }
         }
       }
     },
@@ -7482,6 +8166,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "放大鏡縮放"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הגדלת זכוכית המגדלת"
           }
         }
       }
@@ -7548,6 +8238,12 @@
             "state": "translated",
             "value": "透過限制錄製解析度提升 H.264 的瀏覽器相容性。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שיפור תאימות H.264 בדפדפנים באמצעות הגבלת רזולוציית ההקלטה."
+          }
         }
       }
     },
@@ -7612,6 +8308,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "最大解析度"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "רזולוציה מרבית"
           }
         }
       }
@@ -7678,6 +8380,12 @@
             "state": "translated",
             "value": "在狀態圖示旁顯示已錄製時長。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצגת הזמן שחלף לצד סמל המצב."
+          }
         }
       }
     },
@@ -7742,6 +8450,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "在選單列顯示計時器"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצגת שעון בשורת התפריטים"
           }
         }
       }
@@ -7808,6 +8522,12 @@
             "state": "translated",
             "value": "錄製麥克風聲音"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הקלטת הקול שלך"
+          }
         }
       }
     },
@@ -7872,6 +8592,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "選擇螢幕錄製時使用的內建或外接麥克風"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בחירת מיקרופון מובנה או חיצוני להקלטות"
           }
         }
       }
@@ -7938,6 +8664,12 @@
             "state": "translated",
             "value": "麥克風輸入"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קלט מיקרופון"
+          }
         }
       }
     },
@@ -8003,6 +8735,12 @@
             "state": "translated",
             "value": "提示開啟擷取文字中發現的網頁連結"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצעת פתיחת קישורי אינטרנט שנמצאו בטקסט שזוהה"
+          }
         }
       }
     },
@@ -8067,6 +8805,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "偵測連結"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "זיהוי קישורים"
           }
         }
       }
@@ -8134,6 +8878,12 @@
             "state": "translated",
             "value": "新增自訂模型…"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הוספת מודל מותאם…"
+          }
         }
       }
     },
@@ -8199,6 +8949,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Apple Vision 裝置端識別"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "זיהוי מקומי במכשיר באמצעות Apple Vision"
           }
         }
       }
@@ -8266,6 +9022,12 @@
             "state": "translated",
             "value": "內建 OCR"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "זיהוי טקסט מובנה"
+          }
         }
       }
     },
@@ -8331,6 +9093,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "自訂"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מותאם אישית"
           }
         }
       }
@@ -8398,6 +9166,12 @@
             "state": "translated",
             "value": "預設"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ברירת מחדל"
+          }
         }
       }
     },
@@ -8463,6 +9237,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "編輯"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עריכה"
           }
         }
       }
@@ -8530,6 +9310,12 @@
             "state": "translated",
             "value": "移除"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הסרה"
+          }
         }
       }
     },
@@ -8595,6 +9381,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "“%@”及其儲存的 API 金鑰將被刪除。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "״%@״ ומפתח ה־API השמור שלו יימחקו."
           }
         }
       }
@@ -8662,6 +9454,12 @@
             "state": "translated",
             "value": "移除自訂模型？"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "להסיר את המודל המותאם?"
+          }
         }
       }
     },
@@ -8727,6 +9525,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "OCR 模型"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מודל זיהוי טקסט"
           }
         }
       }
@@ -8794,6 +9598,12 @@
             "state": "translated",
             "value": "新增自訂模型"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הוספת מודל מותאם"
+          }
         }
       }
     },
@@ -8859,6 +9669,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "API 金鑰（選填）"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מפתח API (אופציונלי)"
           }
         }
       }
@@ -8926,6 +9742,12 @@
             "state": "translated",
             "value": "留空以保留現有金鑰。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש להשאיר ריק לשמירת המפתח הקיים."
+          }
         }
       }
     },
@@ -8991,6 +9813,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "伺服器 / API 基底 URL"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כתובת בסיס של השרת / API"
           }
         }
       }
@@ -9058,6 +9886,12 @@
             "state": "translated",
             "value": "連線相容 OpenAI 的端點 — LLM API、Ollama、vLLM 或 LM Studio。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חיבור לנקודת קצה תואמת OpenAI — ממשקי מודלי שפה, Ollama, ‏vLLM או LM Studio."
+          }
         }
       }
     },
@@ -9123,6 +9957,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "編輯自訂模型"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עריכת מודל מותאם"
           }
         }
       }
@@ -9190,6 +10030,12 @@
             "state": "translated",
             "value": "模型標識符"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מזהה המודל"
+          }
         }
       }
     },
@@ -9255,6 +10101,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "名稱"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שם"
           }
         }
       }
@@ -9322,6 +10174,12 @@
             "state": "translated",
             "value": "提示詞（選填）"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הנחיה (אופציונלי)"
+          }
         }
       }
     },
@@ -9387,6 +10245,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "測試連線"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בדיקת החיבור"
           }
         }
       }
@@ -9454,6 +10318,12 @@
             "state": "translated",
             "value": "連線失敗"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "החיבור נכשל"
+          }
         }
       }
     },
@@ -9519,6 +10389,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "已連線 (%d ms)"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מחובר (%d אלפיות שנייה)"
           }
         }
       }
@@ -9586,6 +10462,12 @@
             "state": "translated",
             "value": "連線成功"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "החיבור הצליח"
+          }
         }
       }
     },
@@ -9650,6 +10532,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "允許"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אישור"
           }
         }
       }
@@ -9716,6 +10604,12 @@
             "state": "translated",
             "value": "允許通知，Snapzy 才能向你顯示辨識出的文字。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש לאפשר התראות כדי ש־Snapzy יוכל להציג את הטקסט שזוהה."
+          }
         }
       }
     },
@@ -9781,6 +10675,12 @@
             "state": "translated",
             "value": "系統設定中已關閉 Snapzy 的通知。OCR 仍可正常使用，並會將文字複製到剪貼簿。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ההתראות של Snapzy כבויות בהגדרות המערכת. זיהוי הטקסט עדיין פועל ומעתיק טקסט ללוח."
+          }
         }
       }
     },
@@ -9845,6 +10745,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "通知"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "התראות"
           }
         }
       }
@@ -9912,6 +10818,12 @@
             "state": "translated",
             "value": "OCR 完成後顯示包含辨識文字的系統通知"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצגת התראת מערכת עם הטקסט שזוהה לאחר הזיהוי"
+          }
         }
       }
     },
@@ -9978,6 +10890,12 @@
             "state": "translated",
             "value": "OCR 通知"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "התראות זיהוי טקסט"
+          }
         }
       }
     },
@@ -10042,6 +10960,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "OCR"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "זיהוי טקסט"
           }
         }
       }
@@ -10108,6 +11032,12 @@
             "state": "translated",
             "value": "文字操作"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פעולות טקסט"
+          }
         }
       }
     },
@@ -10172,6 +11102,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "圓環透明度 (%d%%)"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שקיפות הטבעת (%d%%)"
           }
         }
       }
@@ -10238,6 +11174,12 @@
             "state": "translated",
             "value": "不透明度"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אטימות"
+          }
         }
       }
     },
@@ -10302,6 +11244,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "覆蓋"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שכבה"
           }
         }
       }
@@ -10368,6 +11316,12 @@
             "state": "translated",
             "value": "提示徽章在錄製區域中的位置"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מיקום התווית באזור ההקלטה"
+          }
         }
       }
     },
@@ -10432,6 +11386,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "位置"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מיקום"
           }
         }
       }
@@ -10498,6 +11458,12 @@
             "state": "translated",
             "value": "更高的質量 = 更大的檔案大小"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "איכות גבוהה יותר = קובץ גדול יותר"
+          }
         }
       }
     },
@@ -10563,6 +11529,12 @@
             "state": "translated",
             "value": "質量"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "איכות"
+          }
         }
       }
     },
@@ -10627,6 +11599,12 @@
             "state": "translated",
             "value": "錄製時將錄製區域以外的所有內容調暗，使擷取區域更加突出。關閉後，錄製期間其他視窗仍可完全顯示與使用。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "החשכת כל מה שמחוץ לאזור ההקלטה כדי להבליטו. כיבוי האפשרות משאיר חלונות אחרים גלויים ושימושיים בזמן ההקלטה."
+          }
         }
       }
     },
@@ -10690,6 +11668,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "調暗未選取的區域"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עמעום האזור שלא נבחר"
           }
         }
       }
@@ -10756,6 +11740,12 @@
             "state": "translated",
             "value": "錄屏預覽：%@"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תצוגה מקדימה של ההקלטה: %@"
+          }
         }
       }
     },
@@ -10820,6 +11810,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "在錄製的影片和 GIF 中包含滑鼠游標"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הכללת מצביע העכבר בסרטונים ובקובצי GIF מוקלטים"
           }
         }
       }
@@ -10886,6 +11882,12 @@
             "state": "translated",
             "value": "自動保存錄製檔案名或子資料夾路徑的模式"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תבנית שם קובץ או נתיב תיקיית משנה להקלטות שנשמרות אוטומטית"
+          }
         }
       }
     },
@@ -10950,6 +11952,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "錄屏模板"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תבנית הקלטות"
           }
         }
       }
@@ -11016,6 +12024,12 @@
             "state": "translated",
             "value": "下次截圖時沿用上次選擇的區域"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שחזור אזור ההקלטה הקודם בצילום הבא"
+          }
         }
       }
     },
@@ -11080,6 +12094,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "記住最後一個區域"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "זכירת האזור האחרון"
           }
         }
       }
@@ -11146,6 +12166,12 @@
             "state": "translated",
             "value": "刪除背景"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הסרת רקע"
+          }
         }
       }
     },
@@ -11210,6 +12236,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "重置命名預設值"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "איפוס ברירות המחדל לשמות"
           }
         }
       }
@@ -11276,6 +12308,12 @@
             "state": "translated",
             "value": "反轉滾輪縮放方向（向下滾動以放大）"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "היפוך כיוון ההגדלה בגלגלת העכבר (גלילה מטה להגדלה)"
+          }
         }
       }
     },
@@ -11340,6 +12378,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "反轉放大鏡縮放方向"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "היפוך כיוון הגדלת הזכוכית"
           }
         }
       }
@@ -11406,6 +12450,12 @@
             "state": "translated",
             "value": "擴張環數量"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מספר הטבעות המתרחבות"
+          }
         }
       }
     },
@@ -11470,6 +12520,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "紋波計數"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מספר הגלים"
           }
         }
       }
@@ -11536,6 +12592,12 @@
             "state": "translated",
             "value": "截圖預覽：%@"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תצוגה מקדימה של צילום מסך: %@"
+          }
         }
       }
     },
@@ -11600,6 +12662,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "自動保存的螢幕截圖檔案名或子資料夾路徑模式"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תבנית שם קובץ או נתיב תיקיית משנה לצילומי מסך שנשמרים אוטומטית"
           }
         }
       }
@@ -11666,6 +12734,12 @@
             "state": "translated",
             "value": "截圖模板"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תבנית צילומי מסך"
+          }
         }
       }
     },
@@ -11730,6 +12804,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "最好的結果來自於僅選擇移動內容，然後以穩定的速度向一個方向滾動。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לתוצאות מיטביות יש לבחור רק את התוכן הנע ולגלול בכיוון אחד בקצב אחיד."
           }
         }
       }
@@ -11796,6 +12876,12 @@
             "state": "translated",
             "value": "擷取後"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לאחר הצילום"
+          }
         }
       }
     },
@@ -11860,6 +12946,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "拖放"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גרירה ושחרור"
           }
         }
       }
@@ -11926,6 +13018,12 @@
             "state": "translated",
             "value": "繪製輔助"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עזרי ציור"
+          }
         }
       }
     },
@@ -11990,6 +13088,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "開啟與儲存"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פתיחה ושמירה"
           }
         }
       }
@@ -12056,6 +13160,12 @@
             "state": "translated",
             "value": "工具"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כלים"
+          }
         }
       }
     },
@@ -12120,6 +13230,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "應用程序窗口"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חלונות היישום"
           }
         }
       }
@@ -12186,6 +13302,12 @@
             "state": "translated",
             "value": "音頻"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שמע"
+          }
         }
       }
     },
@@ -12250,6 +13372,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "桌面"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שולחן העבודה"
           }
         }
       }
@@ -12316,6 +13444,12 @@
             "state": "translated",
             "value": "按鍵顯示浮層"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שכבת הקשות מקלדת"
+          }
         }
       }
     },
@@ -12380,6 +13514,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "鼠標高亮"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הדגשת העכבר"
           }
         }
       }
@@ -12446,6 +13586,12 @@
             "state": "translated",
             "value": "輸出命名"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שמות הפלט"
+          }
         }
       }
     },
@@ -12510,6 +13656,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "記錄行為"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "התנהגות ההקלטה"
           }
         }
       }
@@ -12576,6 +13728,12 @@
             "state": "translated",
             "value": "錄製控制項"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פקדי הקלטה"
+          }
         }
       }
     },
@@ -12640,6 +13798,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "錄屏格式"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פורמט ההקלטה"
           }
         }
       }
@@ -12706,6 +13870,12 @@
             "state": "translated",
             "value": "錄屏質量"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "איכות ההקלטה"
+          }
         }
       }
     },
@@ -12771,6 +13941,12 @@
             "state": "translated",
             "value": "格式"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פורמט"
+          }
         }
       }
     },
@@ -12834,6 +14010,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "預設"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ערכה"
           }
         }
       }
@@ -12900,6 +14082,12 @@
             "state": "translated",
             "value": "捲動截圖"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צילום בגלילה"
+          }
         }
       }
     },
@@ -12964,6 +14152,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "在截圖中包含滑鼠游標"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הכללת מצביע העכבר בצילומי המסך"
           }
         }
       }
@@ -13030,6 +14224,12 @@
             "state": "translated",
             "value": "顯示光標"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצגת הסמן"
+          }
         }
       }
     },
@@ -13094,6 +14294,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "開始區域選取時預設啟用放大鏡,不需按住 ⌘ 捲動"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "התחלת בחירת אזור כשזכוכית המגדלת כבר פעילה, ללא צורך ב־⌘ וגלילה"
           }
         }
       }
@@ -13160,6 +14366,12 @@
             "state": "translated",
             "value": "預設顯示放大鏡"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצגת זכוכית המגדלת כברירת מחדל"
+          }
         }
       }
     },
@@ -13224,6 +14436,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "在放大鏡預覽下方顯示色塊和十六進位色值；關閉後只保留像素網格和十字準星"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצגת דוגמת צבע וערך הקסדצימלי מתחת לזכוכית המגדלת; כיבוי משאיר רק רשת פיקסלים וכוונת"
           }
         }
       }
@@ -13290,6 +14508,12 @@
             "state": "translated",
             "value": "顯示取色面板"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצגת לוח בחירת צבעים"
+          }
         }
       }
     },
@@ -13354,6 +14578,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "擷取時調暗選擇區域外部的背景"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עמעום הרקע מחוץ לאזור הבחירה בזמן צילום"
           }
         }
       }
@@ -13420,6 +14650,12 @@
             "state": "translated",
             "value": "顯示選區疊加層"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצגת שכבת אזור הבחירה"
+          }
         }
       }
     },
@@ -13484,6 +14720,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "開始捲動截圖工作階段時維持操作提示可見"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "השארת ההנחיות גלויות בתחילת צילום בגלילה"
           }
         }
       }
@@ -13550,6 +14792,12 @@
             "state": "translated",
             "value": "顯示會話提示"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצגת הנחיות צילום"
+          }
         }
       }
     },
@@ -13614,6 +14862,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "從應用程式錄製系統音訊"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הקלטת צלילים מיישומים"
           }
         }
       }
@@ -13680,6 +14934,12 @@
             "state": "translated",
             "value": "系統音頻"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שמע המערכת"
+          }
         }
       }
     },
@@ -13744,6 +15004,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "MOV 提供更好的質量。 MP4 提供更廣泛的兼容性。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "MOV מציע איכות טובה יותר. MP4 מספק תאימות רחבה יותר."
           }
         }
       }
@@ -13810,6 +15076,12 @@
             "state": "translated",
             "value": "影片格式"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פורמט וידאו"
+          }
         }
       }
     },
@@ -13874,6 +15146,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "WebP 編碼比其他格式更慢。若想更快完成儲存，建議改用 PNG 或 JPEG。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קידוד WebP איטי מפורמטים אחרים. לצילום מהיר יותר, כדאי להשתמש ב־PNG או JPEG."
           }
         }
       }
@@ -13940,6 +15218,12 @@
             "state": "translated",
             "value": "按 %@ 擷取應用程式視窗"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לחיצה על %@ לבחירת חלון יישום"
+          }
         }
       }
     },
@@ -14004,6 +15288,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "已取消擷取"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצילום בוטל"
           }
         }
       }
@@ -14070,6 +15360,12 @@
             "state": "translated",
             "value": "按 Esc 取消"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esc לביטול"
+          }
         }
       }
     },
@@ -14134,6 +15430,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "全螢幕"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מסך מלא"
           }
         }
       }
@@ -14200,6 +15502,12 @@
             "state": "translated",
             "value": "擷取失敗：%@"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצילום נכשל: %@"
+          }
         }
       }
     },
@@ -14264,6 +15572,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "擷取逾時。請重試。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "זמן ההמתנה לצילום הסתיים. יש לנסות שוב."
           }
         }
       }
@@ -14330,6 +15644,12 @@
             "state": "translated",
             "value": "取色時拷貝"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "העתקה בעת בחירה"
+          }
         }
       }
     },
@@ -14394,6 +15714,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "點擊拷貝 · 方向鍵移動 1 像素"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לחיצה להעתקה · החצים מזיזים פיקסל אחד"
           }
         }
       }
@@ -14460,6 +15786,12 @@
             "state": "translated",
             "value": "再次取色"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בחירה מחדש"
+          }
         }
       }
     },
@@ -14524,6 +15856,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "最近"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אחרונים"
           }
         }
       }
@@ -14590,6 +15928,12 @@
             "state": "translated",
             "value": "無法讀取螢幕以取色"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן לקרוא את המסך לבחירת צבע"
+          }
         }
       }
     },
@@ -14654,6 +15998,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "無法創建保存檔案夾：%@"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן ליצור את תיקיית השמירה: %@"
           }
         }
       }
@@ -14720,6 +16070,12 @@
             "state": "translated",
             "value": "無法創建圖像目標"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן ליצור את יעד התמונה"
+          }
         }
       }
     },
@@ -14784,6 +16140,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "無法從已擷取的畫面建立影像"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יצירת תמונה מהמסגרת שצולמה נכשלה"
           }
         }
       }
@@ -14850,6 +16212,12 @@
             "state": "translated",
             "value": "無法裁切擷取的影像"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חיתוך התמונה שצולמה נכשל"
+          }
         }
       }
     },
@@ -14914,6 +16282,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "無法將圖像寫入磁盤"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כתיבת התמונה לכונן נכשלה"
           }
         }
       }
@@ -14980,6 +16354,12 @@
             "state": "translated",
             "value": "%@"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אימות כתיבת הקובץ נכשל עבור %@"
+          }
         }
       }
     },
@@ -15044,6 +16424,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "已複製"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הועתק"
           }
         }
       }
@@ -15110,6 +16496,12 @@
             "state": "translated",
             "value": "按"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לחיצה על"
+          }
         }
       }
     },
@@ -15174,6 +16566,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "複製色值"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "להעתקה"
           }
         }
       }
@@ -15240,6 +16638,12 @@
             "state": "translated",
             "value": "按 %@ 返回手動框選區域"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לחיצה על %@ לבחירת אזור ידנית"
+          }
         }
       }
     },
@@ -15304,6 +16708,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "找不到可用來截圖的顯示器"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא נמצא צג לצילום"
           }
         }
       }
@@ -15370,6 +16780,12 @@
             "state": "translated",
             "value": "螢幕截圖權限被拒絕"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הרשאת צילום המסך נדחתה"
+          }
         }
       }
     },
@@ -15434,6 +16850,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "按一下顯示器以錄製"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לחיצה על צג תקליט אותו"
           }
         }
       }
@@ -15500,6 +16922,12 @@
             "state": "translated",
             "value": "按一下以錄製全螢幕"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לחיצה למסך מלא"
+          }
         }
       }
     },
@@ -15564,6 +16992,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "按 Enter 框選區域"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enter לבחירת אזור"
           }
         }
       }
@@ -15630,6 +17064,12 @@
             "state": "translated",
             "value": "按 Enter 選擇顯示器"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enter לבחירת צג"
+          }
         }
       }
     },
@@ -15694,6 +17134,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "按 %@ 選擇視窗"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ לבחירת חלון"
           }
         }
       }
@@ -15760,6 +17206,12 @@
             "state": "translated",
             "value": "沒有可重複擷取的區域 — 請先使用 ⇧⌘4 選擇區域"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אין אזור קודם — יש לבחור תחילה אזור באמצעות ⇧⌘4"
+          }
         }
       }
     },
@@ -15824,6 +17276,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "保存螢幕截圖失敗：%@"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שמירת צילום המסך נכשלה: %@"
           }
         }
       }
@@ -15890,6 +17348,12 @@
             "state": "translated",
             "value": "需要保存位置權限。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "נדרשת הרשאה למיקום השמירה."
+          }
         }
       }
     },
@@ -15954,6 +17418,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "已拷貝 %@"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הועתק %@"
           }
         }
       }
@@ -16020,6 +17490,12 @@
             "state": "translated",
             "value": "按一下固定 · 拖移測量框 · H/V 鎖定軸向 · U 單位 · C 拷貝 · Return 儲存 · Esc 結束"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לחיצה להצמדה · גרירה למסגרת · H/V לנעילת ציר · U ליחידות · C להעתקה · Return לשמירה · Esc ליציאה"
+          }
         }
       }
     },
@@ -16084,6 +17560,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "邊緣容差：%lld"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סבילות קצוות: %lld"
           }
         }
       }
@@ -16150,6 +17632,12 @@
             "state": "translated",
             "value": "無法讀取螢幕以進行測量"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן לקרוא את המסך למדידה"
+          }
         }
       }
     },
@@ -16214,6 +17702,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "所選區域超出顯示範圍"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "האזור שנבחר חורג מגבולות הצג"
           }
         }
       }
@@ -16280,6 +17774,12 @@
             "state": "translated",
             "value": "無法擷取所選區域。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן לצלם את האזור שנבחר."
+          }
         }
       }
     },
@@ -16344,6 +17844,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "WebP 編碼失敗"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קידוד WebP נכשל"
           }
         }
       }
@@ -16410,6 +17916,12 @@
             "state": "translated",
             "value": "調整選區讓會捲動的內容保留在框內，再按「開始擷取」。按 Esc 取消。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש להתאים את האזור כך שיכלול רק את התוכן הנע וללחוץ על התחלת צילום. Esc לביטול."
+          }
         }
       }
     },
@@ -16474,6 +17986,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "正在擷取並對齊最新的可視內容…"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מצלם ומיישר את התוכן הגלוי העדכני..."
           }
         }
       }
@@ -16540,6 +18058,12 @@
             "state": "translated",
             "value": "對齊暫停。放慢速度並保持一個方向，以便 Snapzy 能夠恢復。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "היישור הושהה. יש להאט ולשמור על כיוון אחד כדי לאפשר התאוששות."
+          }
         }
       }
     },
@@ -16604,6 +18128,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "自動捲動需要輔助使用權限。請在「系統設定」>「隱私權與安全性」>「輔助使用」中啟用 Snapzy。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גלילה אוטומטית דורשת הרשאת נגישות. יש להפעיל את Snapzy בהגדרות המערכת ← פרטיות ואבטחה ← נגישות."
           }
         }
       }
@@ -16670,6 +18200,12 @@
             "state": "translated",
             "value": "自動捲動已暫停。將指標移回所選區域內即可繼續。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הגלילה האוטומטית הושהתה. יש להחזיר את המצביע לאזור שנבחר כדי להמשיך."
+          }
         }
       }
     },
@@ -16734,6 +18270,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "正在擷取第一個畫面。接著請以穩定的速度向下捲動。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מצלם את המסגרת הראשונה. לאחר מכן יש להמשיך לגלול מטה בקצב אחיד."
           }
         }
       }
@@ -16800,6 +18342,12 @@
             "state": "translated",
             "value": "無法對齊該框架。保持相同的方向和更穩定的步伐。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן ליישר את המסגרת. יש לשמור על אותו כיוון וקצב אחיד יותר."
+          }
         }
       }
     },
@@ -16864,6 +18412,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "無法擷取最後一個畫面；Snapzy 會儲存目前的拼接結果。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן לצלם את המסגרת האחרונה. Snapzy ישמור את התוצאה המחוברת הנוכחית."
           }
         }
       }
@@ -16930,6 +18484,12 @@
             "state": "translated",
             "value": "無法刷新最後一幀。 Snapzy 將保存當前的拼接結果。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן לרענן את המסגרת האחרונה. Snapzy ישמור את התוצאה המחוברת הנוכחית."
+          }
         }
       }
     },
@@ -16994,6 +18554,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "方向改變了。繼續以相同方式滾動或重新啓動會話。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כיוון הגלילה השתנה. יש להמשיך לגלול באותו כיוון או להתחיל מחדש."
           }
         }
       }
@@ -17060,6 +18626,12 @@
             "state": "translated",
             "value": "未檢測到新內容。您可能位於可滾動內容的末尾。按“完成”保存。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא זוהה תוכן חדש. כנראה הגעת לסוף התוכן הנגלל. לחיצה על סיום תשמור."
+          }
         }
       }
     },
@@ -17124,6 +18696,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "無法乾淨地對齊最後一幀。 Snapzy 將保存當前的拼接結果。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן ליישר היטב את המסגרת האחרונה. Snapzy ישמור את התוצאה המחוברת הנוכחית."
           }
         }
       }
@@ -17190,6 +18768,12 @@
             "state": "translated",
             "value": "正在完成本次擷取，儲存前會鎖定最新拼接結果。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "משלים את הצילום הנוכחי. Snapzy מקבע את התוצאה המחוברת האחרונה לפני השמירה."
+          }
         }
       }
     },
@@ -17254,6 +18838,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "正在完成本次擷取，儲存前正在處理 %d 幀拼接結果。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מקבע את הצילום הנוכחי. Snapzy משלים %d מסגרות מחוברות לפני השמירה."
           }
         }
       }
@@ -17320,6 +18910,12 @@
             "state": "translated",
             "value": "達到高度限制。 Snapzy 正在保存當前的拼接結果。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הגעת למגבלת הגובה. Snapzy שומר את התוצאה המחוברת הנוכחית."
+          }
         }
       }
     },
@@ -17384,6 +18980,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "沒有檢測到新內容。 Snapzy 正在保存當前的拼接結果。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא זוהה תוכן חדש. Snapzy שומר את התוצאה המחוברת הנוכחית."
           }
         }
       }
@@ -17450,6 +19052,12 @@
             "state": "translated",
             "value": "第一幀已鎖定。將指針保持在突出顯示的區域上並穩定向下滾動。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "המסגרת הראשונה קובעה. יש להשאיר את המצביע מעל האזור המודגש ולגלול מטה בקצב אחיד."
+          }
         }
       }
     },
@@ -17514,6 +19122,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "已達到 %d px 輸出限制。按完成保存當前結果。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הגעת למגבלת פלט של %d פיקסלים. לחיצה על סיום תשמור את התוצאה הנוכחית."
           }
         }
       }
@@ -17580,6 +19194,12 @@
             "state": "translated",
             "value": "檢測到混合滾動方向。保持一個方向，以便 Snapzy 可以對齊。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "זוהו כיווני גלילה מעורבים. יש לשמור על כיוון אחד כדי לאפשר יישור."
+          }
         }
       }
     },
@@ -17644,6 +19264,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "混合滾動方向後最終確定當前縫合結果。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "משלים את התוצאה המחוברת הנוכחית לאחר שינויי כיוון בגלילה."
           }
         }
       }
@@ -17710,6 +19336,12 @@
             "state": "translated",
             "value": "尚無可儲存的拼接影像；可繼續擷取、再次按「完成」或「取消」。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עדיין לא ניתן לקבע תמונה מחוברת לשמירה. אפשר להמשיך לצלם, לנסות שוב סיום או לבטל."
+          }
         }
       }
     },
@@ -17774,6 +19406,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "預覽刷新失敗。您可以取消並重試。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "רענון התצוגה המקדימה נכשל. אפשר לבטל ולנסות שוב."
           }
         }
       }
@@ -17840,6 +19478,12 @@
             "state": "translated",
             "value": "只框選會捲動的內容，按「開始擷取」，再以穩定速度往單一向捲動。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש לבחור רק את התוכן הנע, ללחוץ על התחלת צילום ולגלול בכיוון אחד בקצב אחיד."
+          }
         }
       }
     },
@@ -17904,6 +19548,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "區域已更新；只保留會捲動的內容，再按「開始擷取」。按 Esc 取消。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "האזור עודכן. יש להשאיר רק את התוכן הנע בתוכו וללחוץ על התחלת צילום. Esc לביטול."
           }
         }
       }
@@ -17970,6 +19620,12 @@
             "state": "translated",
             "value": "釋放以鎖定更新的滾動區域。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש לשחרר כדי לקבע את אזור הגלילה המעודכן."
+          }
         }
       }
     },
@@ -18034,6 +19690,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "保存失敗。縫合結果已凍結，因此您可以再次嘗試“完成”或“取消”。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "השמירה נכשלה. התוצאה המחוברת קפואה, ואפשר לנסות שוב סיום או לבטל."
           }
         }
       }
@@ -18100,6 +19762,12 @@
             "state": "translated",
             "value": "保存拼接的長圖像。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שומר את התמונה הארוכה המחוברת."
+          }
         }
       }
     },
@@ -18164,6 +19832,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "工作階段進行中。已將 %d 個畫格拼接為 %d 像素。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצילום פעיל. %d מסגרות חוברו לגובה %d פיקסלים."
           }
         }
       }
@@ -18230,6 +19904,12 @@
             "state": "translated",
             "value": "無法擷取所選區域。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן לצלם את האזור שנבחר."
+          }
         }
       }
     },
@@ -18294,6 +19974,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "無法渲染拼接預覽。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן להציג את התצוגה המקדימה המחוברת."
           }
         }
       }
@@ -18360,6 +20046,12 @@
             "state": "translated",
             "value": "等待新內容。保持捲軸朝一個方向移動。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ממתין לתוכן חדש. יש להמשיך לגלול בכיוון אחד."
+          }
         }
       }
     },
@@ -18424,6 +20116,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "自動捲動"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גלילה אוטומטית"
           }
         }
       }
@@ -18490,6 +20188,12 @@
             "state": "translated",
             "value": "已擷取"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צולם"
+          }
         }
       }
     },
@@ -18554,6 +20258,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "整理"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מסיים"
           }
         }
       }
@@ -18620,6 +20330,12 @@
             "state": "translated",
             "value": "直播"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חי"
+          }
         }
       }
     },
@@ -18684,6 +20400,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "暫停"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מושהה"
           }
         }
       }
@@ -18750,6 +20472,12 @@
             "state": "translated",
             "value": "保存"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שומר"
+          }
         }
       }
     },
@@ -18814,6 +20542,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "同步"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מסנכרן"
           }
         }
       }
@@ -18880,6 +20614,12 @@
             "state": "translated",
             "value": "最終幀已鎖定 • %d 幀 • +%d px"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "המסגרת הסופית קובעה • %d מסגרות • +%d פיקסלים"
+          }
         }
       }
     },
@@ -18944,6 +20684,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "確定當前拼接結果 • 跳過最後一幀"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "משלים את התוצאה המחוברת • המסגרת האחרונה דולגה"
           }
         }
       }
@@ -19010,6 +20756,12 @@
             "state": "translated",
             "value": "確定當前結果 • 無新內容"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "משלים את התוצאה הנוכחית • אין תוכן חדש"
+          }
         }
       }
     },
@@ -19074,6 +20826,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "正在完成拼接結果 • %d 幀已鎖定"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "משלים את התוצאה המחוברת • %d מסגרות קובעו"
           }
         }
       }
@@ -19140,6 +20898,12 @@
             "state": "translated",
             "value": "正在完成縫合結果..."
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "משלים את התוצאה המחוברת..."
+          }
         }
       }
     },
@@ -19204,6 +20968,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "第一幀已鎖定"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "המסגרת הראשונה קובעה"
           }
         }
       }
@@ -19270,6 +21040,12 @@
             "state": "translated",
             "value": "已縫合 %d 幀 • +%d px"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%d מסגרות חוברו • +%d פיקסלים"
+          }
         }
       }
     },
@@ -19334,6 +21110,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "已縫合 %d 幀 • 已達到高度限制"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%d מסגרות חוברו • הגעת למגבלת הגובה"
           }
         }
       }
@@ -19400,6 +21182,12 @@
             "state": "translated",
             "value": "已拼接 %d 幀 • 無新內容"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%d מסגרות חוברו • אין תוכן חדש"
+          }
         }
       }
     },
@@ -19464,6 +21252,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Snapzy 鎖定縫合幀時運行實時預覽。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "התצוגה המקדימה החיה פועלת בזמן ש־Snapzy מקבע את המסגרת המחוברת."
           }
         }
       }
@@ -19530,6 +21324,12 @@
             "state": "translated",
             "value": "尚未準備好可保存的縫合結果"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עדיין אין תוצאה מחוברת מוכנה לשמירה"
+          }
         }
       }
     },
@@ -19594,6 +21394,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "保存失敗 • 拼接結果仍準備就緒"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "השמירה נכשלה • התוצאה המחוברת עדיין מוכנה"
           }
         }
       }
@@ -19660,6 +21466,12 @@
             "state": "translated",
             "value": "保存縫合結果..."
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שומר את התוצאה המחוברת..."
+          }
         }
       }
     },
@@ -19724,6 +21536,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "開始擷取以鎖定第一個畫面"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "התחלת צילום תקבע את המסגרת הראשונה"
           }
         }
       }
@@ -19790,6 +21608,12 @@
             "state": "translated",
             "value": "更新區域"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "האזור עודכן"
+          }
         }
       }
     },
@@ -19854,6 +21678,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "手動繼續"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "המשך ידני"
           }
         }
       }
@@ -19920,6 +21750,12 @@
             "state": "translated",
             "value": "當前結果仍已準備好"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "התוצאה הנוכחית עדיין מוכנה"
+          }
         }
       }
     },
@@ -19984,6 +21820,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "當前拼接結果已準備好"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "התוצאה המחוברת הנוכחית מוכנה"
           }
         }
       }
@@ -20050,6 +21892,12 @@
             "state": "translated",
             "value": "僅框架滾動內容"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש למסגר רק את התוכן הנגלל"
+          }
         }
       }
     },
@@ -20114,6 +21962,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "達到高度限制"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הגעת למגבלת הגובה"
           }
         }
       }
@@ -20180,6 +22034,12 @@
             "state": "translated",
             "value": "保持穩定"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש לשמור על יציבות"
+          }
         }
       }
     },
@@ -20244,6 +22104,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "繼續擷取"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אפשר להמשיך לצלם"
           }
         }
       }
@@ -20310,6 +22176,12 @@
             "state": "translated",
             "value": "保持一個方向"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש לשמור על כיוון אחד"
+          }
         }
       }
     },
@@ -20374,6 +22246,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "保持一個方向以獲得乾淨的針跡"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כיוון אחד לחיבור נקי"
           }
         }
       }
@@ -20440,6 +22318,12 @@
             "state": "translated",
             "value": "保持一個方向或重新開始"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש לשמור על כיוון אחד או להתחיל מחדש"
+          }
         }
       }
     },
@@ -20504,6 +22388,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "保持一個方向，以便 Snapzy 可以重新對齊"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש לשמור על כיוון אחד כדי לאפשר יישור מחדש"
           }
         }
       }
@@ -20570,6 +22460,12 @@
             "state": "translated",
             "value": "只保留滾動內容"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש להשאיר רק את התוכן הנגלל"
+          }
         }
       }
     },
@@ -20634,6 +22530,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "繼續向下滾動"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש להמשיך לגלול מטה"
           }
         }
       }
@@ -20700,6 +22602,12 @@
             "state": "translated",
             "value": "保持更穩定的步伐"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש לשמור על קצב אחיד יותר"
+          }
         }
       }
     },
@@ -20764,6 +22672,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "鎖定本次擷取"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מקבע את הצילום הנוכחי"
           }
         }
       }
@@ -20830,6 +22744,12 @@
             "state": "translated",
             "value": "未檢測到新內容"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא זוהה תוכן חדש"
+          }
         }
       }
     },
@@ -20894,6 +22814,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "一個方向，穩健步伐"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כיוון אחד, קצב אחיד"
           }
         }
       }
@@ -20960,6 +22886,12 @@
             "state": "translated",
             "value": "將滑鼠放在擷取區域內"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש למקם את העכבר בתוך אזור הצילום"
+          }
         }
       }
     },
@@ -21024,6 +22956,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "請稍候"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "נא להמתין"
           }
         }
       }
@@ -21090,6 +23028,12 @@
             "state": "translated",
             "value": "按“完成”保存"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לחיצה על סיום לשמירה"
+          }
         }
       }
     },
@@ -21154,6 +23098,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "準備好後按“完成”"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לחיצה על סיום כשהכול מוכן"
           }
         }
       }
@@ -21220,6 +23170,12 @@
             "state": "translated",
             "value": "預覽需要恢復"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש לשחזר את התצוגה המקדימה"
+          }
         }
       }
     },
@@ -21284,6 +23240,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "釋放鎖定區域"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שחרור יקבע את האזור"
           }
         }
       }
@@ -21350,6 +23312,12 @@
             "state": "translated",
             "value": "將指標移回所選區域內即可繼續自動捲動"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש להחזיר את המצביע לאזור הבחירה להמשך הגלילה האוטומטית"
+          }
         }
       }
     },
@@ -21414,6 +23382,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "反向滾動可能會斷線"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גלילה בכיוון הפוך עלולה לפגוע בחיבור"
           }
         }
       }
@@ -21480,6 +23454,12 @@
             "state": "translated",
             "value": "保存當前結果"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שומר את התוצאה הנוכחית"
+          }
         }
       }
     },
@@ -21544,6 +23524,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "保存長截圖"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שומר צילום מסך ארוך"
           }
         }
       }
@@ -21610,6 +23596,12 @@
             "state": "translated",
             "value": "穩步向下滾動"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש לגלול מטה בקצב אחיד"
+          }
         }
       }
     },
@@ -21674,6 +23666,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "請放慢捲動"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש להאט"
           }
         }
       }
@@ -21740,6 +23738,12 @@
             "state": "translated",
             "value": "Snapzy 正在鎖定第一幀"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snapzy מקבע את המסגרת הראשונה"
+          }
         }
       }
     },
@@ -21804,6 +23808,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Snapzy 正在密封縫合結果"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snapzy משלים את התוצאה המחוברת"
           }
         }
       }
@@ -21870,6 +23880,12 @@
             "state": "translated",
             "value": "保持一個方向"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש להישאר בכיוון אחד"
+          }
         }
       }
     },
@@ -21934,6 +23950,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "然後按「開始擷取」"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לאחר מכן יש ללחוץ על התחלת צילום"
           }
         }
       }
@@ -22000,6 +24022,12 @@
             "state": "translated",
             "value": "然後再次嘗試完成"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לאחר מכן יש לנסות שוב סיום"
+          }
         }
       }
     },
@@ -22064,6 +24092,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "再次嘗試完成"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש לנסות שוב סיום"
           }
         }
       }
@@ -22130,6 +24164,12 @@
             "state": "translated",
             "value": "完成 — 儲存本次擷取結果"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מסיים — שומר את הצילום שלך."
+          }
         }
       }
     },
@@ -22194,6 +24234,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "預覽與拼接結果一致。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "התצוגה המקדימה תואמת לצילום המחובר."
           }
         }
       }
@@ -22260,6 +24306,12 @@
             "state": "translated",
             "value": "預覽已暫停 - 緩慢滾動，以便 Snapzy 可以重新對齊。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "התצוגה המקדימה הושהתה — יש לגלול לאט כדי לאפשר יישור מחדש."
+          }
         }
       }
     },
@@ -22324,6 +24376,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "按「開始擷取」以開始"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לחיצה על התחלת צילום תתחיל."
           }
         }
       }
@@ -22390,6 +24448,12 @@
             "state": "translated",
             "value": "正在儲存本次擷取…"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שומר את הצילום שלך..."
+          }
         }
       }
     },
@@ -22454,6 +24518,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "顯示最新的拼接擷取結果"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מציג את הצילום המחובר העדכני."
           }
         }
       }
@@ -22520,6 +24590,12 @@
             "state": "translated",
             "value": "顯示最新的拼接結果，同時 Snapzy 鎖定更新的內容。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מציג את התוצאה המחוברת העדכנית בזמן ש־Snapzy מקבע תוכן חדש יותר."
+          }
         }
       }
     },
@@ -22584,6 +24660,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "擷取中"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מצלם"
           }
         }
       }
@@ -22650,6 +24732,12 @@
             "state": "translated",
             "value": "整理"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מסיים"
+          }
         }
       }
     },
@@ -22714,6 +24802,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "直播"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חי"
           }
         }
       }
@@ -22780,6 +24874,12 @@
             "state": "translated",
             "value": "暫停"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מושהה"
+          }
         }
       }
     },
@@ -22844,6 +24944,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "加工"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מעבד"
           }
         }
       }
@@ -22910,6 +25016,12 @@
             "state": "translated",
             "value": "就緒"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מוכן"
+          }
         }
       }
     },
@@ -22974,6 +25086,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "保存"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שומר"
           }
         }
       }
@@ -23040,6 +25158,12 @@
             "state": "translated",
             "value": "開始擷取"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "התחלת צילום"
+          }
         }
       }
     },
@@ -23104,6 +25228,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "停止"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עצירה"
           }
         }
       }
@@ -23170,6 +25300,12 @@
             "state": "translated",
             "value": "縫合框架尚未準備好。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עדיין אין מסגרת מחוברת מוכנה."
+          }
         }
       }
     },
@@ -23235,6 +25371,12 @@
             "state": "translated",
             "value": "捲動截圖已儲存拼接影像。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצילום בגלילה שמר את התמונה המחוברת."
+          }
         }
       }
     },
@@ -23299,6 +25441,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "捲動截圖工作階段已在進行中。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צילום בגלילה כבר פעיל."
           }
         }
       }

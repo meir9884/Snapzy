@@ -114,6 +114,7 @@ struct SnapzyOnboardingView: View {
       maxHeight: SnapzyOnboardingMetrics.maxSize.height
     )
     .environment(\.colorScheme, .dark)
+    .environment(\.layoutDirection, onboardingLocalization.effectiveLanguageIdentifier == "he" ? .rightToLeft : .leftToRight)
     .background(keyboardShortcuts)
     .animation(SnapzyMotionPreferences.shared.spec(.morph).animation, value: state.currentStep)
   }

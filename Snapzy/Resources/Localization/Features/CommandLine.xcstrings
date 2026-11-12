@@ -64,6 +64,12 @@
             "state": "translated",
             "value": "允許 App 和 AI 代理使用 snapzy 指令擷取畫面"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אפשר ליישומים ולסוכני בינה מלאכותית לצלם באמצעות הפקודה snapzy"
+          }
         }
       }
     },
@@ -129,6 +135,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "命令列存取"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גישה משורת הפקודה"
           }
         }
       }
@@ -196,6 +208,12 @@
             "state": "translated",
             "value": "要求使用 snapzy 指令的 App"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יישומים שביקשו להשתמש בפקודה snapzy"
+          }
         }
       }
     },
@@ -261,6 +279,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "還沒有 App 提出要求"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אף יישום עדיין לא ביקש גישה"
           }
         }
       }
@@ -328,6 +352,12 @@
             "state": "translated",
             "value": "允許的 App"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יישומים מורשים"
+          }
         }
       }
     },
@@ -393,6 +423,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "%@ 透過 snapzy 指令擷取了螢幕"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ צילם את המסך באמצעות הפקודה snapzy"
           }
         }
       }
@@ -460,6 +496,12 @@
             "state": "translated",
             "value": "拷貝指令"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "העתקת הפקודה"
+          }
         }
       }
     },
@@ -525,6 +567,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "%@ 已存在且不是連結。請將其移除後再試一次。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ כבר קיים ואינו קישור. יש להסיר אותו ולנסות שוב."
           }
         }
       }
@@ -592,6 +640,12 @@
             "state": "translated",
             "value": "變更已取消。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "השינוי בוטל."
+          }
         }
       }
     },
@@ -657,6 +711,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "此 Snapzy 副本不包含 snapzy 指令。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עותק זה של Snapzy אינו כולל את הפקודה snapzy."
           }
         }
       }
@@ -724,6 +784,12 @@
             "state": "translated",
             "value": "Snapzy 是透過 Homebrew 安裝的，snapzy 指令由 Homebrew 加入。請在終端機中執行 %@。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snapzy הותקן באמצעות Homebrew, שמוסיף את הפקודה snapzy. יש להריץ %@ בטרמינל."
+          }
         }
       }
     },
@@ -789,6 +855,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "%1$@ 已連結到 %2$@。請移除該連結後再試一次。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ כבר מקושר אל %2$@. יש להסיר את הקישור ולנסות שוב."
           }
         }
       }
@@ -856,6 +928,12 @@
             "state": "translated",
             "value": "請先將 Snapzy 移到「應用程式」檔案夾。它正從暫時位置執行。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש להעביר תחילה את Snapzy לתיקיית היישומים. הוא פועל ממיקום זמני."
+          }
         }
       }
     },
@@ -921,6 +999,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "允許 App 和 AI 代理使用 snapzy 指令截圖，並選擇誰可以使用。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אפשר ליישומים ולסוכני בינה מלאכותית לצלם באמצעות הפקודה snapzy, ובחר למי מותר להשתמש בה."
           }
         }
       }
@@ -988,6 +1072,12 @@
             "state": "translated",
             "value": "安裝"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "התקנה"
+          }
         }
       }
     },
@@ -1053,6 +1143,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "安裝後會將 snapzy 加入 PATH，可在任何終端機或 AI 代理中直接輸入。不安裝 Snapzy 也能正常使用。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ההתקנה מוסיפה את snapzy ל־PATH, כך שניתן להקליד את הפקודה בכל טרמינל או סוכן בינה מלאכותית. Snapzy פועל גם בלעדיה."
           }
         }
       }
@@ -1120,6 +1216,12 @@
             "state": "translated",
             "value": "無法更新 snapzy 指令"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן לעדכן את הפקודה snapzy"
+          }
         }
       }
     },
@@ -1185,6 +1287,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "允許一次"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אישור חד־פעמי"
           }
         }
       }
@@ -1252,6 +1360,12 @@
             "state": "translated",
             "value": "永遠允許"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אישור תמיד"
+          }
         }
       }
     },
@@ -1317,6 +1431,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "不允許"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא לאפשר"
           }
         }
       }
@@ -1384,6 +1504,12 @@
             "state": "translated",
             "value": "它執行了「snapzy %@」。若允許，此 App 及其執行的任何程式都能透過 Snapzy 擷取你的顯示器和視窗。你可以稍後在「設定 → 命令列」中更改。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "היישום הפעיל את ״snapzy %@״. מתן אישור יאפשר ליישום ולכל מה שהוא מפעיל לצלם את הצגים והחלונות באמצעות Snapzy. ניתן לשנות זאת בהמשך בהגדרות ← שורת הפקודה."
+          }
         }
       }
     },
@@ -1449,6 +1575,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "「%@」想透過 Snapzy 擷取你的螢幕"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "״%@״ מבקש לצלם את המסך באמצעות Snapzy"
           }
         }
       }
@@ -1516,6 +1648,12 @@
             "state": "translated",
             "value": "Snapzy 無法驗證此 App 的開發者。僅在你信任位於 %@ 的 App 時才允許。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snapzy לא הצליח לאמת מי יצר את היישום. יש לאשר רק אם היישום שבנתיב %@ מהימן בעיניך."
+          }
         }
       }
     },
@@ -1581,6 +1719,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "全部移除"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הסרת הכול"
           }
         }
       }
@@ -1648,6 +1792,12 @@
             "state": "translated",
             "value": "移除"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הסרה"
+          }
         }
       }
     },
@@ -1713,6 +1863,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "已允許"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מורשה"
           }
         }
       }
@@ -1780,6 +1936,12 @@
             "state": "translated",
             "value": "已拒絕"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "נדחה"
+          }
         }
       }
     },
@@ -1845,6 +2007,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "%@ 是檔案，不是連結"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ הוא קובץ ולא קישור"
           }
         }
       }
@@ -1912,6 +2080,12 @@
             "state": "translated",
             "value": "已由 Homebrew 安裝於 %@"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הותקן באמצעות Homebrew בנתיב %@"
+          }
         }
       }
     },
@@ -1977,6 +2151,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "已透過 Homebrew 安裝。在終端機中執行 %@ 以將其加入 PATH"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הותקן באמצעות Homebrew. יש להריץ %@ בטרמינל כדי להוסיף ל־PATH"
           }
         }
       }
@@ -2044,6 +2224,12 @@
             "state": "translated",
             "value": "已安裝於 %@"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מותקן בנתיב %@"
+          }
         }
       }
     },
@@ -2109,6 +2295,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "尚未加入 PATH。App 仍可從 Snapzy.app/Contents/Helpers 執行它"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עדיין לא נמצא ב־PATH. יישומים עדיין יכולים להפעילו מתוך Snapzy.app/Contents/Helpers"
           }
         }
       }
@@ -2176,6 +2368,12 @@
             "state": "translated",
             "value": "連結到另一個副本：%@"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מקושר לעותק אחר: %@"
+          }
         }
       }
     },
@@ -2241,6 +2439,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "snapzy 指令"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הפקודה snapzy"
           }
         }
       }
@@ -2308,6 +2512,12 @@
             "state": "translated",
             "value": "解除安裝"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הסרת התקנה"
+          }
         }
       }
     },
@@ -2373,6 +2583,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "不明 App"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יישום לא מוכר"
           }
         }
       }

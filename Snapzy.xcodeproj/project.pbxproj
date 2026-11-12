@@ -244,6 +244,7 @@
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				he,
 				en,
 				vi,
 				Base,

@@ -21,6 +21,7 @@ struct PreferencesView: View {
       detail
     }
     .navigationSplitViewStyle(.balanced)
+    .environment(\.layoutDirection, AppLanguageManager.shared.activeEffectiveLanguageIdentifier == "he" ? .rightToLeft : .leftToRight)
     .preferredColorScheme(themeManager.systemAppearance)
     .frame(minWidth: PreferencesWindowController.minimumContentSize.width,
            minHeight: PreferencesWindowController.minimumContentSize.height)

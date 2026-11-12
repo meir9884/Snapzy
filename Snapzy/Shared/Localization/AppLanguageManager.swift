@@ -17,6 +17,7 @@ struct AppLanguageOption: Identifiable, Hashable {
   var id: String { identifier }
 
   static let supported: [AppLanguageOption] = [
+    AppLanguageOption(identifier: "he", displayName: "עברית", greeting: "שלום"),
     AppLanguageOption(identifier: "en", displayName: "English", greeting: "Hello"),
     AppLanguageOption(identifier: "vi", displayName: "Tiếng Việt", greeting: "Xin chào"),
     AppLanguageOption(identifier: "zh-Hans", displayName: "简体中文", greeting: "欢迎"),
@@ -48,6 +49,15 @@ final class AppLanguageManager: ObservableObject {
   private let activeLanguageIdentifier: String
 
   private static let appleLanguagesKey = "AppleLanguages"
+
+  /// This fork starts in Hebrew once, while preserving later language choices.
+  static func prepareDefaultLanguage() {
+    let defaults = UserDefaults.standard
+    let key = "SnapzyHebrewDefaultApplied"
+    guard !defaults.bool(forKey: key) else { return }
+    defaults.set(["he"], forKey: appleLanguagesKey)
+    defaults.set(true, forKey: key)
+  }
 
   private init() {
     let bundledLanguageIdentifiers = Set(Bundle.main.localizations)
@@ -152,6 +162,8 @@ final class AppLanguageManager: ObservableObject {
     }
 
     let prefixMap: [(prefix: String, identifier: String)] = [
+      ("he", "he"),
+      ("iw", "he"),
       ("en", "en"),
       ("vi", "vi"),
       ("es", "es"),

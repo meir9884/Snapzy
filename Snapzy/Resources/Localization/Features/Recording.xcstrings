@@ -63,6 +63,12 @@
             "state": "translated",
             "value": "需要相機權限"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "נדרשת גישה למצלמה"
+          }
         }
       }
     },
@@ -127,6 +133,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "選擇相機輸入"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בחירת קלט מצלמה"
           }
         }
       }
@@ -193,6 +205,12 @@
             "state": "translated",
             "value": "接續互通相機"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מצלמת המשכיות"
+          }
         }
       }
     },
@@ -257,6 +275,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "相機已中斷連線。正在等待重新連線…"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "המצלמה התנתקה. ממתין לחיבור מחדש…"
           }
         }
       }
@@ -323,6 +347,12 @@
             "state": "translated",
             "value": "不使用相機"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ללא שימוש במצלמה"
+          }
         }
       }
     },
@@ -387,6 +417,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "相機已關閉"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "המצלמה כבויה"
           }
         }
       }
@@ -453,6 +489,12 @@
             "state": "translated",
             "value": "相機已開啟"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "המצלמה מופעלת"
+          }
         }
       }
     },
@@ -517,6 +559,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "相機選項"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אפשרויות מצלמה"
           }
         }
       }
@@ -583,6 +631,12 @@
             "state": "translated",
             "value": "Snapzy 需要相機權限。請在「系統設定」>「隱私權與安全性」>「相機」中啟用。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ל־Snapzy נדרשת הרשאת מצלמה. יש להפעיל אותה בהגדרות המערכת ← פרטיות ואבטחה ← מצלמה."
+          }
         }
       }
     },
@@ -647,6 +701,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Snapzy 需要相機權限以在錄影中加入相機畫面疊加。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ל־Snapzy נדרשת הרשאת מצלמה כדי להוסיף תצוגת מצלמה להקלטה."
           }
         }
       }
@@ -713,6 +773,12 @@
             "state": "translated",
             "value": "系統預設相機"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מצלמת ברירת המחדל של המערכת"
+          }
         }
       }
     },
@@ -777,6 +843,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "相機無法使用"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "המצלמה אינה זמינה"
           }
         }
       }
@@ -843,6 +915,12 @@
             "state": "translated",
             "value": "無法創建 GIF 輸出檔案"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יצירת קובץ הפלט של ה־GIF נכשלה"
+          }
         }
       }
     },
@@ -907,6 +985,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "無法讀取 GIF 檔案"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן לקרוא את קובץ ה־GIF"
           }
         }
       }
@@ -973,6 +1057,12 @@
             "state": "translated",
             "value": "未能完成 GIF 檔案"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "השלמת קובץ ה־GIF נכשלה"
+          }
         }
       }
     },
@@ -1037,6 +1127,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "無法完成調整大小的 GIF"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "השלמת ה־GIF לאחר שינוי הגודל נכשלה"
           }
         }
       }
@@ -1103,6 +1199,12 @@
             "state": "translated",
             "value": "影片檔案無效或為空"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קובץ הווידאו אינו תקין או ריק"
+          }
         }
       }
     },
@@ -1167,6 +1269,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "無法從影片中提取任何幀"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן לחלץ תמונות מהווידאו"
           }
         }
       }
@@ -1233,6 +1341,12 @@
             "state": "translated",
             "value": "GIF 不包含幀"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ה־GIF אינו מכיל תמונות"
+          }
         }
       }
     },
@@ -1297,6 +1411,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "底部中心"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "למטה במרכז"
           }
         }
       }
@@ -1363,6 +1483,12 @@
             "state": "translated",
             "value": "左下"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "למטה משמאל"
+          }
         }
       }
     },
@@ -1427,6 +1553,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "右下"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "למטה מימין"
           }
         }
       }
@@ -1493,6 +1625,12 @@
             "state": "translated",
             "value": "頂部中心"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "למעלה במרכז"
+          }
         }
       }
     },
@@ -1557,6 +1695,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "左上"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "למעלה משמאל"
           }
         }
       }
@@ -1623,6 +1767,12 @@
             "state": "translated",
             "value": "右上角"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "למעלה מימין"
+          }
         }
       }
     },
@@ -1687,6 +1837,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "需要麥克風訪問"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "נדרשת גישה למיקרופון"
           }
         }
       }
@@ -1753,6 +1909,12 @@
             "state": "translated",
             "value": "選擇麥克風輸入"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בחירת קלט מיקרופון"
+          }
         }
       }
     },
@@ -1817,6 +1979,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "不使用麥克風繼續"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "המשך ללא מיקרופון"
           }
         }
       }
@@ -1883,6 +2051,12 @@
             "state": "translated",
             "value": "不使用麥克風"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ללא שימוש במיקרופון"
+          }
         }
       }
     },
@@ -1947,6 +2121,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "麥克風靜音"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "השתקת המיקרופון"
           }
         }
       }
@@ -2013,6 +2193,12 @@
             "state": "translated",
             "value": "麥克風關閉"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "המיקרופון כבוי"
+          }
         }
       }
     },
@@ -2077,6 +2263,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "麥克風打開"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "המיקרופון מופעל"
           }
         }
       }
@@ -2143,6 +2335,12 @@
             "state": "translated",
             "value": "麥克風選項"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אפשרויות מיקרופון"
+          }
         }
       }
     },
@@ -2207,6 +2405,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Snapzy 需要麥克風權限。請在系統設置 > 隱私和安全 > 麥克風中啓用它。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ל־Snapzy נדרשת הרשאת מיקרופון. יש להפעיל אותה בהגדרות המערכת ← פרטיות ואבטחה ← מיקרופון."
           }
         }
       }
@@ -2273,6 +2477,12 @@
             "state": "translated",
             "value": "Snapzy 需要麥克風權限才能錄製音頻。請在系統設置中授予訪問權限。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ל־Snapzy נדרשת הרשאת מיקרופון להקלטת שמע. יש להעניק גישה בהגדרות המערכת."
+          }
         }
       }
     },
@@ -2337,6 +2547,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "系統預設麥克風"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מיקרופון ברירת המחדל של המערכת"
           }
         }
       }
@@ -2403,6 +2619,12 @@
             "state": "translated",
             "value": "不可用"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא זמין"
+          }
         }
       }
     },
@@ -2467,6 +2689,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "自動清除：%@"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ניקוי אוטומטי: %@"
           }
         }
       }
@@ -2533,6 +2761,12 @@
             "state": "translated",
             "value": "最後 %d"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%d האחרונים"
+          }
         }
       }
     },
@@ -2597,6 +2831,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "控制（⌃）"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Control (⌃)"
           }
         }
       }
@@ -2663,6 +2903,12 @@
             "state": "translated",
             "value": "選項 (⌥)"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Option (⌥)"
+          }
         }
       }
     },
@@ -2727,6 +2973,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "移位 (⇧)"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shift (⇧)"
           }
         }
       }
@@ -2793,6 +3045,12 @@
             "state": "translated",
             "value": "保留標註"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "השארה"
+          }
         }
       }
     },
@@ -2857,6 +3115,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "區域選擇"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בחירת אזור"
           }
         }
       }
@@ -2923,6 +3187,12 @@
             "state": "translated",
             "value": "區域擷取"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צילום אזור נבחר"
+          }
         }
       }
     },
@@ -2987,6 +3257,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "音頻"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שמע"
           }
         }
       }
@@ -3053,6 +3329,12 @@
             "state": "translated",
             "value": "取消錄屏"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ביטול ההקלטה"
+          }
         }
       }
     },
@@ -3117,6 +3399,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "截圖"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צילום מסך"
           }
         }
       }
@@ -3183,6 +3471,12 @@
             "state": "translated",
             "value": "點按以停止錄製 (%@)"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לחיצה לעצירת ההקלטה (%@)"
+          }
         }
       }
     },
@@ -3248,6 +3542,12 @@
             "state": "translated",
             "value": "刪除錄屏"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מחיקת ההקלטה"
+          }
         }
       }
     },
@@ -3311,6 +3611,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "調暗未選取的區域"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עמעום האזור שלא נבחר"
           }
         }
       }
@@ -3377,6 +3683,12 @@
             "state": "translated",
             "value": "關閉標註"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "השבתת הסימונים"
+          }
         }
       }
     },
@@ -3441,6 +3753,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "開啟標註"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הפעלת הסימונים"
           }
         }
       }
@@ -3507,6 +3825,12 @@
             "state": "translated",
             "value": "格式"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פורמט"
+          }
         }
       }
     },
@@ -3571,6 +3895,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "全螢幕擷取"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צילום מסך מלא"
           }
         }
       }
@@ -3637,6 +3967,12 @@
             "state": "translated",
             "value": "突出顯示按一下次數"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הדגשת לחיצות"
+          }
         }
       }
     },
@@ -3701,6 +4037,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "麥克風"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מיקרופון"
           }
         }
       }
@@ -3767,6 +4109,12 @@
             "state": "translated",
             "value": "選項"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אפשרויות"
+          }
         }
       }
     },
@@ -3831,6 +4179,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "錄屏選項"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אפשרויות הקלטה"
           }
         }
       }
@@ -3897,6 +4251,12 @@
             "state": "translated",
             "value": "打開格式、品質和疊加層設定"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פתיחת הגדרות הפורמט, האיכות והשכבות"
+          }
         }
       }
     },
@@ -3961,6 +4321,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "動圖"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "GIF"
           }
         }
       }
@@ -4027,6 +4393,12 @@
             "state": "translated",
             "value": "輸出模式"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מצב פלט"
+          }
         }
       }
     },
@@ -4091,6 +4463,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "打開輸出格式選擇"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פתיחת בחירת פורמט הפלט"
           }
         }
       }
@@ -4157,6 +4535,12 @@
             "state": "translated",
             "value": "影片"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "וידאו"
+          }
         }
       }
     },
@@ -4221,6 +4605,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "浮層"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שכבות"
           }
         }
       }
@@ -4287,6 +4677,12 @@
             "state": "translated",
             "value": "自動"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אוטומטית"
+          }
         }
       }
     },
@@ -4351,6 +4747,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "原生"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מקורית"
           }
         }
       }
@@ -4417,6 +4819,12 @@
             "state": "translated",
             "value": "最大解析度"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "רזולוציה מרבית"
+          }
         }
       }
     },
@@ -4481,6 +4889,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "暫停錄屏"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "השהיית ההקלטה"
           }
         }
       }
@@ -4547,6 +4961,12 @@
             "state": "translated",
             "value": "高"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גבוהה"
+          }
         }
       }
     },
@@ -4611,6 +5031,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "低"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "נמוכה"
           }
         }
       }
@@ -4677,6 +5103,12 @@
             "state": "translated",
             "value": "中等"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בינונית"
+          }
         }
       }
     },
@@ -4741,6 +5173,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "質量"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "איכות"
           }
         }
       }
@@ -4807,6 +5245,12 @@
             "state": "translated",
             "value": "記錄"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הקלטה"
+          }
         }
       }
     },
@@ -4871,6 +5315,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "錄屏中"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ההקלטה מתבצעת"
           }
         }
       }
@@ -4937,6 +5387,12 @@
             "state": "translated",
             "value": "錄屏暫停"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ההקלטה מושהית"
+          }
         }
       }
     },
@@ -5001,6 +5457,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "重新開始錄屏"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "התחלת ההקלטה מחדש"
           }
         }
       }
@@ -5067,6 +5529,12 @@
             "state": "translated",
             "value": "恢復錄屏"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "המשך ההקלטה"
+          }
         }
       }
     },
@@ -5131,6 +5599,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "錄屏設置"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הגדרות הקלטה"
           }
         }
       }
@@ -5197,6 +5671,12 @@
             "state": "translated",
             "value": "顯示游標"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצגת הסמן"
+          }
         }
       }
     },
@@ -5261,6 +5741,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "顯示擊鍵"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצגת הקשות מקלדת"
           }
         }
       }
@@ -5327,6 +5813,12 @@
             "state": "translated",
             "value": "開始錄屏為 %@"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "התחלת הקלטה בפורמט %@"
+          }
         }
       }
     },
@@ -5391,6 +5883,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "使用當前設置開始螢幕錄製"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "התחלת הקלטת המסך עם ההגדרות הנוכחיות"
           }
         }
       }
@@ -5457,6 +5955,12 @@
             "state": "translated",
             "value": "錄屏狀態欄"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שורת מצב ההקלטה"
+          }
         }
       }
     },
@@ -5521,6 +6025,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "停止"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עצירה"
           }
         }
       }
@@ -5587,6 +6097,12 @@
             "state": "translated",
             "value": "停止錄屏 - 持續時間：%@"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עצירת ההקלטה — משך: %@"
+          }
         }
       }
     },
@@ -5651,6 +6167,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "停止並保存錄屏"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עצירה ושמירה של ההקלטה"
           }
         }
       }
@@ -5717,6 +6239,12 @@
             "state": "translated",
             "value": "系統音頻"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שמע המערכת"
+          }
         }
       }
     },
@@ -5781,6 +6309,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "錄屏工具欄"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סרגל כלי ההקלטה"
           }
         }
       }
@@ -5847,6 +6381,12 @@
             "state": "translated",
             "value": "選擇 Snapzy 保存螢幕截圖和錄屏的位置"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש לבחור היכן Snapzy ישמור צילומי מסך והקלטות"
+          }
         }
       }
     },
@@ -5911,6 +6451,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "刪除錄屏"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מחיקת ההקלטה"
           }
         }
       }
@@ -5977,6 +6523,12 @@
             "state": "translated",
             "value": "目前的錄屏將被捨棄且不會儲存。此操作無法復原。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ההקלטה הנוכחית תימחק ולא תישמר. לא ניתן לבטל פעולה זו."
+          }
         }
       }
     },
@@ -6041,6 +6593,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "刪除錄屏？"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "למחוק את ההקלטה?"
           }
         }
       }
@@ -6107,6 +6665,12 @@
             "state": "translated",
             "value": "錄屏已取消"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ההקלטה בוטלה"
+          }
         }
       }
     },
@@ -6171,6 +6735,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "無法加入麥克風音訊輸入"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן להוסיף קלט לכתיבת שמע המיקרופון"
           }
         }
       }
@@ -6237,6 +6807,12 @@
             "state": "translated",
             "value": "無法加入系統音訊輸入"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן להוסיף קלט לכתיבת שמע המערכת"
+          }
         }
       }
     },
@@ -6301,6 +6877,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "無法加入影片輸入"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן להוסיף קלט לכתיבת הווידאו"
           }
         }
       }
@@ -6367,6 +6949,12 @@
             "state": "translated",
             "value": "無法開始寫入"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תחילת הכתיבה נכשלה"
+          }
         }
       }
     },
@@ -6431,6 +7019,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "麥克風權限被拒絕"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הרשאת המיקרופון נדחתה"
           }
         }
       }
@@ -6497,6 +7091,12 @@
             "state": "translated",
             "value": "找不到顯示器"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא נמצא צג"
+          }
         }
       }
     },
@@ -6561,6 +7161,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "沒有輸出 URL"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אין כתובת לפלט"
           }
         }
       }
@@ -6627,6 +7233,12 @@
             "state": "translated",
             "value": "螢幕錄製權限被拒絕"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הרשאת הקלטת המסך נדחתה"
+          }
         }
       }
     },
@@ -6691,6 +7303,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "選擇區域超出顯示範圍"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "האזור שנבחר חורג מגבולות הצג"
           }
         }
       }
@@ -6757,6 +7375,12 @@
             "state": "translated",
             "value": "初始化失敗：%@"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ההגדרה נכשלה: %@"
+          }
         }
       }
     },
@@ -6821,6 +7445,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "ScreenCaptureKit 無法加載可共享內容：%@"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ScreenCaptureKit לא הצליח לטעון תוכן לשיתוף: %@"
           }
         }
       }
@@ -6887,6 +7517,12 @@
             "state": "translated",
             "value": "寫入失敗：%@"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הכתיבה נכשלה: %@"
+          }
         }
       }
     },
@@ -6951,6 +7587,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "錄屏失敗"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ההקלטה נכשלה"
           }
         }
       }
@@ -7017,6 +7659,12 @@
             "state": "translated",
             "value": "繼續錄製"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "המשך הקלטה"
+          }
         }
       }
     },
@@ -7081,6 +7729,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "捨棄並重新開始"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מחיקה והתחלה מחדש"
           }
         }
       }
@@ -7147,6 +7801,12 @@
             "state": "translated",
             "value": "目前的錄屏將被捨棄並重新開始錄製。此操作無法復原。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ההקלטה הנוכחית תימחק ותתחיל הקלטה חדשה. לא ניתן לבטל פעולה זו."
+          }
         }
       }
     },
@@ -7211,6 +7871,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "重新開始錄屏？"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "להתחיל את ההקלטה מחדש?"
           }
         }
       }
@@ -7277,6 +7943,12 @@
             "state": "translated",
             "value": "Snapzy 需要存取儲存資料夾才能繼續。請在引導流程中選擇資料夾，或立即授予存取權限。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ל־Snapzy נדרשת הרשאה לתיקיית שמירה כדי להמשיך. יש לבחור תיקייה במדריך הפתיחה או להעניק גישה כעת."
+          }
         }
       }
     },
@@ -7341,6 +8013,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "需要存取儲存位置"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "נדרשת גישה למיקום השמירה"
           }
         }
       }
@@ -7407,6 +8085,12 @@
             "state": "translated",
             "value": "截圖失敗"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צילום המסך נכשל"
+          }
         }
       }
     },
@@ -7471,6 +8155,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "形狀"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צורה"
           }
         }
       }
@@ -7537,6 +8227,12 @@
             "state": "translated",
             "value": "預設 (矩形)"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ברירת מחדל (מלבן)"
+          }
         }
       }
     },
@@ -7601,6 +8297,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "正方形"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ריבוע"
           }
         }
       }
@@ -7667,6 +8369,12 @@
             "state": "translated",
             "value": "圓形"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עיגול"
+          }
         }
       }
     },
@@ -7731,6 +8439,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "大小"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גודל"
           }
         }
       }
@@ -7797,6 +8511,12 @@
             "state": "translated",
             "value": "小"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קטן"
+          }
         }
       }
     },
@@ -7861,6 +8581,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "中"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בינוני"
           }
         }
       }
@@ -7927,6 +8653,12 @@
             "state": "translated",
             "value": "大"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גדול"
+          }
         }
       }
     },
@@ -7992,6 +8724,12 @@
             "state": "translated",
             "value": "鏡像鏡頭"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שיקוף המצלמה"
+          }
         }
       }
     },
@@ -8056,6 +8794,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "關閉鏡頭"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כיבוי המצלמה"
           }
         }
       }

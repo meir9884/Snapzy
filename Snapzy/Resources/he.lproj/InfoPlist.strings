@@ -1,0 +1,4 @@
+"NSMicrophoneUsageDescription" = "ל־Snapzy נדרשת גישה למיקרופון כדי להקליט שמע יחד עם הקלטות המסך.";
+"NSCameraUsageDescription" = "ל־Snapzy נדרשת גישה למצלמה כדי להוסיף תצוגת מצלמה להקלטות המסך.";
+"NSScreenCaptureUsageDescription" = "ל־Snapzy נדרשת הרשאת הקלטת מסך כדי לצלם תמונות ולהקליט את המסך.";
+"CFBundleTypeName" = "תמונה";

@@ -63,6 +63,12 @@
             "state": "translated",
             "value": "1 天"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יום אחד"
+          }
         }
       }
     },
@@ -127,6 +133,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "14 天"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "14 ימים"
           }
         }
       }
@@ -193,6 +205,12 @@
             "state": "translated",
             "value": "3天"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3 ימים"
+          }
         }
       }
     },
@@ -257,6 +275,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "30 天"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "30 ימים"
           }
         }
       }
@@ -323,6 +347,12 @@
             "state": "translated",
             "value": "60 天"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "60 ימים"
+          }
         }
       }
     },
@@ -387,6 +417,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "7 天"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "7 ימים"
           }
         }
       }
@@ -453,6 +489,12 @@
             "state": "translated",
             "value": "90 天"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "90 ימים"
+          }
         }
       }
     },
@@ -517,6 +559,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "永久"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ללא תפוגה"
           }
         }
       }
@@ -583,6 +631,12 @@
             "state": "translated",
             "value": "儲存桶驗證失敗"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אימות מכל האחסון נכשל"
+          }
         }
       }
     },
@@ -647,6 +701,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "刪除失敗：%@"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "המחיקה נכשלה: %@"
           }
         }
       }
@@ -713,6 +773,12 @@
             "state": "translated",
             "value": "無法刪除生命週期配置：%@"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מחיקת תצורת מחזור החיים נכשלה: %@"
+          }
         }
       }
     },
@@ -777,6 +843,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "無法構造預簽名 URL"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יצירת כתובת חתומה מראש נכשלה"
           }
         }
       }
@@ -843,6 +915,12 @@
             "state": "translated",
             "value": "無法對鑰匙串值進行編碼"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קידוד ערך בצרור המפתחות נכשל"
+          }
         }
       }
     },
@@ -907,6 +985,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "找不到檔案：%@"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הקובץ לא נמצא: %@"
           }
         }
       }
@@ -973,6 +1057,12 @@
             "state": "translated",
             "value": "無法獲取生命週期配置：%@"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קבלת תצורת מחזור החיים נכשלה: %@"
+          }
         }
       }
     },
@@ -1037,6 +1127,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "雲憑據無效。請驗證您的訪問密鑰和秘密密鑰。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פרטי ההתחברות לענן אינם תקינים. יש לבדוק את מפתח הגישה ואת המפתח הסודי."
           }
         }
       }
@@ -1103,6 +1199,12 @@
             "state": "translated",
             "value": "無效的請求 URL 或方法"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כתובת או שיטת בקשה לא תקינה"
+          }
         }
       }
     },
@@ -1167,6 +1269,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "雲提供商的響應無效。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תגובה לא תקינה מספק הענן."
           }
         }
       }
@@ -1233,6 +1341,12 @@
             "state": "translated",
             "value": "預簽名 URL 無效"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כתובת לא תקינה לחתימה מראש"
+          }
         }
       }
     },
@@ -1297,6 +1411,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "鑰匙串錯誤：%@"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שגיאת צרור מפתחות: %@"
           }
         }
       }
@@ -1363,6 +1483,12 @@
             "state": "translated",
             "value": "網絡錯誤：%@"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שגיאת רשת: %@"
+          }
         }
       }
     },
@@ -1427,6 +1553,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "未配置雲存儲。請在“首選項”->“雲”中設置您的憑據。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אחסון הענן אינו מוגדר. יש להגדיר את פרטי ההתחברות בהעדפות ← ענן."
           }
         }
       }
@@ -1493,6 +1625,12 @@
             "state": "translated",
             "value": "SecItemAdd 失敗：%d"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SecItemAdd נכשל: %d"
+          }
         }
       }
     },
@@ -1557,6 +1695,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "SecItemUpdate 失敗：%d"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SecItemUpdate נכשל: %d"
           }
         }
       }
@@ -1623,6 +1767,12 @@
             "state": "translated",
             "value": "無法設置生命週期配置：%@"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הגדרת תצורת מחזור החיים נכשלה: %@"
+          }
         }
       }
     },
@@ -1687,6 +1837,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "請求籤名失敗：%@"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חתימת הבקשה נכשלה: %@"
           }
         }
       }
@@ -1753,6 +1909,12 @@
             "state": "translated",
             "value": "上傳失敗（HTTP %d）：%@"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ההעלאה נכשלה (HTTP %d): %@"
+          }
         }
       }
     },
@@ -1817,6 +1979,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "無法從鑰匙串讀取保存的保護密碼。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן לקרוא את סיסמת ההגנה השמורה מצרור המפתחות."
           }
         }
       }
@@ -1883,6 +2051,12 @@
             "state": "translated",
             "value": "未授予鑰匙串訪問權限。允許訪問並重試。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתנה גישה לצרור המפתחות. יש לאפשר גישה ולנסות שוב."
+          }
         }
       }
     },
@@ -1947,6 +2121,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "鑰匙串交互目前不可用。解鎖您的 Mac，然後重試。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צרור המפתחות אינו זמין כרגע. יש לבטל את נעילת ה־Mac ולנסות שוב."
           }
         }
       }
@@ -2013,6 +2193,12 @@
             "state": "translated",
             "value": "未配置保護密碼。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סיסמת ההגנה אינה מוגדרת."
+          }
         }
       }
     },
@@ -2074,6 +2260,12 @@
           }
         },
         "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AWS S3"
+          }
+        },
+        "he": {
           "stringUnit": {
             "state": "translated",
             "value": "AWS S3"
@@ -2143,6 +2335,12 @@
             "state": "translated",
             "value": "Cloudflare R2"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cloudflare R2"
+          }
         }
       }
     },
@@ -2204,6 +2402,12 @@
           }
         },
         "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Google Drive"
+          }
+        },
+        "he": {
           "stringUnit": {
             "state": "translated",
             "value": "Google Drive"
@@ -2273,6 +2477,12 @@
             "state": "translated",
             "value": "訪問密鑰"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מפתח גישה"
+          }
         }
       }
     },
@@ -2337,6 +2547,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "訪問密鑰 ID"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מזהה מפתח גישה"
           }
         }
       }
@@ -2403,6 +2619,12 @@
             "state": "translated",
             "value": "您的雲提供商訪問密鑰"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מפתח הגישה שלך אצל ספק הענן"
+          }
         }
       }
     },
@@ -2467,6 +2689,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "桶：%@"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מכל אחסון: %@"
           }
         }
       }
@@ -2533,6 +2761,12 @@
             "state": "translated",
             "value": "存儲桶名稱"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שם מכל האחסון"
+          }
         }
       }
     },
@@ -2597,6 +2831,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "S3 或 R2 存儲桶名稱"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שם מכל האחסון ב־S3 או R2"
           }
         }
       }
@@ -2663,6 +2903,12 @@
             "state": "translated",
             "value": "配置已保存，但密碼設置失敗：%@"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "התצורה נשמרה, אך הגדרת הסיסמה נכשלה: %@"
+          }
         }
       }
     },
@@ -2727,6 +2973,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "確認密碼"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אימות הסיסמה"
           }
         }
       }
@@ -2793,6 +3045,12 @@
             "state": "translated",
             "value": "重新輸入保護密碼"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הזנה חוזרת של סיסמת ההגנה"
+          }
         }
       }
     },
@@ -2856,6 +3114,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "已連線"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מחובר"
           }
         }
       }
@@ -2922,6 +3186,12 @@
             "state": "translated",
             "value": "連接驗證成功！"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "החיבור אומת בהצלחה!"
+          }
         }
       }
     },
@@ -2986,6 +3256,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "憑證"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פרטי התחברות"
           }
         }
       }
@@ -3052,6 +3328,12 @@
             "state": "translated",
             "value": "自定義域"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "דומיין מותאם"
+          }
         }
       }
     },
@@ -3116,6 +3398,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "公共訪問域（可選）"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "דומיין לגישה ציבורית (אופציונלי)"
           }
         }
       }
@@ -3182,6 +3470,12 @@
             "state": "translated",
             "value": "編輯"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עריכה"
+          }
         }
       }
     },
@@ -3246,6 +3540,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "輸入您的保護密碼以編輯雲憑據。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש להזין את סיסמת ההגנה לעריכת פרטי ההתחברות לענן."
           }
         }
       }
@@ -3312,6 +3612,12 @@
             "state": "translated",
             "value": "端點"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "נקודת קצה"
+          }
         }
       }
     },
@@ -3376,6 +3682,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "R2 帳戶端點 URL"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כתובת נקודת הקצה של חשבון R2"
           }
         }
       }
@@ -3442,6 +3754,12 @@
             "state": "translated",
             "value": "LocalStack 或其他 S3 兼容存儲的可選自定義 S3 端點"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "נקודת קצה מותאמת של S3 עבור LocalStack או אחסון תואם S3 אחר (אופציונלי)"
+          }
         }
       }
     },
@@ -3506,6 +3824,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "過期時間"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "זמן תפוגה"
           }
         }
       }
@@ -3572,6 +3896,12 @@
             "state": "translated",
             "value": "輸入您的保護密碼以導出當前的雲憑據。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש להזין את סיסמת ההגנה לייצוא פרטי ההתחברות הנוכחיים לענן."
+          }
         }
       }
     },
@@ -3636,6 +3966,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "保存密碼失敗：%@"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שמירת הסיסמה נכשלה: %@"
           }
         }
       }
@@ -3702,6 +4038,12 @@
             "state": "translated",
             "value": "檔案過期"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תפוגת קבצים"
+          }
         }
       }
     },
@@ -3766,6 +4108,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "如果您忘記了此密碼，則需要重置雲配置並重新輸入所有憑據。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אם הסיסמה תישכח, יהיה צורך לאפס את תצורת הענן ולהזין מחדש את כל פרטי ההתחברות."
           }
         }
       }
@@ -3832,6 +4180,12 @@
             "state": "translated",
             "value": "忘記密碼？重置配置"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שכחת את הסיסמה? איפוס התצורה"
+          }
         }
       }
     },
@@ -3896,6 +4250,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Google Authorization"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הרשאת Google"
           }
         }
       }
@@ -3962,6 +4322,12 @@
             "state": "translated",
             "value": "Authorize with Google"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מתן הרשאה באמצעות Google"
+          }
         }
       }
     },
@@ -4026,6 +4392,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Authorized"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ניתנה הרשאה"
           }
         }
       }
@@ -4092,6 +4464,12 @@
             "state": "translated",
             "value": "Authorizing…"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מקבל הרשאה…"
+          }
         }
       }
     },
@@ -4156,6 +4534,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Client ID"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מזהה לקוח"
           }
         }
       }
@@ -4222,6 +4606,12 @@
             "state": "translated",
             "value": "Client Secret"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סוד לקוח"
+          }
         }
       }
     },
@@ -4286,6 +4676,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Connected as: %@"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מחובר בתור: %@"
           }
         }
       }
@@ -4352,6 +4748,12 @@
             "state": "translated",
             "value": "Google Drive Credentials"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פרטי התחברות ל־Google Drive"
+          }
         }
       }
     },
@@ -4416,6 +4818,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Screenshots and videos will be saved under this folder in your Google Drive (default: Snapzy)."
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צילומי מסך וסרטונים יישמרו בתיקייה זו ב־Google Drive שלך (ברירת מחדל: Snapzy)."
           }
         }
       }
@@ -4482,6 +4890,12 @@
             "state": "translated",
             "value": "Folder Name"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שם התיקייה"
+          }
         }
       }
     },
@@ -4546,6 +4960,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Google Drive Folder"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תיקיית Google Drive"
           }
         }
       }
@@ -4612,6 +5032,12 @@
             "state": "translated",
             "value": "Bring your own credentials to protect privacy. Create a Desktop App OAuth Client ID in your Google Cloud Console."
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כדי לשמור על פרטיותך, יש להשתמש בפרטי התחברות משלך. יש ליצור מזהה לקוח OAuth ליישום שולחני במסוף Google Cloud."
+          }
         }
       }
     },
@@ -4675,6 +5101,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "將截圖上傳到你自己的儲存空間，並透過連結分享。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "העלאת צילומים והקלטות לאחסון שלך ושיתופם באמצעות קישור."
           }
         }
       }
@@ -4741,6 +5173,12 @@
             "state": "translated",
             "value": "Snapzy 會將導入的值加載到編輯器中。您當前保存的配置保持不變，直到您單擊“保存並測試”。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snapzy יטען את הערכים שיובאו לעורך. התצורה השמורה הנוכחית תישאר ללא שינוי עד ללחיצה על ״שמירה ובדיקה״."
+          }
         }
       }
     },
@@ -4805,6 +5243,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "輸入您的保護密碼以通過當前雲設置導入憑據。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש להזין את סיסמת ההגנה כדי לייבא פרטי התחברות במקום תצורת הענן הנוכחית."
           }
         }
       }
@@ -4871,6 +5315,12 @@
             "state": "translated",
             "value": "導入雲憑證？"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לייבא פרטי התחברות לענן?"
+          }
         }
       }
     },
@@ -4935,6 +5385,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "導入加密存檔"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ייבוא ארכיון מוצפן"
           }
         }
       }
@@ -5001,6 +5457,12 @@
             "state": "translated",
             "value": "載入之前匯出的 Snapzy 雲端存檔以預填充此表單。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "טעינת ארכיון ענן של Snapzy שיוצא בעבר למילוי הטופס."
+          }
         }
       }
     },
@@ -5065,6 +5527,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "密碼不正確。請再試一次。 （%d 次嘗試失敗）"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סיסמה שגויה. יש לנסות שוב. (%d ניסיונות שנכשלו)"
           }
         }
       }
@@ -5131,6 +5599,12 @@
             "state": "translated",
             "value": "將在您的存儲桶上配置生命週期規則，以在選定的時間段後自動刪除檔案。過期後最多可能需要 24 小時才能刪除。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יוגדר כלל מחזור חיים במכל האחסון למחיקה אוטומטית של קבצים לאחר התקופה שנבחרה. המחיקה עשויה להתבצע עד 24 שעות לאחר התפוגה."
+          }
         }
       }
     },
@@ -5195,6 +5669,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "已使用受限權限連接。自動清理（生命週期規則）不可用，檔案將保留，直到手動刪除。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מחובר עם הרשאות מוגבלות. ניקוי אוטומטי (כללי מחזור חיים) אינו זמין — הקבצים יישארו עד למחיקה ידנית."
           }
         }
       }
@@ -5261,6 +5741,12 @@
             "state": "translated",
             "value": "不會設置生命週期規則。除非手動刪除，否則檔案將永久保留。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא יוגדר כלל מחזור חיים. הקבצים יישארו ללא הגבלת זמן אלא אם יימחקו ידנית."
+          }
         }
       }
     },
@@ -5325,6 +5811,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "可選"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אופציונלי"
           }
         }
       }
@@ -5391,6 +5883,12 @@
             "state": "translated",
             "value": "密碼"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סיסמה"
+          }
         }
       }
     },
@@ -5455,6 +5953,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "密碼必須至少包含 %d 個字符。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הסיסמה חייבת להכיל לפחות %d תווים."
           }
         }
       }
@@ -5521,6 +6025,12 @@
             "state": "translated",
             "value": "需要密碼"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "נדרשת סיסמה"
+          }
         }
       }
     },
@@ -5585,6 +6095,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "可選密碼可保護憑證免遭未經授權的訪問"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סיסמה אופציונלית להגנת פרטי ההתחברות מפני גישה לא מורשית"
           }
         }
       }
@@ -5651,6 +6167,12 @@
             "state": "translated",
             "value": "密碼不匹配。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הסיסמאות אינן תואמות."
+          }
         }
       }
     },
@@ -5715,6 +6237,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "無需密碼，任何有權訪問您 Mac 的人都可以查看和修改您的雲憑據。我們強烈建議設置密碼來保護您的配置。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ללא סיסמה, כל מי שיש לו גישה ל־Mac יכול לצפות בפרטי ההתחברות לענן ולשנות אותם. מומלץ מאוד להגדיר סיסמה להגנת התצורה."
           }
         }
       }
@@ -5781,6 +6309,12 @@
             "state": "translated",
             "value": "沒有密碼就繼續嗎？"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "להמשיך ללא סיסמה?"
+          }
         }
       }
     },
@@ -5845,6 +6379,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "設置密碼以防止未經授權訪問您的雲配置。查看或編輯您的憑據將需要此密碼。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הגדרת סיסמה למניעת גישה לא מורשית לתצורת הענן. סיסמה זו תידרש לצפייה בפרטי ההתחברות או לעריכתם."
           }
         }
       }
@@ -5911,6 +6451,12 @@
             "state": "translated",
             "value": "保護您的雲憑證"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הגנה על פרטי ההתחברות לענן"
+          }
         }
       }
     },
@@ -5975,6 +6521,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "保護密碼"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סיסמת הגנה"
           }
         }
       }
@@ -6041,6 +6593,12 @@
             "state": "translated",
             "value": "保護密碼必須至少有 %d 個字符。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סיסמת ההגנה חייבת להכיל לפחות %d תווים."
+          }
         }
       }
     },
@@ -6105,6 +6663,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "保護密碼"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סיסמת הגנה"
           }
         }
       }
@@ -6171,6 +6735,12 @@
             "state": "translated",
             "value": "保護密碼不匹配。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סיסמאות ההגנה אינן תואמות."
+          }
         }
       }
     },
@@ -6235,6 +6805,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "我們建議設置密碼以保護您的雲憑據免遭未經授權的訪問。查看或編輯您的配置需要此密碼。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מומלץ להגדיר סיסמה להגנת פרטי ההתחברות לענן מפני גישה לא מורשית. הסיסמה תידרש לצפייה בתצורה או לעריכתה."
           }
         }
       }
@@ -6301,6 +6877,12 @@
             "state": "translated",
             "value": "提供者"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ספק"
+          }
         }
       }
     },
@@ -6365,6 +6947,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "雲提供商"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ספק ענן"
           }
         }
       }
@@ -6431,6 +7019,12 @@
             "state": "translated",
             "value": "選擇您的雲存儲提供商"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בחירת ספק אחסון הענן"
+          }
         }
       }
     },
@@ -6495,6 +7089,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "地區"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אזור"
           }
         }
       }
@@ -6561,6 +7161,12 @@
             "state": "translated",
             "value": "AWS 區域（例如 us-east-1）"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אזור AWS (למשל us-east-1)"
+          }
         }
       }
     },
@@ -6625,6 +7231,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "重置"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "איפוס"
           }
         }
       }
@@ -6691,6 +7303,12 @@
             "state": "translated",
             "value": "這將刪除所有雲憑據、保護密碼和設置。此操作無法撤消。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כל פרטי ההתחברות לענן, סיסמת ההגנה וההגדרות יוסרו. לא ניתן לבטל פעולה זו."
+          }
         }
       }
     },
@@ -6755,6 +7373,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "重置雲配置？"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לאפס את תצורת הענן?"
           }
         }
       }
@@ -6821,6 +7445,12 @@
             "state": "translated",
             "value": "保存並測試"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שמירה ובדיקה"
+          }
         }
       }
     },
@@ -6885,6 +7515,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "秘密訪問密鑰"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מפתח גישה סודי"
           }
         }
       }
@@ -6951,6 +7587,12 @@
             "state": "translated",
             "value": "您的雲提供商密鑰"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "המפתח הסודי שלך אצל ספק הענן"
+          }
         }
       }
     },
@@ -7015,6 +7657,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "設置密碼"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הגדרת סיסמה"
           }
         }
       }
@@ -7081,6 +7729,12 @@
             "state": "translated",
             "value": "「簡短」會在連結中隱藏檔案名稱和截圖時間。現有連結不會改變。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קישור קצר מסתיר את שם הקובץ ואת זמן הצילום. קישורים קיימים אינם משתנים."
+          }
         }
       }
     },
@@ -7145,6 +7799,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "描述性"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תיאורי"
           }
         }
       }
@@ -7211,6 +7871,12 @@
             "state": "translated",
             "value": "簡短"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קצר"
+          }
         }
       }
     },
@@ -7275,6 +7941,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "連結樣式"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סגנון הקישור"
           }
         }
       }
@@ -7341,6 +8013,12 @@
             "state": "translated",
             "value": "分享連結"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קישורי שיתוף"
+          }
         }
       }
     },
@@ -7405,6 +8083,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "跳過"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "דילוג"
           }
         }
       }
@@ -7471,6 +8155,12 @@
             "state": "translated",
             "value": "暫時跳過"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "דילוג לעת עתה"
+          }
         }
       }
     },
@@ -7535,6 +8225,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "無需密碼，任何有權訪問您 Mac 的人都可以查看和修改您的雲憑據。我們強烈建議設置密碼。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ללא סיסמה, כל מי שיש לו גישה ל־Mac יכול לצפות בפרטי ההתחברות לענן ולשנות אותם. מומלץ מאוד להגדיר סיסמה."
           }
         }
       }
@@ -7601,6 +8297,12 @@
             "state": "translated",
             "value": "跳過密碼保護？"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לדלג על הגנת סיסמה?"
+          }
         }
       }
     },
@@ -7665,6 +8367,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "存儲"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אחסון"
           }
         }
       }
@@ -7731,6 +8439,12 @@
             "state": "translated",
             "value": "安全地存儲在鑰匙串中"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "נשמר באופן מאובטח בצרור המפתחות"
+          }
         }
       }
     },
@@ -7795,6 +8509,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "測試..."
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בודק..."
           }
         }
       }
@@ -7861,6 +8581,12 @@
             "state": "translated",
             "value": "雲傳輸"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "העברת תצורת ענן"
+          }
         }
       }
     },
@@ -7925,6 +8651,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "轉移"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "העברה"
           }
         }
       }
@@ -7991,6 +8723,12 @@
             "state": "translated",
             "value": "底部"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "למטה"
+          }
         }
       }
     },
@@ -8055,6 +8793,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "置中"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "במרכז"
           }
         }
       }
@@ -8121,6 +8865,12 @@
             "state": "translated",
             "value": "選擇 Cloud Uploads 在螢幕上的開啟位置"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בחירת מיקום פתיחת חלון ההעלאות לענן במסך"
+          }
         }
       }
     },
@@ -8185,6 +8935,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "浮動位置"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מיקום צף"
           }
         }
       }
@@ -8251,6 +9007,12 @@
             "state": "translated",
             "value": "頂部"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "למעלה"
+          }
         }
       }
     },
@@ -8315,6 +9077,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "上傳視窗"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חלון ההעלאות"
           }
         }
       }
@@ -8381,6 +9149,12 @@
             "state": "translated",
             "value": "覈實"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אימות"
+          }
         }
       }
     },
@@ -8445,6 +9219,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "存檔內容"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תוכן הארכיון"
           }
         }
       }
@@ -8511,6 +9291,12 @@
             "state": "translated",
             "value": "%@ • 桶：%@"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ • מכל אחסון: %@"
+          }
         }
       }
     },
@@ -8575,6 +9361,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "存檔密碼"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סיסמת הארכיון"
           }
         }
       }
@@ -8641,6 +9433,12 @@
             "state": "translated",
             "value": "加密存檔保存到%@。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הארכיון המוצפן נשמר ב־%@."
+          }
         }
       }
     },
@@ -8705,6 +9503,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "選擇目的地"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בחירת יעד"
           }
         }
       }
@@ -8771,6 +9575,12 @@
             "state": "translated",
             "value": "選擇 Snapzy 加密憑證存檔。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש לבחור ארכיון פרטי התחברות מוצפן של Snapzy."
+          }
         }
       }
     },
@@ -8835,6 +9645,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "確認密碼"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אימות הסיסמה"
           }
         }
       }
@@ -8901,6 +9717,12 @@
             "state": "translated",
             "value": "輸入存檔密碼"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש להזין את סיסמת הארכיון"
+          }
         }
       }
     },
@@ -8965,6 +9787,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "所選檔案不是有效的 Snapzy 雲憑證存檔。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הקובץ שנבחר אינו ארכיון תקין של פרטי התחברות לענן של Snapzy."
           }
         }
       }
@@ -9031,6 +9859,12 @@
             "state": "translated",
             "value": "導出密碼必須至少包含 %d 個字符。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סיסמת הייצוא חייבת להכיל לפחות %d תווים."
+          }
         }
       }
     },
@@ -9095,6 +9929,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "無法為存檔生成安全隨機字節。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן ליצור בתים אקראיים מאובטחים לארכיון."
           }
         }
       }
@@ -9161,6 +10001,12 @@
             "state": "translated",
             "value": "無法解鎖存檔。檢查密碼或選擇有效的存檔。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן לפתוח את נעילת הארכיון. יש לבדוק את הסיסמה או לבחור ארכיון תקין."
+          }
         }
       }
     },
@@ -9225,6 +10071,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "此存檔使用不受支持的加密格式。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הארכיון משתמש בפורמט הצפנה שאינו נתמך."
           }
         }
       }
@@ -9291,6 +10143,12 @@
             "state": "translated",
             "value": "此存檔使用不受支持的架構版本 %d。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הארכיון משתמש בגרסת מבנה %d שאינה נתמכת."
+          }
         }
       }
     },
@@ -9355,6 +10213,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "創建一個可以導入到另一台 Mac 上的加密存檔。 Snapzy 不存儲此存檔密碼。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יצירת ארכיון מוצפן שניתן לייבא ב־Mac אחר. Snapzy אינו שומר את סיסמת הארכיון."
           }
         }
       }
@@ -9421,6 +10285,12 @@
             "state": "translated",
             "value": "導出雲憑證"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ייצוא פרטי התחברות לענן"
+          }
         }
       }
     },
@@ -9485,6 +10355,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "解鎖加密檔案以將其值加載到雲表單中。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ביטול נעילת הארכיון המוצפן לטעינת הערכים בטופס הענן."
           }
         }
       }
@@ -9551,6 +10427,12 @@
             "state": "translated",
             "value": "導入雲憑證"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ייבוא פרטי התחברות לענן"
+          }
         }
       }
     },
@@ -9615,6 +10497,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "已加載導入的憑據。檢查這些值，然後單擊“保存並測試”以應用它們。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פרטי ההתחברות שיובאו נטענו. יש לבדוק את הערכים וללחוץ על ״שמירה ובדיקה״ להחלתם."
           }
         }
       }
@@ -9681,6 +10569,12 @@
             "state": "translated",
             "value": "至少 %d 個字符"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לפחות %d תווים"
+          }
         }
       }
     },
@@ -9745,6 +10639,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "密碼短語必須至少包含 %d 個字符。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הסיסמה חייבת להכיל לפחות %d תווים."
           }
         }
       }
@@ -9811,6 +10711,12 @@
             "state": "translated",
             "value": "密碼不匹配。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הסיסמאות אינן תואמות."
+          }
         }
       }
     },
@@ -9875,6 +10781,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "重新輸入存檔密碼"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש להזין שוב את סיסמת הארכיון"
           }
         }
       }
@@ -9941,6 +10853,12 @@
             "state": "translated",
             "value": "選擇 Snapzy 保存加密憑證存檔的位置。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש לבחור היכן Snapzy ישמור את ארכיון פרטי ההתחברות המוצפן."
+          }
         }
       }
     },
@@ -10005,6 +10923,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "選定的存檔"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הארכיון שנבחר"
           }
         }
       }
@@ -10071,6 +10995,12 @@
             "state": "translated",
             "value": "前"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לפני"
+          }
         }
       }
     },
@@ -10135,6 +11065,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "雲狀態"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מצב הענן"
           }
         }
       }
@@ -10201,6 +11137,12 @@
             "state": "translated",
             "value": "無法刷新雲統計數據。顯示緩存數據。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן לרענן את נתוני הענן. מוצגים נתונים שנשמרו במטמון."
+          }
         }
       }
     },
@@ -10265,6 +11207,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "%dd 過期"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תפוגה בעוד %d ימים"
           }
         }
       }
@@ -10331,6 +11279,12 @@
             "state": "translated",
             "value": "預計。每月成本"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עלות חודשית משוערת"
+          }
         }
       }
     },
@@ -10395,6 +11349,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "免費套餐"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מסלול חינמי"
           }
         }
       }
@@ -10461,6 +11421,12 @@
             "state": "translated",
             "value": "生命週期"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מחזור חיים"
+          }
         }
       }
     },
@@ -10525,6 +11491,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "ListObjectsV2 失敗：%@"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ListObjectsV2 נכשל: %@"
           }
         }
       }
@@ -10591,6 +11563,12 @@
             "state": "translated",
             "value": "正在加載統計數據..."
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "טוען נתונים..."
+          }
         }
       }
     },
@@ -10655,6 +11633,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "雲狀態檢查失敗：缺少存儲桶列表權限（例如 s3:ListBucket）。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בדיקת מצב הענן נכשלה: חסרה הרשאה להצגת רשימת מכל האחסון (למשל s3:ListBucket)."
           }
         }
       }
@@ -10721,6 +11705,12 @@
             "state": "translated",
             "value": "無"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ללא"
+          }
         }
       }
     },
@@ -10785,6 +11775,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "雲未配置"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הענן אינו מוגדר"
           }
         }
       }
@@ -10851,6 +11847,12 @@
             "state": "translated",
             "value": "對象"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עצמים"
+          }
         }
       }
     },
@@ -10915,6 +11917,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "存儲"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אחסון"
           }
         }
       }
@@ -10981,6 +11989,12 @@
             "state": "translated",
             "value": "雲狀態檢查失敗：未經授權。驗證端點、區域和憑據。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בדיקת מצב הענן נכשלה: אין הרשאה. יש לבדוק את נקודת הקצה, האזור ופרטי ההתחברות."
+          }
         }
       }
     },
@@ -11045,6 +12059,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "雲狀態檢查失敗：未經授權。驗證 R2 端點和 API 憑據。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בדיקת מצב הענן נכשלה: אין הרשאה. יש לבדוק את נקודת הקצה של R2 ואת פרטי ה־API."
           }
         }
       }
@@ -11111,6 +12131,12 @@
             "state": "translated",
             "value": "已更新"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עודכן"
+          }
         }
       }
     },
@@ -11175,6 +12201,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "清除所有歷史記錄"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ניקוי כל ההיסטוריה"
           }
         }
       }
@@ -11241,6 +12273,12 @@
             "state": "translated",
             "value": "“從雲中刪除並清除”會從雲存儲和本地歷史記錄中刪除檔案。\n“僅清除歷史記錄”會刪除本地記錄，但將檔案保留在雲端。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "״מחיקה מהענן וניקוי״ מסירה קבצים מאחסון הענן ומההיסטוריה המקומית.\n״ניקוי היסטוריה בלבד״ מסיר רשומות מקומיות ומשאיר את הקבצים בענן."
+          }
         }
       }
     },
@@ -11305,6 +12343,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "清除所有上傳歷史記錄？"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לנקות את כל היסטוריית ההעלאות?"
           }
         }
       }
@@ -11371,6 +12415,12 @@
             "state": "translated",
             "value": "僅清除歷史記錄"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ניקוי היסטוריה בלבד"
+          }
         }
       }
     },
@@ -11435,6 +12485,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "複製鏈接"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "העתקת קישור"
           }
         }
       }
@@ -11501,6 +12557,12 @@
             "state": "translated",
             "value": "從雲端刪除並清除"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מחיקה מהענן וניקוי"
+          }
         }
       }
     },
@@ -11565,6 +12627,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "關閉"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סגירה"
           }
         }
       }
@@ -11631,6 +12699,12 @@
             "state": "translated",
             "value": "過期時間"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "זמן תפוגה"
+          }
         }
       }
     },
@@ -11695,6 +12769,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "已過期"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פג תוקף"
           }
         }
       }
@@ -11761,6 +12841,12 @@
             "state": "translated",
             "value": "無法刪除 %@: %@"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מחיקת %@ נכשלה: %@"
+          }
         }
       }
     },
@@ -11825,6 +12911,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "過濾器"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מסננים"
           }
         }
       }
@@ -11891,6 +12983,12 @@
             "state": "translated",
             "value": "最大的優先"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הגדולים תחילה"
+          }
         }
       }
     },
@@ -11955,6 +13053,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "最新優先"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "החדשים תחילה"
           }
         }
       }
@@ -12021,6 +13125,12 @@
             "state": "translated",
             "value": "沒有找到結果"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא נמצאו תוצאות"
+          }
         }
       }
     },
@@ -12085,6 +13195,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "尚未上傳"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עדיין אין העלאות"
           }
         }
       }
@@ -12151,6 +13267,12 @@
             "state": "translated",
             "value": "最舊的在前"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הישנים תחילה"
+          }
         }
       }
     },
@@ -12215,6 +13337,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "提供者"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ספק"
           }
         }
       }
@@ -12281,6 +13409,12 @@
             "state": "translated",
             "value": "重置過濾器"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "איפוס מסננים"
+          }
         }
       }
     },
@@ -12345,6 +13479,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "搜索上傳..."
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חיפוש בהעלאות..."
           }
         }
       }
@@ -12411,6 +13551,12 @@
             "state": "translated",
             "value": "最小的優先"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הקטנים תחילה"
+          }
         }
       }
     },
@@ -12475,6 +13621,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "某些檔案無法刪除：%@"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן למחוק חלק מהקבצים: %@"
           }
         }
       }
@@ -12541,6 +13693,12 @@
             "state": "translated",
             "value": "排序方式"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מיון לפי"
+          }
         }
       }
     },
@@ -12605,6 +13763,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "狀態"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מצב"
           }
         }
       }
@@ -12671,6 +13835,12 @@
             "state": "translated",
             "value": "使用中"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פעיל"
+          }
         }
       }
     },
@@ -12735,6 +13905,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "全部"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הכול"
           }
         }
       }
@@ -12801,6 +13977,12 @@
             "state": "translated",
             "value": "已到期"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פג תוקף"
+          }
         }
       }
     },
@@ -12866,6 +14048,12 @@
             "state": "translated",
             "value": "%d 上傳"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%d העלאות"
+          }
         }
       }
     },
@@ -12930,6 +14118,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "雲上傳歷史"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "היסטוריית העלאות לענן"
           }
         }
       }

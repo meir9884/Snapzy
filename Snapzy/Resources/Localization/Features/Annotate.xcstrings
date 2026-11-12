@@ -63,6 +63,12 @@
             "state": "translated",
             "value": "%@ 預設值"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ברירות מחדל של %@"
+          }
         }
       }
     },
@@ -127,6 +133,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "已選擇%@"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "נבחר: %@"
           }
         }
       }
@@ -193,6 +205,12 @@
             "state": "translated",
             "value": "森林"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יער"
+          }
         }
       }
     },
@@ -257,6 +275,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "海洋"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אוקיינוס"
           }
         }
       }
@@ -323,6 +347,12 @@
             "state": "translated",
             "value": "日落"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שקיעה"
+          }
         }
       }
     },
@@ -387,6 +417,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "添加新預設"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הוספת ערכה מוגדרת"
           }
         }
       }
@@ -453,6 +489,12 @@
             "state": "translated",
             "value": "對齊"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יישור"
+          }
         }
       }
     },
@@ -517,6 +559,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "標註"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סימון"
           }
         }
       }
@@ -583,6 +631,12 @@
             "state": "translated",
             "value": "應用保存的樣式預設"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "החלת ערכת סגנון שמורה"
+          }
         }
       }
     },
@@ -647,6 +701,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "彎曲"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עקמומיות"
           }
         }
       }
@@ -713,6 +773,12 @@
             "state": "translated",
             "value": "正常"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "רגילה"
+          }
         }
       }
     },
@@ -777,6 +843,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "反向"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הפוכה"
           }
         }
       }
@@ -843,6 +915,12 @@
             "state": "translated",
             "value": "終點"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סוף"
+          }
         }
       }
     },
@@ -907,6 +985,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "箭頭"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חץ"
           }
         }
       }
@@ -973,6 +1057,12 @@
             "state": "translated",
             "value": "圓形"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עיגול"
+          }
         }
       }
     },
@@ -1037,6 +1127,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "無"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ללא"
           }
         }
       }
@@ -1103,6 +1199,12 @@
             "state": "translated",
             "value": "起點"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תחילה"
+          }
         }
       }
     },
@@ -1167,6 +1269,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "經典"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קלאסי"
           }
         }
       }
@@ -1233,6 +1341,12 @@
             "state": "translated",
             "value": "描邊"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קווי מתאר"
+          }
         }
       }
     },
@@ -1297,6 +1411,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "漸細"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מתחדד"
           }
         }
       }
@@ -1363,6 +1483,12 @@
             "state": "translated",
             "value": "自動平衡"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "איזון אוטומטי"
+          }
         }
       }
     },
@@ -1427,6 +1553,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "未偵測到可裁剪的內容"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא זוהה תוכן לחיתוך"
           }
         }
       }
@@ -1493,6 +1625,12 @@
             "state": "translated",
             "value": "自動裁剪到內容"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חיתוך אוטומטי לתוכן"
+          }
         }
       }
     },
@@ -1557,6 +1695,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "自動遮蔽"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "השחרה אוטומטית"
           }
         }
       }
@@ -1623,6 +1767,12 @@
             "state": "translated",
             "value": "自動遮蔽敏感資料"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הסתרה אוטומטית של מידע רגיש"
+          }
         }
       }
     },
@@ -1687,6 +1837,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "已新增 %d 處遮蔽。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "נוספו %d הסתרות."
           }
         }
       }
@@ -1753,6 +1909,12 @@
             "state": "translated",
             "value": "沒有可掃描的圖片。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אין תמונה זמינה לסריקה."
+          }
         }
       }
     },
@@ -1817,6 +1979,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "未發現敏感資料。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא נמצא מידע רגיש."
           }
         }
       }
@@ -1883,6 +2051,12 @@
             "state": "translated",
             "value": "正在掃描敏感資料..."
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סורק מידע רגיש..."
+          }
         }
       }
     },
@@ -1947,6 +2121,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "背景摳圖"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הסרת רקע"
           }
         }
       }
@@ -2013,6 +2193,12 @@
             "state": "translated",
             "value": "背景比例"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יחס הרקע"
+          }
         }
       }
     },
@@ -2077,6 +2263,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "背景已刪除（按一下恢復）"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הרקע הוסר (לחיצה לשחזור)"
           }
         }
       }
@@ -2143,6 +2335,12 @@
             "state": "translated",
             "value": "模糊類型"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סוג הטשטוש"
+          }
         }
       }
     },
@@ -2207,6 +2405,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "模糊"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מטושטש"
           }
         }
       }
@@ -2273,6 +2477,12 @@
             "state": "translated",
             "value": "暗淡"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עמום"
+          }
         }
       }
     },
@@ -2337,6 +2547,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "磨砂"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "זכוכית חלבית"
           }
         }
       }
@@ -2403,6 +2619,12 @@
             "state": "translated",
             "value": "柔和"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "רך"
+          }
         }
       }
     },
@@ -2467,6 +2689,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "鮮豔"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חי"
           }
         }
       }
@@ -2533,6 +2761,12 @@
             "state": "translated",
             "value": "或擷取螢幕截圖後標註"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "או לצלם מסך ולהוסיף סימונים"
+          }
         }
       }
     },
@@ -2597,6 +2831,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "清除預設值"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ניקוי ערכת ברירת המחדל"
           }
         }
       }
@@ -2663,6 +2903,12 @@
             "state": "translated",
             "value": "Annotate 在剪貼簿中找到一張圖片。要將其載入到畫布嗎？"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "נמצאה תמונה בלוח. לטעון אותה למשטח העריכה?"
+          }
         }
       }
     },
@@ -2727,6 +2973,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "載入剪貼簿圖片？"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לטעון תמונה מהלוח?"
           }
         }
       }
@@ -2793,6 +3045,12 @@
             "state": "translated",
             "value": "上傳前，請在“首選項”->“雲”中設置您的雲憑據。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש להגדיר את פרטי ההתחברות לענן בהעדפות ← ענן לפני ההעלאה."
+          }
         }
       }
     },
@@ -2857,6 +3115,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "雲未配置"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הענן אינו מוגדר"
           }
         }
       }
@@ -2923,6 +3187,12 @@
             "state": "translated",
             "value": "複製到剪貼板"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "העתקה ללוח"
+          }
         }
       }
     },
@@ -2987,6 +3257,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "裁剪"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חיתוך"
           }
         }
       }
@@ -3053,6 +3329,12 @@
             "state": "translated",
             "value": "對齊到邊緣"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצמדה לקצוות"
+          }
         }
       }
     },
@@ -3117,6 +3399,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "拖曳時將裁剪邊緣吸附到內容邊界。按住 ⌘ 可暫時停用。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצמדת קצוות החיתוך לגבולות התוכן בעת גרירה. החזקת ⌘ תשבית זמנית את ההצמדה."
           }
         }
       }
@@ -3183,6 +3471,12 @@
             "state": "translated",
             "value": "按住 ⌘ 可暫時停用吸附"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "החזקת ⌘ משביתה זמנית את ההצמדה"
+          }
         }
       }
     },
@@ -3247,6 +3541,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "星點膠帶"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כוכבים"
           }
         }
       }
@@ -3313,6 +3613,12 @@
             "state": "translated",
             "value": "薰衣草色星點紙膠帶"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סרט נייר בגוון לבנדר עם דוגמת כוכבים"
+          }
         }
       }
     },
@@ -3377,6 +3683,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "向左彎曲的箭頭"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חץ המתעקל שמאלה"
           }
         }
       }
@@ -3443,6 +3755,12 @@
             "state": "translated",
             "value": "向右彎曲的箭頭"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חץ המתעקל ימינה"
+          }
         }
       }
     },
@@ -3508,6 +3826,12 @@
             "state": "translated",
             "value": "垂直條帶"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "רצועה אנכית"
+          }
         }
       }
     },
@@ -3569,6 +3893,12 @@
           }
         },
         "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "−%@"
+          }
+        },
+        "he": {
           "stringUnit": {
             "state": "translated",
             "value": "−%@"
@@ -3638,6 +3968,12 @@
             "state": "translated",
             "value": "移除並拼接"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הסרה וחיבור"
+          }
         }
       }
     },
@@ -3699,6 +4035,12 @@
           }
         },
         "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "+%@"
+          }
+        },
+        "he": {
           "stringUnit": {
             "state": "translated",
             "value": "+%@"
@@ -3768,6 +4110,12 @@
             "state": "translated",
             "value": "加入空白"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הוספת שטח ריק"
+          }
         }
       }
     },
@@ -3832,6 +4180,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "水平條帶"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "רצועה אופקית"
           }
         }
       }
@@ -3898,6 +4252,12 @@
             "state": "translated",
             "value": "在圖片上拖曳以選擇要剪下的條帶"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גרירה על התמונה לבחירת רצועה"
+          }
         }
       }
     },
@@ -3962,6 +4322,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "剪下"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גזירת רצועה"
           }
         }
       }
@@ -4028,6 +4394,12 @@
             "state": "translated",
             "value": "帶注釋的圖像"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "annotated_image"
+          }
         }
       }
     },
@@ -4092,6 +4464,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "刪除預設"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מחיקת הערכה"
           }
         }
       }
@@ -4158,6 +4536,12 @@
             "state": "translated",
             "value": "刪除「%@」？"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "למחוק את ״%@״?"
+          }
         }
       }
     },
@@ -4222,6 +4606,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "刪除預設"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מחיקת ערכה"
           }
         }
       }
@@ -4288,6 +4678,12 @@
             "state": "translated",
             "value": "這會將“%@”移至垃圾箱。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הפעולה תעביר את \\\"%@\\\" לפח."
+          }
         }
       }
     },
@@ -4352,6 +4748,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "刪除截圖"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מחיקת צילום מסך"
           }
         }
       }
@@ -4418,6 +4820,12 @@
             "state": "translated",
             "value": "深度"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עומק"
+          }
         }
       }
     },
@@ -4482,6 +4890,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "不要再詢問"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא לשאול שוב"
           }
         }
       }
@@ -4548,6 +4962,12 @@
             "state": "translated",
             "value": "不要保存"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא לשמור"
+          }
         }
       }
     },
@@ -4612,6 +5032,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "拖至應用程序"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גרירה ליישום"
           }
         }
       }
@@ -4678,6 +5104,12 @@
             "state": "translated",
             "value": "將其拖動到另一個應用程序以共享帶注釋的圖像"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גרירת פריט זה ליישום אחר לשיתוף התמונה המסומנת"
+          }
         }
       }
     },
@@ -4742,6 +5174,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "將圖像拖放到此處"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש לגרור לכאן תמונה"
           }
         }
       }
@@ -4808,6 +5246,12 @@
             "state": "translated",
             "value": "擷取文字"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חילוץ טקסט"
+          }
         }
       }
     },
@@ -4872,6 +5316,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "符合畫布（%@）"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "התאמה (%@)"
           }
         }
       }
@@ -4938,6 +5388,12 @@
             "state": "translated",
             "value": "翻轉彎曲"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "היפוך העקמומיות"
+          }
         }
       }
     },
@@ -5002,6 +5458,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "高斯"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גאוסי"
           }
         }
       }
@@ -5068,6 +5530,12 @@
             "state": "translated",
             "value": "類似於 CSS 濾鏡的平滑高斯模糊"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "טשטוש גאוסי חלק בדומה למסנן CSS"
+          }
         }
       }
     },
@@ -5132,6 +5600,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "格紋膠帶"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "משבצות"
           }
         }
       }
@@ -5198,6 +5672,12 @@
             "state": "translated",
             "value": "奶油色格紋紙膠帶"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סרט נייר בצבע שמנת עם דוגמת משבצות"
+          }
         }
       }
     },
@@ -5262,6 +5742,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "六邊形"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "משושים"
           }
         }
       }
@@ -5328,6 +5814,12 @@
             "state": "translated",
             "value": "使用蜂窩狀六邊形像素化遮蓋敏感細節"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אפקט פיקסול משושה אומנותי"
+          }
         }
       }
     },
@@ -5392,6 +5884,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "螢光標示對齊文字"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצמדת ההדגשה לטקסט"
           }
         }
       }
@@ -5458,6 +5956,12 @@
             "state": "translated",
             "value": "拖曳時將螢光標示對齊附近的文字行。按住 ⌘ 可暫時停用。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יישור קווי ההדגשה לשורות טקסט סמוכות בזמן הגרירה. החזקת ⌘ תשבית זמנית את ההצמדה."
+          }
         }
       }
     },
@@ -5522,6 +6026,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "此圖片已移除背景並保留透明區域。儲存為 JPEG 會將透明區域填滿為不透明背景。請使用 PNG 或 WebP 保留透明背景。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בתמונה זו הוסר הרקע לשקיפות. שמירה כ־JPEG תשטח את השקיפות לרקע אטום. יש להשתמש ב־PNG או WebP לשמירת השקיפות."
           }
         }
       }
@@ -5588,6 +6098,12 @@
             "state": "translated",
             "value": "JPEG 不支援透明背景"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "JPEG מסיר שקיפות"
+          }
         }
       }
     },
@@ -5652,6 +6168,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "線條樣式"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סגנון קו"
           }
         }
       }
@@ -5718,6 +6240,12 @@
             "state": "translated",
             "value": "虛線"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מקווקו"
+          }
         }
       }
     },
@@ -5782,6 +6310,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "點線"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מנוקד"
           }
         }
       }
@@ -5848,6 +6382,12 @@
             "state": "translated",
             "value": "實線"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "רציף"
+          }
         }
       }
     },
@@ -5912,6 +6452,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "載入圖片"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "טעינת תמונה"
           }
         }
       }
@@ -5978,6 +6524,12 @@
             "state": "translated",
             "value": "正在加載壁紙..."
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "טוען תמונות רקע..."
+          }
         }
       }
     },
@@ -6042,6 +6594,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "標註"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סימונים"
           }
         }
       }
@@ -6108,6 +6666,12 @@
             "state": "translated",
             "value": "樣機展示"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הדמיה"
+          }
         }
       }
     },
@@ -6172,6 +6736,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "預覽"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תצוגה מקדימה"
           }
         }
       }
@@ -6238,6 +6808,12 @@
             "state": "translated",
             "value": "移動選取範圍（空白鍵 + 拖曳滑鼠）"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הזזת האזור הנבחר (רווח וגרירה בעכבר)"
+          }
         }
       }
     },
@@ -6302,6 +6878,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "新增 Annotate 視窗"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חלון סימונים חדש"
           }
         }
       }
@@ -6368,6 +6950,12 @@
             "state": "translated",
             "value": "還沒有預設"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עדיין אין ערכות"
+          }
         }
       }
     },
@@ -6432,6 +7020,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "暫不"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא עכשיו"
           }
         }
       }
@@ -6498,6 +7092,12 @@
             "state": "translated",
             "value": "這張圖片之前已經上傳到雲端。重新上傳將用您的更改替換現有檔案。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תמונה זו הועלתה בעבר לענן. העלאה מחדש תחליף את הקובץ הקיים בשינויים שלך."
+          }
         }
       }
     },
@@ -6562,6 +7162,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "這張圖片之前已經上傳到雲端。保存將用您的更改替換雲檔案。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תמונה זו הועלתה בעבר לענן. שמירה תחליף את הקובץ בענן בשינויים שלך."
           }
         }
       }
@@ -6628,6 +7234,12 @@
             "state": "translated",
             "value": "覆蓋雲檔案？"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "להחליף את הקובץ בענן?"
+          }
         }
       }
     },
@@ -6692,6 +7304,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "固定視窗"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצמדת החלון"
           }
         }
       }
@@ -6758,6 +7376,12 @@
             "state": "translated",
             "value": "像素化"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מפוקסל"
+          }
         }
       }
     },
@@ -6822,6 +7446,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "用像素化模糊遮擋敏感內容"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "טשטוש מפוקסל להסתרת תוכן רגיש"
           }
         }
       }
@@ -6888,6 +7518,12 @@
             "state": "translated",
             "value": "網格膠帶"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "רשת"
+          }
         }
       }
     },
@@ -6952,6 +7588,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "蜜桃色網格紙膠帶"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סרט נייר בגוון אפרסק עם דוגמת רשת"
           }
         }
       }
@@ -7018,6 +7660,12 @@
             "state": "translated",
             "value": "您最多可以保存 20 個預設。刪除一個以添加新預設。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ניתן לשמור עד 20 ערכות. יש למחוק ערכה כדי להוסיף חדשה."
+          }
         }
       }
     },
@@ -7082,6 +7730,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "達到預設限制"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הגעת למספר הערכות המרבי"
           }
         }
       }
@@ -7148,6 +7802,12 @@
             "state": "translated",
             "value": "預設名稱"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שם הערכה"
+          }
         }
       }
     },
@@ -7212,6 +7872,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "預設"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ערכות"
           }
         }
       }
@@ -7278,6 +7944,12 @@
             "state": "translated",
             "value": "移除背景（已在「設定」中關閉自動裁切）"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הסרת רקע (חיתוך אוטומטי מושבת בהגדרות)"
+          }
         }
       }
     },
@@ -7342,6 +8014,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "移除背景（適合時自動裁切）"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הסרת רקע (חיתוך אוטומטי כאשר בטוח)"
           }
         }
       }
@@ -7408,6 +8086,12 @@
             "state": "translated",
             "value": "刪除自定義壁紙"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הסרת תמונת רקע מותאמת"
+          }
         }
       }
     },
@@ -7472,6 +8156,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "需要 macOS 14+"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "נדרש macOS 14 ומעלה"
           }
         }
       }
@@ -7538,6 +8228,12 @@
             "state": "translated",
             "value": "重置背景、內邊距、陰影和角"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "איפוס הרקע, הריווח, הצל והפינות"
+          }
         }
       }
     },
@@ -7602,6 +8298,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "重設樣機展示"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "איפוס ההדמיה"
           }
         }
       }
@@ -7668,6 +8370,12 @@
             "state": "translated",
             "value": "重置為預設值"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "איפוס לברירות המחדל"
+          }
         }
       }
     },
@@ -7732,6 +8440,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "重新上傳至雲端"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "העלאה מחדש לענן"
           }
         }
       }
@@ -7798,6 +8512,12 @@
             "state": "translated",
             "value": "向左旋轉 90°"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סיבוב 90° שמאלה"
+          }
         }
       }
     },
@@ -7862,6 +8582,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "向右旋轉 90°"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סיבוב 90° ימינה"
           }
         }
       }
@@ -7928,6 +8654,12 @@
             "state": "translated",
             "value": "另存為 JPEG"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שמירה כ־JPEG"
+          }
         }
       }
     },
@@ -7992,6 +8724,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Snapzy 無法寫入所選位置。請選擇其他檔案夾。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snapzy לא הצליח לכתוב למיקום שנבחר. יש לבחור תיקייה אחרת."
           }
         }
       }
@@ -8058,6 +8796,12 @@
             "state": "translated",
             "value": "保存失敗"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "השמירה נכשלה"
+          }
         }
       }
     },
@@ -8122,6 +8866,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "輸入此畫布預設的名稱。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש להזין שם לערכת המשטח."
           }
         }
       }
@@ -8188,6 +8938,12 @@
             "state": "translated",
             "value": "保存預設"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שמירת ערכה"
+          }
         }
       }
     },
@@ -8252,6 +9008,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "選擇預設"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בחירת ערכה"
           }
         }
       }
@@ -8318,6 +9080,12 @@
             "state": "translated",
             "value": "設為預設值"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שימוש כערכת ברירת המחדל"
+          }
         }
       }
     },
@@ -8382,6 +9150,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "暗度"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כהות"
           }
         }
       }
@@ -8448,6 +9222,12 @@
             "state": "translated",
             "value": "直線"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ישר"
+          }
         }
       }
     },
@@ -8512,6 +9292,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "從頭到尾直接直線"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קו ישיר מההתחלה לסוף"
           }
         }
       }
@@ -8578,6 +9364,12 @@
             "state": "translated",
             "value": "膠帶"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סרט דביק"
+          }
         }
       }
     },
@@ -8642,6 +9434,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "使用微妙的膠帶效果遮蓋敏感資訊"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סרט נייר בגוון לבן שבור עם דוגמה אלכסונית"
           }
         }
       }
@@ -8708,6 +9506,12 @@
             "state": "translated",
             "value": "文字顏色"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "צבע הטקסט"
+          }
         }
       }
     },
@@ -8772,6 +9576,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "對齊"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצמדה"
           }
         }
       }
@@ -8838,6 +9648,12 @@
             "state": "translated",
             "value": "文本樣式"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סגנון טקסט"
+          }
         }
       }
     },
@@ -8902,6 +9718,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "切換寬高比方向"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "החלפת כיוון יחס הגובה־רוחב"
           }
         }
       }
@@ -8968,6 +9790,12 @@
             "state": "translated",
             "value": "切換裁剪方向"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "החלפת כיוון החיתוך"
+          }
         }
       }
     },
@@ -9032,6 +9860,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "切換三分法網格"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצגה או הסתרה של רשת השלישים"
           }
         }
       }
@@ -9098,6 +9932,12 @@
             "state": "translated",
             "value": "切換側邊欄"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצגה או הסתרה של סרגל הצד"
+          }
         }
       }
     },
@@ -9163,6 +10003,12 @@
             "state": "translated",
             "value": "箭頭"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חץ"
+          }
         }
       }
     },
@@ -9227,6 +10073,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "模糊"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "טשטוש"
           }
         }
       }
@@ -9294,6 +10146,12 @@
             "state": "translated",
             "value": "按一下放置編號 · 拖曳新增箭頭"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לחיצה למיקום · גרירה להכוונה"
+          }
         }
       }
     },
@@ -9358,6 +10216,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "計數器"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מספור"
           }
         }
       }
@@ -9424,6 +10288,12 @@
             "state": "translated",
             "value": "裁剪"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חיתוך"
+          }
         }
       }
     },
@@ -9488,6 +10358,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "剪下"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גזירת רצועה"
           }
         }
       }
@@ -9554,6 +10430,12 @@
             "state": "translated",
             "value": "填充矩形"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מלבן מלא"
+          }
         }
       }
     },
@@ -9618,6 +10500,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "螢光筆"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מדגש"
           }
         }
       }
@@ -9684,6 +10572,12 @@
             "state": "translated",
             "value": "直線"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קו"
+          }
         }
       }
     },
@@ -9748,6 +10642,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "樣機展示"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הדמיה"
           }
         }
       }
@@ -9814,6 +10714,12 @@
             "state": "translated",
             "value": "橢圓形"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אליפסה"
+          }
         }
       }
     },
@@ -9878,6 +10784,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "鉛筆"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עיפרון"
           }
         }
       }
@@ -9944,6 +10856,12 @@
             "state": "translated",
             "value": "矩形"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מלבן"
+          }
         }
       }
     },
@@ -10008,6 +10926,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "選擇"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בחירה"
           }
         }
       }
@@ -10074,6 +10998,12 @@
             "state": "translated",
             "value": "聚光燈"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "זרקור"
+          }
         }
       }
     },
@@ -10138,6 +11068,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "文字"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "טקסט"
           }
         }
       }
@@ -10204,6 +11140,12 @@
             "state": "translated",
             "value": "浮水印"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סימן מים"
+          }
         }
       }
     },
@@ -10268,6 +11210,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "無法刪除背景。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן להסיר את הרקע."
           }
         }
       }
@@ -10334,6 +11282,12 @@
             "state": "translated",
             "value": "目前無法將當前畫布樣式存儲為預設。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן כרגע לשמור את סגנון המשטח הנוכחי כערכה."
+          }
         }
       }
     },
@@ -10398,6 +11352,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "無法保存預設"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן לשמור את הערכה"
           }
         }
       }
@@ -10464,6 +11424,12 @@
             "state": "translated",
             "value": "取消固定窗口"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ביטול הצמדת החלון"
+          }
         }
       }
     },
@@ -10528,6 +11494,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "您有未保存的更改。您想在關閉前保存嗎？"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש שינויים שלא נשמרו. לשמור לפני הסגירה?"
           }
         }
       }
@@ -10594,6 +11566,12 @@
             "state": "translated",
             "value": "未保存的更改"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שינויים שלא נשמרו"
+          }
         }
       }
     },
@@ -10658,6 +11636,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "更新預設"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עדכון הערכה"
           }
         }
       }
@@ -10724,6 +11708,12 @@
             "state": "translated",
             "value": "將“%@”替換為當前設置？"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "להחליף את ״%@״ בהגדרות הנוכחיות?"
+          }
         }
       }
     },
@@ -10788,6 +11778,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "更新預設"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עדכון ערכה"
           }
         }
       }
@@ -10854,6 +11850,12 @@
             "state": "translated",
             "value": "使用當前值更新選定的預設"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עדכון הערכה שנבחרה בערכים הנוכחיים"
+          }
         }
       }
     },
@@ -10918,6 +11920,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "上傳至雲端"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "העלאה לענן"
           }
         }
       }
@@ -10984,6 +11992,12 @@
             "state": "translated",
             "value": "已上傳至雲端"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הועלה לענן"
+          }
         }
       }
     },
@@ -11048,6 +12062,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "和紙"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "וואשי"
           }
         }
       }
@@ -11114,6 +12134,12 @@
             "state": "translated",
             "value": "用裝飾性半透明和紙膠帶遮蓋敏感細節"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סרט נייר בגוון טורקיז פסטלי עם דוגמת נקודות רשת"
+          }
         }
       }
     },
@@ -11178,6 +12204,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "對角線"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אלכסוני"
           }
         }
       }
@@ -11244,6 +12276,12 @@
             "state": "translated",
             "value": "不透明度"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אטימות"
+          }
         }
       }
     },
@@ -11308,6 +12346,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "單個"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יחיד"
           }
         }
       }
@@ -11374,6 +12418,12 @@
             "state": "translated",
             "value": "並排"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אריחים"
+          }
         }
       }
     },
@@ -11438,6 +12488,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "X 軸"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ציר X"
           }
         }
       }
@@ -11504,6 +12560,12 @@
             "state": "translated",
             "value": "Y 軸"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ציר Y"
+          }
         }
       }
     },
@@ -11569,6 +12631,12 @@
             "state": "translated",
             "value": "Z軸"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ציר Z"
+          }
         }
       }
     },
@@ -11632,6 +12700,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "測量"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מדידה"
           }
         }
       }
@@ -11697,6 +12771,12 @@
             "state": "translated",
             "value": "點按測量 · 拖移測量方框 · ⌘ 保留方框"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לחיצה למדידה · גרירה למסגרת · ⌘ משאיר את המסגרת"
+          }
         }
       }
     },
@@ -11760,6 +12840,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "方向"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ציר"
           }
         }
       }
@@ -11825,6 +12911,12 @@
             "state": "translated",
             "value": "寬度和高度"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "רוחב וגובה"
+          }
         }
       }
     },
@@ -11888,6 +12980,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "僅寬度"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "רוחב בלבד"
           }
         }
       }
@@ -11953,6 +13051,12 @@
             "state": "translated",
             "value": "僅高度"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גובה בלבד"
+          }
         }
       }
     },
@@ -12016,6 +13120,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "單位"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יחידה"
           }
         }
       }
@@ -12081,6 +13191,12 @@
             "state": "translated",
             "value": "點"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "נקודות"
+          }
         }
       }
     },
@@ -12144,6 +13260,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "像素"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פיקסלים"
           }
         }
       }

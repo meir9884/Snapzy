@@ -63,6 +63,12 @@
             "state": "translated",
             "value": "Snapzy 無法持久訪問此檔案夾。請再次選擇該檔案夾並確認權限。"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snapzy לא הצליח לשמור את הרשאת הגישה לתיקייה. יש לבחור בתיקייה שוב ולאשר את ההרשאה."
+          }
         }
       }
     },
@@ -127,6 +133,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "未授予檔案夾訪問權限"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתנה גישה לתיקייה"
           }
         }
       }
@@ -193,6 +205,12 @@
             "state": "translated",
             "value": "選擇 Snapzy 保存螢幕截圖和錄屏的位置"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש לבחור היכן Snapzy ישמור צילומי מסך והקלטות"
+          }
         }
       }
     },
@@ -257,6 +275,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "選擇檔案夾"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בחירת תיקייה"
           }
         }
       }
@@ -323,6 +347,12 @@
             "state": "translated",
             "value": "授予訪問權限"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מתן גישה"
+          }
         }
       }
     },
@@ -387,6 +417,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "授予"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ניתנה הרשאה"
           }
         }
       }
@@ -453,6 +489,12 @@
             "state": "translated",
             "value": "可選"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אופציונלי"
+          }
         }
       }
     },
@@ -518,6 +560,12 @@
             "state": "translated",
             "value": "必要"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "נדרש"
+          }
         }
       }
     },
@@ -582,6 +630,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Snapzy 需要擷取螢幕畫面、麥克風音訊與檔案等相關權限。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ל־Snapzy נדרשות הרשאות מסוימות לצילום המסך ולהקלטת שמע."
           }
         }
       }

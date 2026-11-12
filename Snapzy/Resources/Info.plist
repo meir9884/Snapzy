@@ -47,6 +47,8 @@
 	<true/>
 	<key>NSScreenCaptureUsageDescription</key>
 	<string>Snapzy needs screen recording permission to capture screenshots and record your screen.</string>
+	<key>SnapzyHebrewFork</key>
+	<true/>
 	<key>SUFeedURL</key>
 	<string>https://raw.githubusercontent.com/duongductrong/Snapzy/master/appcast.xml</string>
 	<key>SUPublicEDKey</key>

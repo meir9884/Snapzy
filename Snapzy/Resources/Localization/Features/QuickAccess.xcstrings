@@ -63,6 +63,12 @@
             "state": "translated",
             "value": "已在「快速存取」設定中關閉"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כבוי בהגדרות הגישה המהירה"
+          }
         }
       }
     },
@@ -127,6 +133,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "編輯"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עריכה"
           }
         }
       }
@@ -193,6 +205,12 @@
             "state": "translated",
             "value": "固定到螢幕"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצמדה למסך"
+          }
         }
       }
     },
@@ -257,6 +275,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "儲存 / 開啟"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שמירה / פתיחה"
           }
         }
       }
@@ -323,6 +347,12 @@
             "state": "translated",
             "value": "取消固定"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ביטול הצמדה"
+          }
         }
       }
     },
@@ -387,6 +417,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Wählen Sie, wie das schwebende Fenster eingeblendet wird"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בחירת אופן כניסת הכרטיסים לערימה ויציאתם ממנה."
           }
         }
       }
@@ -453,6 +489,12 @@
             "state": "translated",
             "value": "Skalieren"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שינוי גודל ועמעום"
+          }
         }
       }
     },
@@ -517,6 +559,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Gleiten"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "החלקה"
           }
         }
       }
@@ -583,6 +631,12 @@
             "state": "translated",
             "value": "Animationsstil"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סגנון הנפשה"
+          }
         }
       }
     },
@@ -647,6 +701,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "自動關閉"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סגירה אוטומטית"
           }
         }
       }
@@ -713,6 +773,12 @@
             "state": "translated",
             "value": "角標"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פינה"
+          }
         }
       }
     },
@@ -777,6 +843,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "主要"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ראשי"
           }
         }
       }
@@ -843,6 +915,12 @@
             "state": "translated",
             "value": "自動關閉時間"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סגירה לאחר"
+          }
         }
       }
     },
@@ -907,6 +985,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "之後關閉%d 秒後關閉"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "נסגר לאחר %d שניות"
           }
         }
       }
@@ -973,6 +1057,12 @@
             "state": "translated",
             "value": "將截圖或錄製內容拖到其他 App"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גרירת צילומים והקלטות ליישומים אחרים"
+          }
         }
       }
     },
@@ -1037,6 +1127,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "拖放"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גרירה ושחרור"
           }
         }
       }
@@ -1103,6 +1199,12 @@
             "state": "translated",
             "value": "擷取完成後顯示預覽"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצגת תצוגה מקדימה לאחר צילום"
+          }
         }
       }
     },
@@ -1167,6 +1269,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "浮動浮層"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "חלונית צפה"
           }
         }
       }
@@ -1233,6 +1341,12 @@
             "state": "translated",
             "value": "Töne abspielen, wenn das Overlay erscheint oder eine Aktion abgeschlossen ist"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "השמעת צלילים כשהחלונית מופיעה או כשפעולה מסתיימת"
+          }
         }
       }
     },
@@ -1297,6 +1411,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Soundeffekte"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אפקטים קוליים"
           }
         }
       }
@@ -1363,6 +1483,12 @@
             "state": "translated",
             "value": "Nach dem Speichern im Finder öffnen"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פתיחה ב־Finder לאחר שמירה"
+          }
         }
       }
     },
@@ -1427,6 +1553,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Die gespeicherte Datei im Finder anzeigen, wenn aus dem Overlay gespeichert wird"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הצגת הקובץ השמור ב־Finder בעת שמירה מהחלונית"
           }
         }
       }
@@ -1493,6 +1625,12 @@
             "state": "translated",
             "value": "Blendet die schwebende Karte automatisch aus, wenn Fenster geöffnet werden"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הסתרה זמנית של הפריט מהערימה כאשר החלון שלו פתוח."
+          }
         }
       }
     },
@@ -1557,6 +1695,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ausblenden wenn offen"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הסתרה אוטומטית של פריטים פתוחים"
           }
         }
       }
@@ -1623,6 +1767,12 @@
             "state": "translated",
             "value": "保持浮層開啟，直到關閉"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "השארת החלונית פתוחה עד לסגירתה"
+          }
         }
       }
     },
@@ -1687,6 +1837,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "左"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שמאל"
           }
         }
       }
@@ -1753,6 +1909,12 @@
             "state": "translated",
             "value": "不在卡片上"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא בכרטיס"
+          }
         }
       }
     },
@@ -1817,6 +1979,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "調整浮動預覽大小"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "התאמת גודל התצוגה המקדימה הצפה"
           }
         }
       }
@@ -1883,6 +2051,12 @@
             "state": "translated",
             "value": "浮層尺寸"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גודל החלונית"
+          }
         }
       }
     },
@@ -1947,6 +2121,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "將鼠標懸停在卡片上時暫停倒計時"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "השהיית הספירה לאחור בריחוף מעל הכרטיס"
           }
         }
       }
@@ -2013,6 +2193,12 @@
             "state": "translated",
             "value": "懸停時暫停"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "השהיה בריחוף"
+          }
         }
       }
     },
@@ -2077,6 +2263,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "拖曳列表列以重新排列內容選單。將動作拖到預覽上以設定卡片位置。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גרירת שורות הרשימה לשינוי סדר תפריט ההקשר. גרירת פעולות לתצוגה המקדימה לקביעת מיקומן בכרטיס."
           }
         }
       }
@@ -2143,6 +2335,12 @@
             "state": "translated",
             "value": "重設動作"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "איפוס הפעולות"
+          }
         }
       }
     },
@@ -2207,6 +2405,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "右"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ימין"
           }
         }
       }
@@ -2273,6 +2477,12 @@
             "state": "translated",
             "value": "浮層出現的位置"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מיקום הופעת החלונית"
+          }
         }
       }
     },
@@ -2337,6 +2547,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "螢幕邊緣"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קצה המסך"
           }
         }
       }
@@ -2403,6 +2619,12 @@
             "state": "translated",
             "value": "外觀"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מראה"
+          }
         }
       }
     },
@@ -2467,6 +2689,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "行為"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "התנהגות"
           }
         }
       }
@@ -2533,6 +2761,12 @@
             "state": "translated",
             "value": "位置"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מיקום"
+          }
         }
       }
     },
@@ -2597,6 +2831,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "預覽"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תצוגה מקדימה"
           }
         }
       }
@@ -2663,6 +2903,12 @@
             "state": "translated",
             "value": "快速動作"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פעולות מהירות"
+          }
         }
       }
     },
@@ -2727,6 +2973,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "滑動操作"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פעולות החלקה"
           }
         }
       }
@@ -2793,6 +3045,12 @@
             "state": "translated",
             "value": "左下"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "למטה משמאל"
+          }
         }
       }
     },
@@ -2857,6 +3115,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "右下"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "למטה מימין"
           }
         }
       }
@@ -2923,6 +3187,12 @@
             "state": "translated",
             "value": "底部置中"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "למטה במרכז"
+          }
         }
       }
     },
@@ -2987,6 +3257,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "頂部置中"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "למעלה במרכז"
           }
         }
       }
@@ -3053,6 +3329,12 @@
             "state": "translated",
             "value": "左上"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "למעלה משמאל"
+          }
         }
       }
     },
@@ -3117,6 +3399,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "右上"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "למעלה מימין"
           }
         }
       }
@@ -3183,6 +3471,12 @@
             "state": "translated",
             "value": "關閉"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "סגירה"
+          }
         }
       }
     },
@@ -3247,6 +3541,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "將操作拖移到圓形滑動目標上，以選擇在雙指輕掃後執行什麼操作。"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גרירת פעולות ליעדי ההחלקה העגולים לבחירת הפעולה שתתבצע לאחר החלקה בשתי אצבעות."
           }
         }
       }
@@ -3313,6 +3613,12 @@
             "state": "translated",
             "value": "向左滑動"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "החלקה שמאלה"
+          }
         }
       }
     },
@@ -3378,6 +3684,12 @@
             "state": "translated",
             "value": "向右滑動"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "החלקה ימינה"
+          }
         }
       }
     },
@@ -3442,6 +3754,12 @@
             "state": "translated",
             "value": "調整卡片跟隨觸控板滑動的速度"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "התאמת מהירות תנועת הכרטיס בעקבות ההחלקה במשטח המגע"
+          }
         }
       }
     },
@@ -3505,6 +3823,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "滑動靈敏度"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "רגישות ההחלקה"
           }
         }
       }
@@ -3571,6 +3895,12 @@
             "state": "translated",
             "value": "清除操作"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ניקוי הפעולה"
+          }
         }
       }
     },
@@ -3636,6 +3966,12 @@
             "state": "translated",
             "value": "重設為關閉"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "איפוס לסגירה"
+          }
         }
       }
     },
@@ -3699,6 +4035,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "選擇卡片是跟隨手指移動還是向相反方向移動"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "בחירה אם הכרטיס ינוע עם האצבע או בכיוון הנגדי"
           }
         }
       }
@@ -3764,6 +4106,12 @@
             "state": "translated",
             "value": "反轉（跟隨滾動）"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הפוך (לפי הגלילה)"
+          }
         }
       }
     },
@@ -3828,6 +4176,12 @@
             "state": "translated",
             "value": "自然（跟隨手指）"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "טבעי (לפי האצבע)"
+          }
         }
       }
     },
@@ -3891,6 +4245,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "觸控板滑動方向"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "כיוון ההחלקה במשטח המגע"
           }
         }
       }
@@ -3957,6 +4317,12 @@
             "state": "translated",
             "value": "在預覽上水平滑動即可關閉"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "החלקה אופקית על התצוגה המקדימה לסגירתה"
+          }
         }
       }
     },
@@ -4021,6 +4387,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "雙指滑動"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "החלקה בשתי אצבעות"
           }
         }
       }
@@ -4087,6 +4459,12 @@
             "state": "translated",
             "value": "編輯影片"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "עריכת וידאו"
+          }
         }
       }
     },
@@ -4151,6 +4529,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "適合"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "התאמה"
           }
         }
       }
@@ -4217,6 +4601,12 @@
             "state": "translated",
             "value": "鎖定並在滑鼠懸停時隱藏"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "נעילה והסתרה בריחוף העכבר"
+          }
         }
       }
     },
@@ -4281,6 +4671,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "解鎖固定視窗"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ביטול נעילת החלון המוצמד"
           }
         }
       }
@@ -4347,6 +4743,12 @@
             "state": "translated",
             "value": "縮放固定視窗"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הגדלת החלון המוצמד"
+          }
         }
       }
     },
@@ -4411,6 +4813,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Angeheftetes Bild"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "תמונה מוצמדת"
           }
         }
       }
@@ -4477,6 +4885,12 @@
             "state": "translated",
             "value": "Fenster mit dem Bild vergrößern"
           }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שינוי גודל החלון עם התמונה"
+          }
         }
       }
     },
@@ -4541,6 +4955,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Fenstergröße beibehalten"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שמירה על גודל חלון קבוע"
           }
         }
       }
