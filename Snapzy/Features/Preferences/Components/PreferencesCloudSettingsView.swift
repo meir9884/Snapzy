@@ -538,11 +538,16 @@ struct CloudSettingsView: View {
       }
     } footer: {
       if let fetchedAt = usageService.usageInfo?.fetchedAt {
-        (
-          Text("\(L10n.CloudUsage.updatedPrefix) ")
-          + Text(fetchedAt, style: .relative)
-          + Text(" \(L10n.CloudUsage.agoSuffix)")
-        )
+        Group {
+          if AppLanguageManager.shared.activeEffectiveLanguageIdentifier == "he" {
+            Text("\(L10n.CloudUsage.updatedPrefix) \(L10n.CloudUsage.agoSuffix) ")
+              + Text(fetchedAt, style: .relative)
+          } else {
+            Text("\(L10n.CloudUsage.updatedPrefix) ")
+              + Text(fetchedAt, style: .relative)
+              + Text(" \(L10n.CloudUsage.agoSuffix)")
+          }
+        }
           .font(.caption)
           .foregroundColor(.secondary)
           .frame(maxWidth: .infinity, alignment: .trailing)
