@@ -73,6 +73,8 @@ struct VideoTimelineView: View {
         }
     }
     .frame(height: totalHeight)
+    // Time and pointer coordinates increase left-to-right in the viewport model.
+    .environment(\.layoutDirection, .leftToRight)
   }
 
   // MARK: - Content
