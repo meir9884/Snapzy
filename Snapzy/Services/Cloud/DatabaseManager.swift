@@ -27,14 +27,14 @@ enum DatabaseInitializationError: LocalizedError {
   var errorDescription: String? {
     switch self {
     case let .directoryCreationFailed(directoryURL, underlyingError):
-      return "Could not create database directory at \(directoryURL.path): \(underlyingError.localizedDescription)"
+      return L10n.Recovery.directoryFailed(directoryURL.path, underlyingError.localizedDescription)
     case let .openOrMigrationFailed(databaseURL, underlyingError):
-      return "Could not open or migrate database at \(databaseURL.path): \(underlyingError.localizedDescription)"
+      return L10n.Recovery.databaseOpenFailed(databaseURL.path, underlyingError.localizedDescription)
     }
   }
 
   var recoverySuggestion: String? {
-    "Try repairing the database, reset it after backing up the existing files, or quit Snapzy."
+    L10n.Recovery.recoverySuggestion
   }
 
   var databaseURL: URL {

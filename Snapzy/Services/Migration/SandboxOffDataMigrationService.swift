@@ -77,9 +77,9 @@ final class SandboxOffDataMigrationService {
     var errorDescription: String? {
       switch self {
       case .configurationUnavailable:
-        return "Could not resolve user Library paths for sandbox data migration."
+        return L10n.Recovery.migrationPathsUnavailable
       case .missingBundleIdentifier:
-        return "Could not resolve Snapzy bundle identifier for sandbox data migration."
+        return L10n.Recovery.migrationIdentityUnavailable
       }
     }
   }

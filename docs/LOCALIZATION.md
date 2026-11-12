@@ -6,7 +6,7 @@ This doc describes how Snapzy localizes user-facing text today. Keep it synced w
 
 - Source language: `en`
 - Supported app locales: `he`, `en`, `vi`, `zh-Hans`, `zh-Hant`, `es`, `ja`, `ko`, `ru`, `fr`, `de`
-- This fork defaults to Hebrew on first launch, with English and system-language options retained in Preferences. Hebrew includes all 1,971 catalog entries, privacy descriptions, and interactive demonstration copy. Preferences and onboarding use right-to-left layout for Hebrew.
+- This fork defaults to Hebrew on first launch, with English and system-language options retained in Preferences. Hebrew includes all catalog entries, privacy descriptions, and interactive demonstration copy. Preferences and onboarding use right-to-left layout for Hebrew.
 - Language selection: Snapzy supports app language selection in Preferences and a first-run onboarding language step. Preferences still relies on the macOS app-language override plus relaunch behavior, while onboarding previews the selected locale immediately inside the onboarding flow and only commits the override when onboarding finishes.
 - Source-of-truth and runtime catalogs: centralized under `Snapzy/Resources/Localization/`, split into `Shared/*.xcstrings` and `Features/*.xcstrings`
 - Coverage: menu bar, onboarding, preferences, capture flows, recording flows, Quick Access, Annotate, Video Editor, cloud dialogs, alerts, toasts, and scrolling capture HUD/status text

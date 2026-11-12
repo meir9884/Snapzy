@@ -78,7 +78,8 @@ struct GeneralSettingsView: View {
         }
       }
 
-      Section(L10n.PreferencesGeneral.updatesSection) {
+      if !UpdaterManager.isHebrewFork {
+        Section(L10n.PreferencesGeneral.updatesSection) {
         SettingRow(title: L10n.PreferencesGeneral.checkAutomaticallyTitle, description: L10n.PreferencesGeneral.checkAutomaticallyDescription) {
           Toggle("", isOn: Binding(
             get: { updater.automaticallyChecksForUpdates },
@@ -112,6 +113,8 @@ struct GeneralSettingsView: View {
               .foregroundColor(.secondary)
           }
         }
+      }
+
       }
 
       Section(L10n.PreferencesGeneral.helpSection) {

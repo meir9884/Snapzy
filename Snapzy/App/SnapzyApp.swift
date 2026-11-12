@@ -186,7 +186,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
       } catch {
         switch presentSandboxOffMigrationRecoveryAlert(error: error, note: note) {
         case .retry:
-          note = "Previous attempt also failed. If this keeps happening, Start Fresh will let you use Snapzy without old data."
+          note = L10n.Recovery.retryFailed
           continue
 
         case .startFresh:
@@ -203,7 +203,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
             )
             return true
           } catch {
-            note = "Could not mark migration as skipped: \(error.localizedDescription)"
+            note = L10n.Recovery.skipFailed(error.localizedDescription)
             continue
           }
 
@@ -223,25 +223,18 @@ class AppDelegate: NSObject, NSApplicationDelegate {
 
     let alert = NSAlert()
     alert.alertStyle = .critical
-    alert.messageText = "Snapzy could not migrate your existing data."
+    alert.messageText = L10n.Recovery.migrationTitle
 
-    var informativeText = """
-      Snapzy needs to move data from the old sandboxed storage before opening the unsandboxed version.
-
-      No new database was opened yet, so your existing data has not been replaced.
-
-      Error:
-      \(error.localizedDescription)
-      """
+    var informativeText = L10n.Recovery.migrationMessage(error.localizedDescription)
     if let note {
       informativeText += "\n\n\(note)"
     }
-    informativeText += "\n\nTry again if the error is temporary. Start Fresh launches Snapzy with default settings — your old data stays in the sandbox container and is not deleted."
+    informativeText += "\n\n" + L10n.Recovery.migrationHint
     alert.informativeText = informativeText
 
-    alert.addButton(withTitle: "Try Again")
-    alert.addButton(withTitle: "Start Fresh…")
-    alert.addButton(withTitle: "Quit Snapzy")
+    alert.addButton(withTitle: L10n.Recovery.tryAgain)
+    alert.addButton(withTitle: L10n.Recovery.startFreshEllipsis)
+    alert.addButton(withTitle: L10n.Menu.quitSnapzy)
 
     switch alert.runModal() {
     case .alertFirstButtonReturn:
@@ -256,18 +249,12 @@ class AppDelegate: NSObject, NSApplicationDelegate {
   private func confirmMigrationSkip(error: Error) -> Bool {
     let alert = NSAlert()
     alert.alertStyle = .critical
-    alert.messageText = "Start Fresh Without Old Data?"
-    alert.informativeText = """
-      Snapzy will launch with default settings and an empty capture history.
-
-      Your old data remains in the sandbox container and is not deleted. You can access it manually at:
-      ~/Library/Containers/\(Bundle.main.bundleIdentifier ?? "com.duongductrong.Snapzy")
-
-      Current error:
-      \(error.localizedDescription)
-      """
-    alert.addButton(withTitle: "Start Fresh")
-    alert.addButton(withTitle: "Cancel")
+    alert.messageText = L10n.Recovery.freshTitle
+    alert.informativeText = L10n.Recovery.freshMessage(
+      Bundle.main.bundleIdentifier ?? "com.duongductrong.Snapzy", error.localizedDescription
+    )
+    alert.addButton(withTitle: L10n.Recovery.startFresh)
+    alert.addButton(withTitle: L10n.Common.cancel)
     return alert.runModal() == .alertFirstButtonReturn
   }
 
@@ -292,7 +279,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
           return true
         } catch {
           currentError = error
-          note = "Repair did not succeed. You can reset the database after backing up the current files, or quit Snapzy."
+          note = L10n.Recovery.repairFailed
         }
 
       case .reset:
@@ -316,11 +303,11 @@ class AppDelegate: NSObject, NSApplicationDelegate {
             return true
           case let .failure(error):
             currentError = error
-            note = "Reset moved the old database files aside, but Snapzy still could not create a fresh database."
+            note = L10n.Recovery.resetInitializationFailed
           }
         } catch {
           currentError = error
-          note = "Reset failed before Snapzy could create a fresh database."
+          note = L10n.Recovery.resetFailed
         }
 
       case .quit:
@@ -338,26 +325,18 @@ class AppDelegate: NSObject, NSApplicationDelegate {
 
     let alert = NSAlert()
     alert.alertStyle = .critical
-    alert.messageText = "Snapzy could not open its database."
+    alert.messageText = L10n.Recovery.databaseTitle
 
-    var informativeText = """
-      Snapzy needs this database for capture history and cloud upload records.
-
-      Database:
-      \(DatabaseManager.defaultDatabaseURL.path)
-
-      Error:
-      \(error.localizedDescription)
-      """
+    var informativeText = L10n.Recovery.databaseMessage(DatabaseManager.defaultDatabaseURL.path, error.localizedDescription)
     if let note {
       informativeText += "\n\n\(note)"
     }
-    informativeText += "\n\nTry a repair first. Reset starts with an empty database after moving the current database files into a recovery folder."
+    informativeText += "\n\n" + L10n.Recovery.databaseHint
     alert.informativeText = informativeText
 
-    alert.addButton(withTitle: "Try Repair")
-    alert.addButton(withTitle: "Reset Database...")
-    alert.addButton(withTitle: "Quit Snapzy")
+    alert.addButton(withTitle: L10n.Recovery.tryRepair)
+    alert.addButton(withTitle: L10n.Recovery.resetDatabaseEllipsis)
+    alert.addButton(withTitle: L10n.Menu.quitSnapzy)
 
     switch alert.runModal() {
     case .alertFirstButtonReturn:
@@ -372,20 +351,10 @@ class AppDelegate: NSObject, NSApplicationDelegate {
   private func confirmDatabaseReset(error: Error) -> Bool {
     let alert = NSAlert()
     alert.alertStyle = .critical
-    alert.messageText = "Reset Snapzy Database?"
-    alert.informativeText = """
-      Snapzy will move the current database files into a recovery folder, then create a new empty database.
-
-      This resets capture history and cloud upload history inside Snapzy. Capture files on disk and cloud files are not deleted.
-
-      Database:
-      \(DatabaseManager.defaultDatabaseURL.path)
-
-      Current error:
-      \(error.localizedDescription)
-      """
-    alert.addButton(withTitle: "Reset Database")
-    alert.addButton(withTitle: "Cancel")
+    alert.messageText = L10n.Recovery.resetTitle
+    alert.informativeText = L10n.Recovery.resetMessage(DatabaseManager.defaultDatabaseURL.path, error.localizedDescription)
+    alert.addButton(withTitle: L10n.Recovery.resetDatabase)
+    alert.addButton(withTitle: L10n.Common.cancel)
     return alert.runModal() == .alertFirstButtonReturn
   }
 

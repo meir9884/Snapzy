@@ -426,6 +426,482 @@
           }
         }
       }
+    },
+    "crash-report.recovery.retry-failed": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Previous attempt also failed. If this keeps happening, Start Fresh will let you use Snapzy without old data."
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "גם הניסיון הקודם נכשל. אם הבעיה נמשכת, התחלה מחדש תאפשר להשתמש ב־Snapzy ללא הנתונים הישנים."
+          }
+        }
+      }
+    },
+    "crash-report.recovery.skip-failed": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Could not mark migration as skipped: %@"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן לסמן את העברת הנתונים כדילוג: %@"
+          }
+        }
+      }
+    },
+    "crash-report.recovery.migration-title": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snapzy could not migrate your existing data."
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snapzy לא הצליח להעביר את הנתונים הקיימים."
+          }
+        }
+      }
+    },
+    "crash-report.recovery.migration-message": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snapzy needs to move data from the old sandboxed storage before opening the unsandboxed version.\n\nNo new database was opened yet, so your existing data has not been replaced.\n\nError:\n%@"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "על Snapzy להעביר נתונים מהאחסון הישן המבודד לפני פתיחת הגרסה שאינה מבודדת.\n\nעדיין לא נפתח מסד נתונים חדש, ולכן הנתונים הקיימים לא הוחלפו.\n\nשגיאה:\n%@"
+          }
+        }
+      }
+    },
+    "crash-report.recovery.migration-hint": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Try again if the error is temporary. Start Fresh launches Snapzy with default settings — your old data stays in the sandbox container and is not deleted."
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אם השגיאה זמנית, יש לנסות שוב. התחלה מחדש מפעילה את Snapzy בהגדרות ברירת המחדל — הנתונים הישנים נשארים במכל האחסון המבודד ואינם נמחקים."
+          }
+        }
+      }
+    },
+    "crash-report.recovery.try-again": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Try Again"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ניסיון נוסף"
+          }
+        }
+      }
+    },
+    "crash-report.recovery.start-fresh-ellipsis": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Start Fresh…"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "התחלה מחדש…"
+          }
+        }
+      }
+    },
+    "crash-report.recovery.start-fresh": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Start Fresh"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "התחלה מחדש"
+          }
+        }
+      }
+    },
+    "crash-report.recovery.fresh-title": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Start Fresh Without Old Data?"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "להתחיל מחדש ללא הנתונים הישנים?"
+          }
+        }
+      }
+    },
+    "crash-report.recovery.fresh-message": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snapzy will launch with default settings and an empty capture history.\n\nYour old data remains in the sandbox container and is not deleted. You can access it manually at:\n~/Library/Containers/%@\n\nCurrent error:\n%@"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snapzy יופעל בהגדרות ברירת המחדל ועם היסטוריית צילום ריקה.\n\nהנתונים הישנים נשארים במכל האחסון המבודד ואינם נמחקים. ניתן לגשת אליהם ידנית בנתיב:\n~/Library/Containers/%@\n\nהשגיאה הנוכחית:\n%@"
+          }
+        }
+      }
+    },
+    "crash-report.recovery.repair-failed": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Repair did not succeed. You can reset the database after backing up the current files, or quit Snapzy."
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "התיקון לא הצליח. ניתן לאפס את מסד הנתונים לאחר גיבוי הקבצים הנוכחיים, או לצאת מ־Snapzy."
+          }
+        }
+      }
+    },
+    "crash-report.recovery.reset-initialization-failed": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reset moved the old database files aside, but Snapzy still could not create a fresh database."
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "האיפוס העביר הצדה את קובצי מסד הנתונים הישנים, אך Snapzy עדיין לא הצליח ליצור מסד נתונים חדש."
+          }
+        }
+      }
+    },
+    "crash-report.recovery.reset-failed": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reset failed before Snapzy could create a fresh database."
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "האיפוס נכשל לפני יצירת מסד נתונים חדש."
+          }
+        }
+      }
+    },
+    "crash-report.recovery.database-title": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snapzy could not open its database."
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snapzy לא הצליח לפתוח את מסד הנתונים שלו."
+          }
+        }
+      }
+    },
+    "crash-report.recovery.database-message": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snapzy needs this database for capture history and cloud upload records.\n\nDatabase:\n%@\n\nError:\n%@"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "מסד הנתונים דרוש ל־Snapzy לצורך היסטוריית הצילומים ורשומות ההעלאה לענן.\n\nמסד הנתונים:\n%@\n\nשגיאה:\n%@"
+          }
+        }
+      }
+    },
+    "crash-report.recovery.database-hint": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Try a repair first. Reset starts with an empty database after moving the current database files into a recovery folder."
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "יש לנסות תחילה לתקן. האיפוס יתחיל במסד נתונים ריק לאחר העברת קובצי מסד הנתונים הנוכחיים לתיקיית שחזור."
+          }
+        }
+      }
+    },
+    "crash-report.recovery.try-repair": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Try Repair"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ניסיון תיקון"
+          }
+        }
+      }
+    },
+    "crash-report.recovery.reset-database-ellipsis": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reset Database..."
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "איפוס מסד הנתונים..."
+          }
+        }
+      }
+    },
+    "crash-report.recovery.reset-database": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reset Database"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "איפוס מסד הנתונים"
+          }
+        }
+      }
+    },
+    "crash-report.recovery.reset-title": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reset Snapzy Database?"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לאפס את מסד הנתונים של Snapzy?"
+          }
+        }
+      }
+    },
+    "crash-report.recovery.reset-message": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snapzy will move the current database files into a recovery folder, then create a new empty database.\n\nThis resets capture history and cloud upload history inside Snapzy. Capture files on disk and cloud files are not deleted.\n\nDatabase:\n%@\n\nCurrent error:\n%@"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snapzy יעביר את קובצי מסד הנתונים הנוכחיים לתיקיית שחזור וייצור מסד נתונים חדש וריק.\n\nהפעולה מאפסת את היסטוריית הצילומים וההעלאות לענן בתוך Snapzy. קובצי הצילום בכונן והקבצים בענן אינם נמחקים.\n\nמסד הנתונים:\n%@\n\nהשגיאה הנוכחית:\n%@"
+          }
+        }
+      }
+    },
+    "crash-report.recovery.directory-failed": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Could not create database directory at %@: %@"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן ליצור תיקייה למסד הנתונים בנתיב %@: %@"
+          }
+        }
+      }
+    },
+    "crash-report.recovery.database-open-failed": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Could not open or migrate database at %@: %@"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן לפתוח או להעביר את מסד הנתונים בנתיב %@: %@"
+          }
+        }
+      }
+    },
+    "crash-report.recovery.recovery-suggestion": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Try repairing the database, reset it after backing up the existing files, or quit Snapzy."
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "אפשר לנסות לתקן את מסד הנתונים, לאפס אותו לאחר גיבוי הקבצים הקיימים, או לצאת מ־Snapzy."
+          }
+        }
+      }
+    },
+    "crash-report.recovery.migration-paths-unavailable": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Could not resolve user Library paths for sandbox data migration."
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן לאתר את נתיבי תיקיית Library של המשתמש לצורך העברת הנתונים מהאחסון המבודד."
+          }
+        }
+      }
+    },
+    "crash-report.recovery.migration-identity-unavailable": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Could not resolve Snapzy bundle identifier for sandbox data migration."
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "לא ניתן לאתר את מזהה חבילת Snapzy לצורך העברת הנתונים מהאחסון המבודד."
+          }
+        }
+      }
+    },
+    "crash-report.recovery.key-encoding-failed": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Failed to encode the API key for Keychain storage"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קידוד מפתח ה־API לשמירה בצרור המפתחות נכשל"
+          }
+        }
+      }
+    },
+    "crash-report.recovery.key-save-failed": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Failed to save the API key to the Keychain (error %@)"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "שמירת מפתח ה־API בצרור המפתחות נכשלה (שגיאה %@)"
+          }
+        }
+      }
     }
   },
   "version": "1.0"

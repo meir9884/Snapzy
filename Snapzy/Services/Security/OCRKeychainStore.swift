@@ -23,9 +23,9 @@ enum OCRKeychainError: LocalizedError, Equatable {
   var errorDescription: String? {
     switch self {
     case .encodingFailed:
-      return "Failed to encode the API key for Keychain storage"
+      return L10n.Recovery.keyEncodingFailed
     case .saveFailed(let status):
-      return "Failed to save the API key to the Keychain (error \(status))"
+      return L10n.Recovery.keySaveFailed(String(status))
     }
   }
 }
