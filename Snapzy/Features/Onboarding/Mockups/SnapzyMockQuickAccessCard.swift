@@ -115,14 +115,14 @@ struct SnapzyMockQuickAccessCard: View {
 
           Spacer()
 
-          Text("Notes • 420 × 160")
+          Text(L10n.Demo.copy092)
             .font(.system(size: 5.5, weight: .medium, design: .monospaced))
             .foregroundStyle(Color.black.opacity(0.40))
         }
         .padding(.bottom, 0.5)
 
         // Note excerpt lines
-        Text("At the top, he sat in the keeper’s chair—the one he’d occupied during countless storms...")
+        Text(L10n.Demo.copy093)
           .font(.system(size: 6.5, weight: .regular))
           .foregroundStyle(Color(red: 0.15, green: 0.15, blue: 0.17))
           .lineSpacing(1.2)
@@ -160,7 +160,7 @@ struct SnapzyMockQuickAccessCard: View {
 
           Spacer()
 
-          Text("Finder • 440 × 260")
+          Text(L10n.Demo.copy094)
             .font(.system(size: 5.5, weight: .medium, design: .monospaced))
             .foregroundStyle(Color.black.opacity(0.40))
         }
@@ -245,7 +245,7 @@ struct SnapzyMockQuickAccessCard: View {
       VStack(spacing: 5) {
         centerTextButton(
           id: "copy",
-          title: "Copy",
+          title: L10n.Demo.copy095,
           shortcut: "⌘C"
         ) {
           onCopy?()
@@ -253,7 +253,7 @@ struct SnapzyMockQuickAccessCard: View {
 
         centerTextButton(
           id: "save",
-          title: "Save",
+          title: L10n.Demo.copy065,
           shortcut: "⌘S"
         ) {
           onSave?()
@@ -263,13 +263,13 @@ struct SnapzyMockQuickAccessCard: View {
       // Corner Slots: Delete, Dismiss, Annotate, Pin (matching QuickAccessActionSlot.cornerSlots defaults)
       VStack {
         HStack {
-          cornerIconButton(icon: "trash", tooltip: "Delete") {
+          cornerIconButton(icon: "trash", tooltip: L10n.Demo.copy096) {
             onDismiss?()
           }
 
           Spacer()
 
-          cornerIconButton(icon: "xmark", tooltip: "Dismiss") {
+          cornerIconButton(icon: "xmark", tooltip: L10n.Demo.copy097) {
             onDismiss?()
           }
         }
@@ -279,7 +279,7 @@ struct SnapzyMockQuickAccessCard: View {
         HStack {
           cornerIconButton(
             icon: isVideo ? "scissors" : "pencil.and.outline",
-            tooltip: isVideo ? "Edit Video (⌘E)" : "Annotate (⌘E)"
+            tooltip: isVideo ? L10n.Demo.copy098 : L10n.Demo.copy099
           ) {
             onAnnotate?()
           }
@@ -288,7 +288,7 @@ struct SnapzyMockQuickAccessCard: View {
 
           cornerIconButton(
             icon: isPinned ? "pin.slash.fill" : "pin.fill",
-            tooltip: isPinned ? "Unpin" : "Pin (⌘P)",
+            tooltip: isPinned ? L10n.Demo.copy100 : L10n.Demo.copy101,
             tint: isPinned ? Color.orange : Color.white
           ) {
             onTogglePin?()

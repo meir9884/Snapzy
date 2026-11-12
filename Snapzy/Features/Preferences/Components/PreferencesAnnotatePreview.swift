@@ -197,22 +197,22 @@ struct AnnotateSettingsPreview: View {
         .background(Circle().fill(Color.white.opacity(0.1)))
         .overlay(Circle().strokeBorder(Color.white.opacity(0.28), lineWidth: 0.75))
 
-      propertyLabel("Color")
+      propertyLabel(L10n.Demo.copy119)
       Circle().fill(Self.accent).frame(width: 11, height: 11)
       Circle().fill(Self.blue).frame(width: 11, height: 11)
 
       propertyDivider
-      propertyLabel("Stroke")
+      propertyLabel(L10n.Demo.copy120)
       slider(fraction: 0.25)
       propertyValue("4")
 
       propertyDivider
-      propertyLabel("Corners")
+      propertyLabel(L10n.Demo.copy121)
       slider(fraction: 0.2)
       propertyValue("5")
 
       propertyDivider
-      propertyLabel("Line Style")
+      propertyLabel(L10n.Demo.copy122)
       Capsule().fill(Color.white).frame(width: 12, height: 1.5)
         .frame(width: 22, height: 16)
         .background(
@@ -288,14 +288,14 @@ struct AnnotateSettingsPreview: View {
 
   private var sidebar: some View {
     VStack(alignment: .leading, spacing: 7) {
-      sidebarHeading("Presets")
+      sidebarHeading(L10n.Demo.copy123)
       HStack(spacing: 4) {
-        Text("None")
+        Text(L10n.Demo.copy124)
           .padding(.horizontal, 7)
           .frame(height: 18)
           .background(Capsule().fill(Color.white.opacity(0.08)))
         HStack(spacing: 3) {
-          Text("Select preset")
+          Text(L10n.Demo.copy125)
           Spacer(minLength: 0)
           Image(systemName: "chevron.down").font(.system(size: 6, weight: .semibold))
         }
@@ -308,13 +308,13 @@ struct AnnotateSettingsPreview: View {
       .fixedSize(horizontal: false, vertical: true)
       .foregroundStyle(Color.white.opacity(0.85))
 
-      sidebarHeading("Gradients").padding(.top, 3)
+      sidebarHeading(L10n.Demo.copy126).padding(.top, 3)
       swatchRow(Self.gradientSwatches.map { AnyShapeStyle(swatchGradient($0)) }, selected: nil)
 
-      sidebarHeading("Wallpapers").padding(.top, 3)
+      sidebarHeading(L10n.Demo.copy127).padding(.top, 3)
       swatchRow(Self.wallpaperSwatches.map { AnyShapeStyle(wallpaperGradient($0)) }, selected: 1)
 
-      sidebarHeading("Colors").padding(.top, 3)
+      sidebarHeading(L10n.Demo.copy128).padding(.top, 3)
       HStack(spacing: 6) {
         ForEach(Self.solidSwatches.indices, id: \.self) { index in
           Circle().fill(Self.solidSwatches[index]).frame(width: 12, height: 12)
@@ -417,7 +417,7 @@ struct AnnotateSettingsPreview: View {
       counterBadge(2)
         .offset(x: 2, y: 66)
 
-      Text("Click here")
+      Text(L10n.Demo.copy129)
         .font(.system(size: 9, weight: .bold, design: .rounded))
         .foregroundStyle(Self.paper)
         .fixedSize()

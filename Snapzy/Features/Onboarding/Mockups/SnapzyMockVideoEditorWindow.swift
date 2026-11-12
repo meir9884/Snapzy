@@ -95,12 +95,12 @@ struct SnapzyMockVideoEditorWindow: View {
 
       // Title & Specs
       VStack(spacing: 1.5) {
-        Text("Screen Recording 2026-09-09.mp4")
+        Text(L10n.Demo.copy103)
           .font(.system(size: 11, weight: .semibold))
           .foregroundStyle(Color.primary)
           .lineLimit(1)
 
-        Text("440 × 260 • 3.0s • 60 fps • 1.2 MB")
+        Text(L10n.Demo.copy104)
           .font(.system(size: 8.5, weight: .regular, design: .monospaced))
           .foregroundStyle(Color.primary.opacity(0.55))
       }
@@ -136,7 +136,7 @@ struct SnapzyMockVideoEditorWindow: View {
           Circle().fill(Color.yellow.opacity(0.8)).frame(width: 4, height: 4)
           Circle().fill(Color.green.opacity(0.8)).frame(width: 4, height: 4)
           Spacer()
-          Text("Finder — Documents")
+          Text(L10n.Demo.copy105)
             .font(.system(size: 6.5, weight: .medium))
             .foregroundStyle(Color.white.opacity(0.6))
           Spacer()
@@ -152,11 +152,11 @@ struct SnapzyMockVideoEditorWindow: View {
               Image(systemName: i == 0 ? "folder.fill" : "doc.text.fill")
                 .font(.system(size: 7))
                 .foregroundStyle(i == 0 ? Color.blue : Color.gray)
-              Text(["Snapzy Captures", "Roadmap.xlsx", "config.toml", "Demo.mp4"][i])
+              Text([L10n.Demo.copy003, L10n.Demo.copy106, "config.toml", L10n.Demo.copy107][i])
                 .font(.system(size: 7.5, weight: .regular))
                 .foregroundStyle(Color.white.opacity(0.85))
               Spacer()
-              Text(["Folder", "12 KB", "4 KB", "3.2 MB"][i])
+              Text([L10n.Demo.copy002, "12 KB", "4 KB", "3.2 MB"][i])
                 .font(.system(size: 6.5, design: .monospaced))
                 .foregroundStyle(Color.white.opacity(0.40))
             }
@@ -246,13 +246,13 @@ struct SnapzyMockVideoEditorWindow: View {
   private var timelineSection: some View {
     VStack(alignment: .leading, spacing: 4) {
       HStack {
-        Text("Timeline Track")
+        Text(L10n.Demo.copy108)
           .font(.system(size: 9, weight: .semibold))
           .foregroundStyle(Color.primary.opacity(0.65))
 
         Spacer()
 
-        Text("Trim: 0.0s – 3.0s")
+        Text(L10n.Demo.copy109)
           .font(.system(size: 8.5, weight: .medium, design: .monospaced))
           .foregroundStyle(Color.primary.opacity(0.55))
       }

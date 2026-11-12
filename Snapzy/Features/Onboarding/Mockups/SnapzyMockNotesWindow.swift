@@ -34,7 +34,7 @@ struct SnapzyMockNotesWindow: View, Equatable {
 
         // Center Title & Subtitle
         VStack(spacing: 0.5) {
-          Text("All iCloud")
+          Text(L10n.Demo.copy048)
             .font(.system(size: 11.5, weight: .semibold))
             .foregroundStyle(Color.black.opacity(0.88))
 
@@ -62,29 +62,29 @@ struct SnapzyMockNotesWindow: View, Equatable {
 
       // Note Prose Content
       VStack(alignment: .leading, spacing: 10) {
-        Text("18 August 2026 at 19:08")
+        Text(L10n.Demo.copy049)
           .font(.system(size: 9.5, weight: .regular))
           .foregroundStyle(Color.black.opacity(0.40))
           .frame(maxWidth: .infinity, alignment: .center)
           .padding(.top, 4)
 
-        Text("The beam swept across the dark water one final time. Marcus had kept the lighthouse for forty-three years, and tomorrow, automation would take over.")
+        Text(L10n.Demo.copy050)
           .font(.system(size: 11.5, weight: .regular))
           .foregroundStyle(Color(red: 0.15, green: 0.15, blue: 0.17))
           .lineSpacing(3.5)
 
-        Text("At the top, he sat in the keeper’s chair—the one he’d occupied during countless storms and ordinary mornings. The brass was worn smooth from his hands.")
+        Text(L10n.Demo.copy051)
           .font(.system(size: 11.5, weight: .regular))
           .foregroundStyle(Color(red: 0.15, green: 0.15, blue: 0.17))
           .lineSpacing(3.5)
 
-        Text("*Aug 18, 2026. Light burning true. Sea calm. Work complete.*")
+        Text(L10n.Demo.copy052)
           .font(.system(size: 11, weight: .regular))
           .italic()
           .foregroundStyle(Color(red: 0.20, green: 0.20, blue: 0.22))
           .lineSpacing(3)
 
-        Text("Marcus smiled. That was exactly as it should be.")
+        Text(L10n.Demo.copy053)
           .font(.system(size: 11.5, weight: .regular))
           .foregroundStyle(Color(red: 0.15, green: 0.15, blue: 0.17))
       }

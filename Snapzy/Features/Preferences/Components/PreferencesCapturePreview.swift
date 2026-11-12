@@ -732,7 +732,7 @@ struct CaptureSettingsPreview: View {
         recordingFormat.uppercased(),
         "\(fps) fps",
         quality.capitalized,
-        maxResolution == "auto" ? "Auto" : maxResolution,
+        maxResolution == "auto" ? L10n.Demo.copy110 : maxResolution,
       ]
     case .ocr:
       return []
@@ -845,9 +845,9 @@ private struct MockNotesWindow: View {
         .foregroundStyle(Self.secondaryInk)
         .padding(.leading, 4)
 
-      sidebarRow("All iCloud", count: 24, selected: false)
-      sidebarRow("Notes", count: 12, selected: true)
-      sidebarRow("Ideas", count: 5, selected: false)
+      sidebarRow(L10n.Demo.copy048, count: 24, selected: false)
+      sidebarRow(L10n.Demo.copy032, count: 12, selected: true)
+      sidebarRow(L10n.Demo.copy111, count: 5, selected: false)
 
       Spacer(minLength: 0)
     }
@@ -896,28 +896,28 @@ private struct MockNotesWindow: View {
       .padding(.top, 8)
       .padding(.trailing, 12)
 
-      Text("25 October 2026 at 09:41")
+      Text(L10n.Demo.copy112)
         .font(.system(size: 7.5))
         .foregroundStyle(Self.secondaryInk)
         .frame(maxWidth: .infinity)
         .padding(.top, 4)
 
       VStack(alignment: .leading, spacing: 5) {
-        Text("Launch checklist")
+        Text(L10n.Demo.copy113)
           .font(.system(size: 15, weight: .bold))
           .foregroundStyle(Self.ink)
           .padding(.bottom, 2)
 
-        Text("Ship the capture previews before the")
-        Text("weekly build, then share the changelog:")
+        Text(L10n.Demo.copy114)
+        Text(L10n.Demo.copy115)
 
         Text("snapzy.app/changelog")
           .foregroundStyle(highlightsLink ? Color.accentColor : Self.ink)
           .underline(highlightsLink)
 
-        checklistRow("Record the demo", done: true)
-        checklistRow("Update screenshots", done: false)
-        checklistRow("Post release notes", done: false)
+        checklistRow(L10n.Demo.copy116, done: true)
+        checklistRow(L10n.Demo.copy117, done: false)
+        checklistRow(L10n.Demo.copy118, done: false)
       }
       .font(.system(size: 9.5))
       .foregroundStyle(Self.ink)

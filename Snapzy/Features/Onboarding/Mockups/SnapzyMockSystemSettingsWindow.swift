@@ -61,7 +61,7 @@ struct SnapzyMockSystemSettingsWindow: View {
           Image(systemName: "magnifyingglass")
             .font(.system(size: 8.5))
             .foregroundStyle(Color.black.opacity(0.40))
-          Text("Search")
+          Text(L10n.Demo.copy066)
             .font(.system(size: 9.5))
             .foregroundStyle(Color.black.opacity(0.40))
           Spacer()
@@ -89,7 +89,7 @@ struct SnapzyMockSystemSettingsWindow: View {
           .padding(.vertical, 2.5)
           .background(RoundedRectangle(cornerRadius: 4).fill(Color.black.opacity(0.04)))
 
-          Text("Keyboard")
+          Text(L10n.Demo.copy045)
             .font(.system(size: 11.5, weight: .bold))
             .foregroundStyle(Color.black.opacity(0.85))
         }
@@ -115,10 +115,10 @@ struct SnapzyMockSystemSettingsWindow: View {
               .frame(width: 18, height: 18)
               .overlay(Image(systemName: "person.fill").font(.system(size: 8.5)).foregroundStyle(Color.gray))
             VStack(alignment: .leading, spacing: 0) {
-              Text("User Account")
+              Text(L10n.Demo.copy067)
                 .font(.system(size: 8.5, weight: .semibold))
                 .foregroundStyle(Color.black.opacity(0.75))
-              Text("Apple Account")
+              Text(L10n.Demo.copy068)
                 .font(.system(size: 7.5))
                 .foregroundStyle(Color.black.opacity(0.40))
             }
@@ -128,9 +128,9 @@ struct SnapzyMockSystemSettingsWindow: View {
 
           Rectangle().fill(Color.black.opacity(0.06)).frame(height: 0.5)
 
-          bgSidebarItem(icon: "sun.max.fill", title: "Displays", color: .blue)
-          bgSidebarItem(icon: "keyboard", title: "Keyboard", color: .gray, isSelected: true)
-          bgSidebarItem(icon: "gearshape.2.fill", title: "General", color: .gray)
+          bgSidebarItem(icon: "sun.max.fill", title: L10n.Demo.copy069, color: .blue)
+          bgSidebarItem(icon: "keyboard", title: L10n.Demo.copy045, color: .gray, isSelected: true)
+          bgSidebarItem(icon: "gearshape.2.fill", title: L10n.Demo.copy070, color: .gray)
           Spacer()
         }
         .frame(width: 125)
@@ -141,13 +141,13 @@ struct SnapzyMockSystemSettingsWindow: View {
         // Right background keyboard controls preview
         VStack(alignment: .leading, spacing: 14) {
           VStack(alignment: .leading, spacing: 4) {
-            Text("Key repeat rate")
+            Text(L10n.Demo.copy071)
               .font(.system(size: 9.5, weight: .medium))
               .foregroundStyle(Color.black.opacity(0.70))
             sliderTrackPreview
           }
           VStack(alignment: .leading, spacing: 4) {
-            Text("Delay until repeat")
+            Text(L10n.Demo.copy072)
               .font(.system(size: 9.5, weight: .medium))
               .foregroundStyle(Color.black.opacity(0.70))
             sliderTrackPreview
@@ -236,20 +236,20 @@ struct SnapzyMockSystemSettingsWindow: View {
   private var sheetCategoriesSidebar: some View {
     ScrollView(.vertical, showsIndicators: false) {
       VStack(alignment: .leading, spacing: 1.5) {
-        sheetCategoryRow(title: "Dock", icon: "dock.rectangle", isSelected: false)
-        sheetCategoryRow(title: "Display", icon: "sun.max.fill", isSelected: false)
-        sheetCategoryRow(title: "Mission Control", icon: "rectangle.split.2x1", isSelected: false)
-        sheetCategoryRow(title: "Windows", icon: "macwindow.on.rectangle", isSelected: false)
-        sheetCategoryRow(title: "Keyboard", icon: "keyboard", isSelected: false)
-        sheetCategoryRow(title: "Input Sources", icon: "character.cursor.ibeam", isSelected: false)
-        sheetCategoryRow(title: "Screenshots", icon: "camera.viewfinder", isSelected: true)
-        sheetCategoryRow(title: "Presenter Overlay", icon: "person.crop.square", isSelected: false)
-        sheetCategoryRow(title: "Services", icon: "gearshape.2", isSelected: false)
-        sheetCategoryRow(title: "Spotlight", icon: "magnifyingglass", isSelected: false)
-        sheetCategoryRow(title: "Accessibility", icon: "figure.walk.circle", isSelected: false)
-        sheetCategoryRow(title: "App Shortcuts", icon: "slider.horizontal.3", isSelected: false)
-        sheetCategoryRow(title: "Function Keys", icon: "f.cursive", isSelected: false)
-        sheetCategoryRow(title: "Modifier Keys", icon: "command", isSelected: false)
+        sheetCategoryRow(title: L10n.Demo.copy073, icon: "dock.rectangle", isSelected: false)
+        sheetCategoryRow(title: L10n.Demo.copy074, icon: "sun.max.fill", isSelected: false)
+        sheetCategoryRow(title: L10n.Demo.copy075, icon: "rectangle.split.2x1", isSelected: false)
+        sheetCategoryRow(title: L10n.Demo.copy076, icon: "macwindow.on.rectangle", isSelected: false)
+        sheetCategoryRow(title: L10n.Demo.copy045, icon: "keyboard", isSelected: false)
+        sheetCategoryRow(title: L10n.Demo.copy077, icon: "character.cursor.ibeam", isSelected: false)
+        sheetCategoryRow(title: L10n.Demo.copy046, icon: "camera.viewfinder", isSelected: true)
+        sheetCategoryRow(title: L10n.Demo.copy078, icon: "person.crop.square", isSelected: false)
+        sheetCategoryRow(title: L10n.Demo.copy079, icon: "gearshape.2", isSelected: false)
+        sheetCategoryRow(title: L10n.Demo.copy080, icon: "magnifyingglass", isSelected: false)
+        sheetCategoryRow(title: L10n.Demo.copy081, icon: "figure.walk.circle", isSelected: false)
+        sheetCategoryRow(title: L10n.Demo.copy082, icon: "slider.horizontal.3", isSelected: false)
+        sheetCategoryRow(title: L10n.Demo.copy083, icon: "f.cursive", isSelected: false)
+        sheetCategoryRow(title: L10n.Demo.copy084, icon: "command", isSelected: false)
       }
       .padding(.vertical, 5)
     }
@@ -283,7 +283,7 @@ struct SnapzyMockSystemSettingsWindow: View {
       // Top helper note (exact wording from macOS System Settings)
       VStack(alignment: .leading, spacing: 3) {
         HStack {
-          Text("To change a shortcut, double click the key combination, and then type the new keys.")
+          Text(L10n.Demo.copy085)
             .font(.system(size: 9, weight: .regular))
             .foregroundStyle(Color.black.opacity(0.55))
             .lineLimit(2)
@@ -347,7 +347,7 @@ struct SnapzyMockSystemSettingsWindow: View {
         // 1. Fullscreen to file (⇧⌘3) - Conflict with Snapzy Fullscreen
         shortcutItemRow(
           id: "screen",
-          title: "Save picture of screen as a file",
+          title: L10n.Demo.copy086,
           keys: "⇧⌘3",
           isChecked: hasFullscreenConflict,
           hasConflict: hasFullscreenConflict
@@ -361,7 +361,7 @@ struct SnapzyMockSystemSettingsWindow: View {
         // 2. Fullscreen to clipboard (⌃⇧⌘3)
         shortcutItemRow(
           id: "copyScreen",
-          title: "Copy picture of screen to the clipboard",
+          title: L10n.Demo.copy087,
           keys: "⌃⇧⌘3",
           isChecked: false,
           hasConflict: false
@@ -370,7 +370,7 @@ struct SnapzyMockSystemSettingsWindow: View {
         // 3. Selected area to file (⇧⌘4) - Conflict with Snapzy Area
         shortcutItemRow(
           id: "area",
-          title: "Save picture of selected area as a file",
+          title: L10n.Demo.copy088,
           keys: "⇧⌘4",
           isChecked: hasAreaConflict,
           hasConflict: hasAreaConflict
@@ -384,7 +384,7 @@ struct SnapzyMockSystemSettingsWindow: View {
         // 4. Selected area to clipboard (⌃⇧⌘4)
         shortcutItemRow(
           id: "copyArea",
-          title: "Copy picture of selected area to the clipboard",
+          title: L10n.Demo.copy089,
           keys: "⌃⇧⌘4",
           isChecked: false,
           hasConflict: false
@@ -393,7 +393,7 @@ struct SnapzyMockSystemSettingsWindow: View {
         // 5. Screenshot and recording options (⇧⌘5) - Conflict with Snapzy Recording
         shortcutItemRow(
           id: "recording",
-          title: "Screenshot and recording options",
+          title: L10n.Demo.copy090,
           keys: "⇧⌘5",
           isChecked: hasRecordingConflict,
           hasConflict: hasRecordingConflict
@@ -526,7 +526,7 @@ struct SnapzyMockSystemSettingsWindow: View {
       }
       .buttonStyle(.plain)
       .onHover { h in isOpenSettingsHovered = h }
-      .help("Open macOS System Settings → Keyboard → Keyboard Shortcuts → Screenshots")
+      .help(L10n.Demo.copy091)
 
       Spacer()
 

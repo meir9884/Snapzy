@@ -16,17 +16,17 @@ enum SnapzyMockApp: Equatable {
 
   var menuTitle: String {
     switch self {
-    case .notes: return "Notes"
+    case .notes: return L10n.Demo.copy032
     case .finder: return "Finder"
-    case .settings: return "System Settings"
+    case .settings: return L10n.Demo.copy033
     }
   }
 
   var menus: [String] {
     switch self {
-    case .notes: return ["File", "Edit", "Format", "View", "Window", "Help"]
-    case .finder: return ["File", "Edit", "View", "Go", "Window", "Help"]
-    case .settings: return ["Edit", "View", "Window", "Help"]
+    case .notes: return [L10n.Demo.copy034, L10n.Demo.copy035, L10n.Demo.copy036, L10n.Demo.copy037, L10n.Demo.copy038, L10n.Demo.copy039]
+    case .finder: return [L10n.Demo.copy034, L10n.Demo.copy035, L10n.Demo.copy037, L10n.Demo.copy040, L10n.Demo.copy038, L10n.Demo.copy039]
+    case .settings: return [L10n.Demo.copy035, L10n.Demo.copy037, L10n.Demo.copy038, L10n.Demo.copy039]
     }
   }
 
@@ -37,8 +37,8 @@ enum SnapzyMockApp: Equatable {
         .init(text: "t For style"),
         .init(text: "Snapzy"),
         .init(text: "4 . . . 1 . . . 1", size: 30, weight: .heavy, opacity: 0.040),
-        .init(text: "Notes"),
-        .init(text: "Studio", opacity: 0.040),
+        .init(text: L10n.Demo.copy032),
+        .init(text: L10n.Demo.copy041, opacity: 0.040),
         .init(text: "Mac 26"),
       ]
     case .finder:
@@ -47,17 +47,17 @@ enum SnapzyMockApp: Equatable {
         .init(text: "Finder"),
         .init(text: "Snapzy", size: 30, weight: .heavy, opacity: 0.040),
         .init(text: "Mac 26"),
-        .init(text: "Studio", opacity: 0.040),
-        .init(text: "Capture", opacity: 0.040),
+        .init(text: L10n.Demo.copy041, opacity: 0.040),
+        .init(text: L10n.Demo.copy042, opacity: 0.040),
       ]
     case .settings:
       return [
-        .init(text: "Settings"),
-        .init(text: "Shortcuts"),
+        .init(text: L10n.Demo.copy043),
+        .init(text: L10n.Demo.copy044),
         .init(text: "Snapzy", size: 30, weight: .heavy, opacity: 0.040),
-        .init(text: "Keyboard"),
+        .init(text: L10n.Demo.copy045),
         .init(text: "macOS 26", opacity: 0.040),
-        .init(text: "Screenshots", opacity: 0.040),
+        .init(text: L10n.Demo.copy046, opacity: 0.040),
       ]
     }
   }
@@ -189,7 +189,7 @@ struct SnapzyMockMenuBar: View, Equatable {
               .font(.system(size: 11.5))
           }
 
-          Text("9:41 AM")
+          Text(L10n.Demo.copy047)
             .font(.system(size: 10.5, weight: .medium))
         }
         .font(.system(size: 10.5, weight: .regular))

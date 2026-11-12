@@ -65,11 +65,11 @@ struct SnapzyMockShortcutsView: View {
   private var shortcutHUDCapsule: some View {
     VStack(spacing: 8) {
       HStack(spacing: 10) {
-        shortcutButton(mode: "Area", keys: ["⇧", "⌘", "4"], icon: "viewfinder")
+        shortcutButton(mode: L10n.Demo.copy020, keys: ["⇧", "⌘", "4"], icon: "viewfinder")
         divider
-        shortcutButton(mode: "Full", keys: ["⇧", "⌘", "3"], icon: "macwindow")
+        shortcutButton(mode: L10n.Demo.copy021, keys: ["⇧", "⌘", "3"], icon: "macwindow")
         divider
-        shortcutButton(mode: "Record", keys: ["⇧", "⌘", "5"], icon: "record.circle")
+        shortcutButton(mode: L10n.Demo.copy022, keys: ["⇧", "⌘", "5"], icon: "record.circle")
       }
       .padding(.horizontal, 14)
       .padding(.vertical, 8)

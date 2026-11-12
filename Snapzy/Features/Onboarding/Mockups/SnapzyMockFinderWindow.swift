@@ -22,11 +22,11 @@ struct SnapzyMockFinderWindow: View, Equatable {
   }
 
   private static let items: [FinderRowItem] = [
-    FinderRowItem(name: "Design Systems", dateModified: "Today, 1:52 PM", size: "--", kind: "Folder", isFolder: true),
-    FinderRowItem(name: "Snapzy Captures", dateModified: "Today, 10:14 AM", size: "--", kind: "Folder", isFolder: true),
-    FinderRowItem(name: "Product Roadmap.xlsx", dateModified: "Yesterday", size: "12.4 MB", kind: "Excel Document", isFolder: false),
-    FinderRowItem(name: "config.toml", dateModified: "Aug 18, 2026", size: "4 KB", kind: "TOML Configuration", isFolder: false),
-    FinderRowItem(name: "Release_Notes.md", dateModified: "Aug 15, 2026", size: "18 KB", kind: "Markdown", isFolder: false),
+    FinderRowItem(name: L10n.Demo.copy000, dateModified: L10n.Demo.copy001, size: "--", kind: L10n.Demo.copy002, isFolder: true),
+    FinderRowItem(name: L10n.Demo.copy003, dateModified: L10n.Demo.copy004, size: "--", kind: L10n.Demo.copy002, isFolder: true),
+    FinderRowItem(name: L10n.Demo.copy005, dateModified: L10n.Demo.copy006, size: "12.4 MB", kind: L10n.Demo.copy007, isFolder: false),
+    FinderRowItem(name: "config.toml", dateModified: L10n.Demo.copy008, size: "4 KB", kind: L10n.Demo.copy009, isFolder: false),
+    FinderRowItem(name: "Release_Notes.md", dateModified: L10n.Demo.copy010, size: "18 KB", kind: "Markdown", isFolder: false),
   ]
 
   var body: some View {
@@ -68,13 +68,13 @@ struct SnapzyMockFinderWindow: View, Equatable {
       .padding(.bottom, 10)
 
       VStack(alignment: .leading, spacing: 1) {
-        sidebarSectionHeader("Favorites")
+        sidebarSectionHeader(L10n.Demo.copy011)
 
-        sidebarRow(title: "Applications", icon: "app.badge", isSelected: false)
-        sidebarRow(title: "Desktop", icon: "menubar.dock.rectangle", isSelected: true)
-        sidebarRow(title: "Documents", icon: "doc", isSelected: false)
-        sidebarRow(title: "Downloads", icon: "arrow.down.circle", isSelected: false)
-        sidebarRow(title: "Developer", icon: "hammer", isSelected: false)
+        sidebarRow(title: L10n.Demo.copy012, icon: "app.badge", isSelected: false)
+        sidebarRow(title: L10n.Demo.copy013, icon: "menubar.dock.rectangle", isSelected: true)
+        sidebarRow(title: L10n.Demo.copy014, icon: "doc", isSelected: false)
+        sidebarRow(title: L10n.Demo.copy015, icon: "arrow.down.circle", isSelected: false)
+        sidebarRow(title: L10n.Demo.copy016, icon: "hammer", isSelected: false)
       }
       .padding(.horizontal, 6)
 
@@ -127,7 +127,7 @@ struct SnapzyMockFinderWindow: View, Equatable {
             .foregroundStyle(Color.black.opacity(0.18))
         }
 
-        Text("Desktop")
+        Text(L10n.Demo.copy013)
           .font(.system(size: 12, weight: .bold))
           .foregroundStyle(Color.black.opacity(0.85))
 
@@ -154,14 +154,14 @@ struct SnapzyMockFinderWindow: View, Equatable {
 
       // Column Headers
       HStack(spacing: 0) {
-        Text("Name")
+        Text(L10n.Demo.copy017)
           .frame(maxWidth: .infinity, alignment: .leading)
           .padding(.leading, 12)
 
-        Text("Date Modified")
+        Text(L10n.Demo.copy018)
           .frame(width: 100, alignment: .leading)
 
-        Text("Size")
+        Text(L10n.Demo.copy019)
           .frame(width: 55, alignment: .trailing)
           .padding(.trailing, 8)
       }

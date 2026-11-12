@@ -195,7 +195,7 @@ struct SnapzyMockQuickAccessView: View {
               .font(.system(size: 13, weight: .semibold))
               .foregroundStyle(Color.red)
 
-            Text("Simulate ⇧⌘5 Area Selection")
+            Text(L10n.Demo.copy024)
               .font(.system(size: 11.5, weight: .semibold))
               .lineLimit(1)
               .fixedSize(horizontal: true, vertical: false)
@@ -235,7 +235,7 @@ struct SnapzyMockQuickAccessView: View {
             state.simulateStartRecording()
           },
           onCapture: {
-            triggerFeedback("Snapshot taken")
+            triggerFeedback(L10n.Demo.copy025)
           },
           onCancel: {
             state.resetStep2Flow()
@@ -272,7 +272,7 @@ struct SnapzyMockQuickAccessView: View {
           VStack(alignment: .leading, spacing: 4) {
             // Curved hint arrow pointing down to the card
             SnapzyCurvedHintArrow(
-              text: "Click card to open Video Editor",
+              text: L10n.Demo.copy026,
               orientation: .curveDownToTarget,
               arrowAlignment: .leading,
               color: .white
@@ -285,10 +285,10 @@ struct SnapzyMockQuickAccessView: View {
               isVideo: true,
               durationText: "00:03",
               onCopy: {
-                triggerFeedback("Copied Video (⌘C)")
+                triggerFeedback(L10n.Demo.copy027)
               },
               onSave: {
-                triggerFeedback("Saved to Desktop (⌘S)")
+                triggerFeedback(L10n.Demo.copy028)
               },
               onAnnotate: {
                 state.openVideoEditorFromQuickAccess()
@@ -297,7 +297,7 @@ struct SnapzyMockQuickAccessView: View {
                 withAnimation(SnapzyMotionPreferences.shared.spec(.settle).animation) {
                   state.isCardPinned.toggle()
                 }
-                triggerFeedback(state.isCardPinned ? "Pinned on Screen (⌘P)" : "Unpinned")
+                triggerFeedback(state.isCardPinned ? L10n.Demo.copy029 : L10n.Demo.copy030)
               },
               onDismiss: {
                 state.resetStep2Flow()
@@ -326,7 +326,7 @@ struct SnapzyMockQuickAccessView: View {
             state.resetStep2Flow()
           },
           onExport: {
-            triggerFeedback("Exported MP4 (⌘S)")
+            triggerFeedback(L10n.Demo.copy031)
             state.completeChallenge(.openVideoEditor)
           }
         )

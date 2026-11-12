@@ -194,17 +194,17 @@ struct SnapzyMockAreaCaptureView: View {
             SnapzyMockQuickAccessCard(
               isPinned: state.isCardPinned,
               onCopy: {
-                showToast("Copied to Clipboard (⌘C)")
+                showToast(L10n.Demo.copy102)
               },
               onSave: {
-                showToast("Saved to Desktop (⌘S)")
+                showToast(L10n.Demo.copy028)
               },
               onAnnotate: {
                 state.openAnnotateFromQuickAccess()
               },
               onTogglePin: {
                 state.isCardPinned.toggle()
-                showToast(state.isCardPinned ? "Pinned on Screen (⌘P)" : "Unpinned")
+                showToast(state.isCardPinned ? L10n.Demo.copy029 : L10n.Demo.copy030)
               },
               onDismiss: {
                 state.resetStep1Flow()
@@ -306,18 +306,18 @@ struct SnapzyMockAreaCaptureView: View {
       Color.white
 
       VStack(alignment: .leading, spacing: 8) {
-        Text("18 August 2026 at 19:08")
+        Text(L10n.Demo.copy049)
           .font(.system(size: 9, weight: .regular))
           .foregroundStyle(Color.black.opacity(0.40))
           .frame(maxWidth: .infinity, alignment: .center)
           .padding(.top, 2)
 
-        Text("The beam swept across the dark water one final time. Marcus had kept the lighthouse for forty-three years, and tomorrow, automation would take over.")
+        Text(L10n.Demo.copy050)
           .font(.system(size: 11, weight: .regular))
           .foregroundStyle(Color(red: 0.15, green: 0.15, blue: 0.17))
           .lineSpacing(3)
 
-        Text("At the top, he sat in the keeper’s chair—the one he’d occupied during countless storms and ordinary mornings. The brass was worn smooth from his hands.")
+        Text(L10n.Demo.copy051)
           .font(.system(size: 11, weight: .regular))
           .foregroundStyle(Color(red: 0.15, green: 0.15, blue: 0.17))
           .lineSpacing(3)

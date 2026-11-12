@@ -61,7 +61,7 @@ struct SnapzyMockPrerecordToolbar: View {
 
         // Options dropdown
         HStack(spacing: 3) {
-          Text("Options")
+          Text(L10n.Demo.copy023)
             .font(.system(size: 11, weight: .regular))
           Image(systemName: "chevron.down")
             .font(.system(size: 7.5, weight: .bold))

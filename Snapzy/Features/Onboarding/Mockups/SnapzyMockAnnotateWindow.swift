@@ -60,28 +60,28 @@ struct SnapzyMockAnnotateWindow: View {
 
       // Left Capture Tools: Crop & Sidebar
       HStack(spacing: 2.5) {
-        toolbarTool("crop", tooltip: "Crop")
-        toolbarTool("rectangle.on.rectangle", tooltip: "Sidebar")
+        toolbarTool("crop", tooltip: L10n.Demo.copy054)
+        toolbarTool("rectangle.on.rectangle", tooltip: L10n.Demo.copy055)
       }
 
       divider
 
       // Main Annotation Tools
       HStack(spacing: 2.5) {
-        toolbarTool("arrow.up.right", tooltip: "Arrow", isSelected: true)
-        toolbarTool("rectangle", tooltip: "Rectangle")
-        toolbarTool("1.circle.fill", tooltip: "Counter")
-        toolbarTool("checkerboard.rectangle", tooltip: "Blur")
-        toolbarTool("textformat", tooltip: "Text")
-        toolbarTool("pencil.tip", tooltip: "Pen")
+        toolbarTool("arrow.up.right", tooltip: L10n.Demo.copy056, isSelected: true)
+        toolbarTool("rectangle", tooltip: L10n.Demo.copy057)
+        toolbarTool("1.circle.fill", tooltip: L10n.Demo.copy058)
+        toolbarTool("checkerboard.rectangle", tooltip: L10n.Demo.copy059)
+        toolbarTool("textformat", tooltip: L10n.Demo.copy060)
+        toolbarTool("pencil.tip", tooltip: L10n.Demo.copy061)
       }
 
       divider
 
       // Undo / Redo
       HStack(spacing: 2.5) {
-        toolbarTool("arrow.uturn.backward", tooltip: "Undo")
-        toolbarTool("arrow.uturn.forward", tooltip: "Redo", isEnabled: false)
+        toolbarTool("arrow.uturn.backward", tooltip: L10n.Demo.copy062)
+        toolbarTool("arrow.uturn.forward", tooltip: L10n.Demo.copy063, isEnabled: false)
       }
 
       Spacer(minLength: 6)
@@ -92,7 +92,7 @@ struct SnapzyMockAnnotateWindow: View {
           HStack(spacing: 3) {
             Image(systemName: "arrow.counterclockwise")
               .font(.system(size: 8.5, weight: .bold))
-            Text("Replay")
+            Text(L10n.Demo.copy064)
               .font(.system(size: 9.5, weight: .semibold))
               .lineLimit(1)
               .fixedSize(horizontal: true, vertical: false)
@@ -117,7 +117,7 @@ struct SnapzyMockAnnotateWindow: View {
         HStack(spacing: 3.5) {
           Image(systemName: "arrow.down.to.line")
             .font(.system(size: 9, weight: .bold))
-          Text("Save")
+          Text(L10n.Demo.copy065)
             .font(.system(size: 9.5, weight: .semibold))
             .lineLimit(1)
             .fixedSize(horizontal: true, vertical: false)
@@ -173,12 +173,12 @@ struct SnapzyMockAnnotateWindow: View {
         Color.white
 
         VStack(alignment: .leading, spacing: 6) {
-          Text("At the top, he sat in the keeper’s chair—the one he’d occupied during countless storms and ordinary mornings. The brass was worn smooth from his hands.")
+          Text(L10n.Demo.copy051)
             .font(.system(size: 11, weight: .regular))
             .foregroundStyle(Color(red: 0.15, green: 0.15, blue: 0.17))
             .lineSpacing(3)
 
-          Text("*Aug 18, 2026. Light burning true. Sea calm. Work complete.*")
+          Text(L10n.Demo.copy052)
             .font(.system(size: 10.5, weight: .regular))
             .italic()
             .foregroundStyle(Color(red: 0.25, green: 0.25, blue: 0.28))

@@ -8,6 +8,10 @@ on:
 permissions:
   contents: read
 
+concurrency:
+  group: hebrew-installer-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   installer:
     runs-on: macos-15
